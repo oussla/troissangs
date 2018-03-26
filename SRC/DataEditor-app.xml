@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><application xmlns="http://ns.adobe.com/air/application/1.0">
+
+  <id>com.thequest.epist.dataeditor.DataEditor</id>
+
+  <version>0.1.0.4</version>
+
+  <filename>DataEditor</filename>
+
+  <description>Editeur de l'Anthologie "Chants de la Terre aux Trois Sangs"</description>
+
+  <name>DataEditor</name>
+
+  <copyright>The Quest, 2009</copyright>
+
+  <initialWindow>
+    <content>DataEditor.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <maximizable>true</maximizable>
+    <minimizable>true</minimizable>
+    <resizable>false</resizable>
+  </initialWindow>
+
+  <icon>
+    <image128x128>assets/icons/icon_128.png</image128x128>
+    <image48x48>assets/icons/icon_48.png</image48x48>
+    <image32x32>assets/icons/icon_32.png</image32x32>
+    <image16x16>assets/icons/icon_16.png</image16x16>
+  </icon>
+
+  <customUpdateUI>false</customUpdateUI>
+
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+
+  <installFolder>epistemes/dataeditor</installFolder>
+
+</application>
