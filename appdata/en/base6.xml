@@ -1,0 +1,3112 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!--  Edited with SCD Editor v. 3.17e -->
+<!DOCTYPE articleSCDV3 SYSTEM 'articleSCDV3.dtd'>
+<ARTICLE id="6">
+	<TITRE><![CDATA[Musical Instruments]]></TITRE>
+	<ID>6</ID>
+	<LANGUE>1</LANGUE>
+	<ANNEE_PUBLICATION></ANNEE_PUBLICATION>
+	<NOM_EDITEUR></NOM_EDITEUR>
+	<VILLE_EDITEUR></VILLE_EDITEUR>
+	<PAYS_EDITEUR></PAYS_EDITEUR>
+	<NOM_OUVRAGE></NOM_OUVRAGE>
+	<NOM_COLLECTION></NOM_COLLECTION>
+	<AUTEURS></AUTEURS>
+	<RESUME></RESUME>
+	<MOTS_CLEFS></MOTS_CLEFS>
+	<ETAPE id="3">
+		<TITRE><![CDATA[General.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="23">
+			<TITRE><![CDATA[Instrumental and vocal music rarely mix in the Toraja language.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Each has its place, usages, and functions, which are separate in space and time. Now only residual, the different types of instrumental music are played solely for localized prophylactic or curative rituals. However, vocal music is sung at most of the great family or village rituals that punctuate Toraja life.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>1</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[One-stringed fiddle at the <i>pakorong</i> ritual, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1382.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="25">
+			<TITRE><![CDATA[Almost all the instruments have disappeared today.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Musical instruments do not generally play a part in the daily life of the Toraja. Of the twenty-four instruments listed below, only eight are still played –most often to mark rituals only. The table lists those instruments once in use.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>2</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Table of instruments, grouped by family. The idiophones and membranophones predominate; no stringed instruments are commonly used in the present day; in the wind family, only the flute (<i>suling</i>) and horns (<i>pompang</i>) are still played.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TABLEAUX\en\INSTRUM.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="26">
+			<TITRE><![CDATA[Classification of instruments by rituals.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The Toraja classify their musical instruments solely according to the rituals in which they appear. After the name of the instrument, they add <i>deata</i> (‘divinity’) to indicate whether the instrument is used in the rituals of the East or of the West. In the East, they speak of <i>suling</i> <i>deata</i> (‘flutes of the divinities’) or <i>gandang</i> <i>deata</i> (‘drums of the divinities’).]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>3</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Table of instruments, classified by ritual. Drums, flutes and fiddles were used in rituals, from both the West and the East, in different repertoires.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TABLEAUX\en\INSTRUM ET RITUEL.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="43">
+			<TITRE><![CDATA[The officiants are designated through the names of musical instruments.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The symbolic charge given to a musical instrument does not correspond to its actual musical use. Most of the instruments are absent from both ritual and daily life, except for the drum and gong which themselves are never or hardly ever used musically.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>4</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[From <i>Gelong</i> <i>Maro</i>, recited at the <i>maro</i> ritual by the officiants, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TEXTES\en\BOMBONGAN.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="1">
+		<TITRE><![CDATA[The <i>gandang</i> drum.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="2">
+			<TITRE><![CDATA[The <i>gandang</i> drum is a ceremonial instrument.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The double-headed drum (<i>gandang</i>) with two buffalo-skin membranes, is cylindrical, with nailed heads; it is made from wood, either <i>uru</i> (<i>Michelia</i> <i>celebica</i>) or <i>karurung</i> ‘inside the palm’(<i>Borassus</i>). It is associated with the palm wine harvest: the trunk of the <i>induk</i> tree (<i>Arenga</i> <i>Pinnata</i>) must be tapped to obtain palm wine (<i>tuak</i>, <i>ballo’</i>). The drum is thus also made from old wine trees. It is kept hanging in the rice granary or house and is used only in rituals. When it is played it is placed on the ground, and its movement indicates occasions for sacrifices. It is not tuned.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>5</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[<i>Gandang</i> drums hanging from a Toraja house, Mamasa, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG MAISON\0313.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="68">
+				<TITRE><![CDATA[Residence.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Attached to the houses or rice granary, alone, in pairs or fours (Mamasa).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Drum hanging from rice granary.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG MAISON\2070.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A pair of drums hanging from a rice rice granary. Pangleon, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG MAISON\0304.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A pair of drums hanging.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\2297.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Drum hanging from façade of a house.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG MAISON\0305.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Hanging.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG MAISON\0314.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Drum hanging from a façade, next to buffalo horns.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG MAISON\0442.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Next to the gong, during the funeral. To' Barana', 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG MAISON\0453.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Hanging in fours, Mamasa region.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG MAISON\0302.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Hanging in fours, Mamasa region.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG MAISON\0318.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="69">
+				<TITRE><![CDATA[Other drums from Southern Sulawesi.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The Toraja <i>gandang</i> is different from the neighboring Makassar and Bugis drums, both in form and playing technique. Nonetheless, the two-headed drum is widespread everywhere in South Sulawesi, alongside other drums of Muslim origin such as the <i>rebana</i> (frame drum).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Set of two Bugis drums (<i>gendang</i>), Labuanpatu, Sengkang, 1991. Recorded with Serge Sérafini.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CELEBESSUD\0196.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\GBU.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Drum (<i>gendang</i>) of the Kajang at Tana Toa, Bulukumba, Makassar region, South Sulawesi. Two-headed drum. Sound example: Kelong Jaga Lea-Lea (Chorus, soloist and <i>gendang</i> drum) recorded in 1991 by S. Serafini.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\KAJANG\1989.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\GTT.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Rebana</i> (frame drum) accompanying a marriage song (batti'-batti'), Selayar Island, extreme south of Sulawesi, 1991. Singers: Oma, Nurbaiti. <i>Rebana</i> player: Sarifuddin. Recorded by Serge Sérafini.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CELEBESSUD\0188.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\BT.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="8">
+			<TITRE><![CDATA[The <i>gandang</i> drum is played in different ways.]]></TITRE>
+			<COMMENTAIRE><![CDATA[During playing, the drums may be suspended or may (at Mamasa) rest on the ground. Of various sizes, they can be grouped in three configurations –in ones, twos, or fours, and can be struck by one, two, or four players, who beat in interlocking patterns with a drumstick, or by hand. The drums are organized in pairs: a ‘woman’and ‘a man’. One pair is reserved for the rituals of the West and the other for those of the East.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>6</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG GELLU\0265.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\GP\GP1.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="11">
+				<TITRE><![CDATA[Configurations of drummers.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Four men beating two drums, from Pana, to the west, <i>ma’kurre</i> <i>sumanga'</i> ritual, Tiroan, 1993]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG GELLU\2141.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\GP\GP2.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Another rhythm played by the same group of drummers. Bittuang, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG GELLU\1515.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\GP\GP4.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Four children beating a single drum. Last day of the maro (Torea, November 1993). The drum accompanies the <i>gellu’</i> dancers seen in the background.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\MAPASANB\1958.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\PM\PM7.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Three children beating a drum.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG GELLU\0316.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Small and large.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG GELLU\0301.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A woman plays four hanging drums, at Mamasa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\2367.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A <i>gandang</i> drum strick alone during a funeral ritual at Bokko, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\2076.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="70">
+				<TITRE><![CDATA[Video sequences.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The drum is played by three players (<i>to</i> <i>ma'gandang</i>). Each has a defined role. The drum accompanies the dance.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: Drums for three, at Tampan Bonga, Sesean, September 2001. Sequence included out of context.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S21.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: The <i>ma'</i> <i>dara'pi'</i> rhythmic pattern: ‘quickly striking with two blows in turn’.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S23.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: The beat <i>mapasalai</i> de <i>pasala</i> ‘paddy field furrow deviated to avoid flooding’.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S24.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: The beat <i>mangindo’i</i>. From the root <i>indo'</i> ‘mother’. In the musical field ‘beat between’or ‘sing between’the voices; he who uses this beat directs the whole group.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S25.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="3">
+			<TITRE><![CDATA[The drum is used as a signalling instrument in the rituals of the West.]]></TITRE>
+			<COMMENTAIRE><![CDATA[In the funeral ritual, the drum announces the symbolic death of the deceased. If there is no drum, a rectangular rice mortar (<i>issong</i>) –pounded, beaten in cadence by several women –will be used as a drum to welcome the guests. It is then said, ‘it resounds like a drum’(<i>digandangi</i>). In the north three rhythmic motifs are played at the beginning of the celebration.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>7</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>S49.flv</ADRESSE>
+						<TYPE>VIDEO</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="1">
+				<TITRE><![CDATA[First rhythmic motif.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The first rhythm informs all within a wide range that a being of great nobility will be celebrated with the grandest pomp. Played continuously, the rhythm is known as <i>digento</i> <i>tedong</i> ‘lame buffalo’. Symbolically, this rhythm signifies that the deceased is ‘ill’but still not dead, though in fact dead long since. At the beginning of the first funeral it is played twice.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The drum rhythm <i>gento</i> <i>tedong</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATION GANDANG\GENTOTEDONG.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="3">
+				<TITRE><![CDATA[Second rhythmic motif.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Then another beat announces the deceased’s death (<i>dipamate</i>). This beat is the signal of his ‘ritual’death –although the deceased has been dead for some time. This signifies that the physical body is really dead, though the deceased’s spirit is still present. Just after these strokes, the body, which had been lying in the southernmost room in west-east position, is removed to the central room and put in a north-south position. This change marks the start of the deceased’s spirit’s journey southwards. In this case the sound marks a putative, rather than actually, lived state.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S50.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The rhythm indicating the deceased’s symbolic death.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATION GANDANG\DIPAMATE.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="4">
+				<TITRE><![CDATA[Third rhythmic motif.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The rhythm, called (onomatopoeically) <i>tenteng</i> <i>pumpung</i>, is used at each ritual for the deceased (<i>pangalukan</i> <i>to</i> <i>mate):</i> for example when food is brought to the deceased or when the body is taken down to the sacrificial field.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The <i>tenteng</i> <i>pumpung</i> rhythm.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATION GANDANG\TENTENG.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="79">
+				<TITRE><![CDATA[The drum as object.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Two-stage funeral ritual, at Randanan, 1993. The widower, in white, is placed in front of the drum.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\IMAGES OB\2400.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Two-stage funeral ritual, Randanan, 1993. The death wrapper (<i>to</i> <i>mebalun)</i>, near the widower in black, bustles around the drum.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\IMAGES OB\2401.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="4">
+			<TITRE><![CDATA[In the rituals of the East, the drum is used as musical instrument for the three main rituals.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The drum is taken out for three rituals of the East: <i>maro</i>, <i>merok</i>, and <i>bua’kasalle</i>.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>8</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Two drums in front of the house, accompanying the dancers, <i>bua’kasalle</i> ritual, Deri, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\2439.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\INSTRUMENTS\GB.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="9">
+				<TITRE><![CDATA[It accompanies a dance.]]></TITRE>
+				<COMMENTAIRE><![CDATA[When it is played, the drum is placed on the ground. It is then struck with a lath by four men. The rhythm accompanying the <i>gellu’</i> dance is known as <i>pa'gandang</i> <i>gellu’</i>. Some ten women dance to the rhythm of the drums.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Gellu'</i> dancer on top of a drum, 1993. A figure probably from a sequence from the <i>maro</i> ritual, during which a person in trance sings of his journey, by means of the drum.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG GELLU\0317.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO : Rehearsal of the dance to the drum (<i>gandang</i> <i>gellu’</i> ), Baruppu’, August 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>s80.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO : The male drummers accompany the women, at Tampan Bonga, Sesean, 2001. Filmed on demand, out of context.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S22.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="80">
+				<TITRE><![CDATA[It rarely accompanies the voice.]]></TITRE>
+				<COMMENTAIRE><![CDATA[A song in unison accompanied by a drum is present in only one region –Sa'dan region –which is connected in several ways with the coasts and the neighboring Bugis. While the men sing, a dancer dances solo. She is given money.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Ma'tempa</i> song during the <i>merok</i> ritual, Minanga Ulusalu, Sa'dan, June 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MEROK SADAN\0399.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\MTE-MAJ-UN\MTE.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="10">
+				<TITRE><![CDATA[It is a place of offerings.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The officiant (<i>to</i> <i>minaa</i>) Ne' Mendolo officiates alone in front of the drum, turned northwards. On the drum rest a ceremonial cloth, four <i>pesung</i> (offerings to the divinities, placed on banana leaves) as well as a saber (<i>la'bo'</i>). On the ground can be seen four <i>piong</i> (segment of bamboo in which food is cooked), which have been used to cook the food for the offerings, in addition to four other offerings which will be prayed over in turn.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Drum acting as receptacle for the offerings made by the officiant Ne’Mendolo, during the <i>maro</i> ritual. Torea, November 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG MARO\0306.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>To</i> <i>minaa</i> Ne' Mendolo during the <i>maro</i> ritual, Torea 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG MARO\0274.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="5">
+				<TITRE><![CDATA[At the <i>maro</i> ritual.]]></TITRE>
+				<COMMENTAIRE><![CDATA[At the <i>maro</i> ritual, the drum has both a ritual and a musical role: covered with a mixture of animal blood (<i>mangrara</i> <i>gandang)</i>, it is ‘blooded with three bloods’(<i>ditallung</i> <i>rarai</i>) from different animals. Several drums are used, one for each house to be consecrated. One drum from every house taking part is taken down to the ceremonial field on the sixth day of celebration; beaten by several players, it makes the <i>gellu’</i> dancers dance. For each drum there is a corresponding group of dancers and a ceremonial mastconsecrated by a song <i>gelong</i> <i>bate</i> performed by different groups of officiants for each mast.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A woman in trance climbs on the drum, Torea, 1993. ‘I have returned from my bath of drums’.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\TRANSEMANTERE\0904.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\M\M 217-220.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A woman (<i>tumbang</i>), returning from her drum bath, after the trance, Torea, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\TRANSEMANTERE\1048.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\M\M 221-222.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Drum (<i>gandang</i>) accompanying a group of <i>gellu’</i> dancers, <i>maro</i> ritual, Torea, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\MAPASANB\1958.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\GM\GM.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\MAPASANB\2427.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\GM\GBA.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From <i>maro</i> song, collected in 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>en/Tambour.pdf</ADRESSE>
+								<TYPE>PDF</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="7">
+				<TITRE><![CDATA[In the <i>merok</i> ritual.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The celebration opens with the drums entering the house (‘bringing the drums inside’ma'patama <i>gandang):</i> the drums are transported from the rice granary to the house, where they are played by the officiants (<i>to</i> <i>minaa</i>): placed on the ground, they are beaten by four drummers with a lath. Before being struck the drum(s) are consecrated with the blood of animals: a chicken and a pig are killed and a part of the meat put on the drums, as offerings to the <i>deata</i>, after which the drums may be beaten for two days. They are used to invoke the gods, chase away the evil spirits and purify the atmosphere. In every case, the drum’s entry and exit from the house are occasions for sacrifices –the meat will be placed on the drum and then offered to the divinities. (From H. Nooy-Palm 1986: 25, 64, 66, 75.)]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Drum and money, <i>merok</i> ritual, Minanga Ulusalu, Sa'dan Malimbong, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG GELLU\0309.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Dancer, crowd and drum, <i>merok</i> ritual, Minanga Ulusalu, Sa'dan Malimbong, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MEROK SADAN\0392.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\MTE-MAJ-UN\MTE.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Drum on the ground, <i>merok</i> ritual, Minanga Ulusalu, Sa'dan Malimbong.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG GELLU\0457.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The drum in mud, accompanying the dance <i>gellu’</i> during the <i>merok</i> ritual at Minanga Ulusalu, Sa'dan Malimbong, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MEROK SADAN\0384.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Men’s chorus <i>ma'tempa</i> accompanied by drum, <i>merok</i> ritual, Minanga Ulusalu, Sa'dan.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG GELLU\0320.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\MTE-MAJ-UN\MTE.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Gellu’</i> dancer, <i>merok</i> ritual, Minanga Ulusalu, Sa'dan Malimbong, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MEROK SADAN\0387.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Gellu’</i> dancer, <i>merok</i> ritual, Minanga Ulusalu, Sa'dan Malimbong, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MEROK SADAN\0395.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Gellu’</i> dancer, ritual <i>merok</i>, Minanga Ulusalu, Sa'dan Malimbong, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MEROK SADAN\0396.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Gellu’</i> dancers, <i>merok</i> ritual, Minanga Ulusalu, Sa'dan Malimbong, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MEROK SADAN\0397.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Drummer, <i>merok</i> ritual, Minanga Ulusalu, Sa'dan Malimbong, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MEROK SADAN\0390.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Crowd, <i>merok</i> ritual, Minanga Ulusalu, Sa'dan Malimbong, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MEROK SADAN\0400.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Audience, <i>merok</i> ritual, Minanga Ulusalu, Sa'dan Malimbong, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MEROK SADAN\0394.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="8">
+				<TITRE><![CDATA[In the <i>bua’kasalle</i> ritual.]]></TITRE>
+				<COMMENTAIRE><![CDATA[At the <i>bua’</i> <i>kasalle</i> I attended, two drums of different sizes were placed in the ceremonial field below the tower (<i>gorang</i>) on the small platform called <i>ruma</i> <i>datu</i>. I listed seven types of rhythm gathered under the term ‘bua’ drum’(<i>pa'</i> <i>gandang</i> <i>bua’</i>): 1. <i>pa'</i> <i>kotok</i> <i>londong</i> (‘the cock’s crow’) 2. <i>pa'</i> <i>manuk</i> <i>mangarran</i> (‘the brooding hen’) 3. <i>pa'</i> <i>lettotana</i> (‘breaking ground’) 4. <i>panglelleng</i> <i>kayu</i> (‘felling a tree’) 5. <i>pa'</i> <i>sarangallo</i> (‘very hot day’), 6. <i>pangindo'</i> <i>sibarru</i> (‘direct in twos’) 7. <i>pa'</i> <i>lambuk</i> <i>issong</i> <i>pandan</i> (‘rice-mortars rhythm’).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Two drums to make the <i>gellu’</i> dancers dance, <i>bua’</i> <i>kasalle</i> ritual, Bamba Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\2439.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\INSTRUMENTS\GB.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Two drums on the ceremonial field. <i>Bua’kasalle</i>, Deri, December 1993. The two drums, of different sizes, are positioned in the center of the ceremonial site on the platform (<i>lentenan</i> or <i>ruma</i> <i>datu</i>). Above, a much higher platform, called a <i>gorang</i>, is raised; access to this is gained via a ladder (on the left). Throughout the ritual both drums will stay on the lower platform, on which the officiants (<i>to</i> <i>minaa</i>) sit. In the foreground, in yellow, an officiated woman [here, the <i>banaa</i>] turns around the construction holding a ceremonial cloth in her right hand and a plate with an areca nut in her left.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG BUA\2075.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\GM\GBA.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Both officiants (<i>burake</i>), sitting on the drums. <i>Bua’kasalle</i> ritual, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG BUA\0446.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[It is used as a support for constructing the <i>manganda’</i> dancers’helmets.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG BUA\1679.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Both drums on the central platform.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG BUA\0303.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="2">
+		<TITRE><![CDATA[The pellet drum <i>garatung</i>.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="42">
+			<TITRE><![CDATA[The drum <i>garatung</i> is a pellet drum.]]></TITRE>
+			<COMMENTAIRE><![CDATA[This small hand drum with striker-balls is tied with laces; it has two python skin membranes, hence the name <i>tandilo</i> <i>ula'</i> (‘serpent zither’). The diameter of its skin is 9 cm, the same as the width of the sound box. This drum is not struck with the palm: a twist of the wrist makes the small wooden beads strike the skins, producing in turn a brisk and dry rattling.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>9</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[The <i>garatung</i>, personal collection.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\2727.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE></ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+		<PROPOSITION id="49">
+			<TITRE><![CDATA[The <i>garatung</i> is the exclusive instrument of the priestess or priest (<i>burake</i>).]]></TITRE>
+			<COMMENTAIRE><![CDATA[It is used by the officiant (male or female) while pronouncing ritual words at the great <i>bua’kasalle</i>.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>10</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>To</i> <i>minaa-burake</i> Ne’Lumbaa, <i>bua’kasalle</i>, Deri, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\1330.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\GA\GA 1.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="90">
+				<TITRE><![CDATA[The officiant uses this drum at the <i>bua’kasalle</i>.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The <i>burake</i> playing his <i>garatung</i> drum while turning around the great tower (<i>gorang</i>), <i>bua’kasalle</i> ritual, second part, December 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\0449.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\GA\GA 2.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ne’Lumbaa, the <i>burake</i>, praying before the erection of <i>gorang</i>, <i>bua’kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\1677.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\GA\GA 3.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="91">
+				<TITRE><![CDATA[The <i>garatung</i> drum is the metaphor for the officiant (<i>burake</i>).]]></TITRE>
+				<COMMENTAIRE><![CDATA[In the words of the songs, the <i>garatung</i> drum only appears as a metaphor for the officiant (<i>burake</i>); although it is present in the <i>badong</i> song lyrics and in the invocation <i>Passomba</i> <i>tedong</i> in the <i>merok</i> celebration of the East, it is absent from the very long ritual song <i>gelong</i> <i>maro</i>.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From <i>ossoran</i> <i>badong</i> of Ne’Indo’Serang, lines 126-128, collected in 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\GARATUNG copier.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="44">
+			<TITRE><![CDATA[The presence of the pellet drum is indubitably due to external influence.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The presence of this instrument, originating without doubt from Hindu-Buddhist cultures, is yet another indicator of the probable influence of Tantrism, followed in the ancient kingdoms of Sumatra and Java. This drum was once used as a secular instrument by Chinese peddlers in Indonesia (Nooy-Palm 1979: 304). Its name is attested in Sulawesi and other islands in the archipelago.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>11</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Tibetan officiants playing on the great <i>damaru</i> wooden drum in 1991. Photo in M. Helffer 1994: 249.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\2726.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="81">
+				<TITRE><![CDATA[Presence in Sulawesi.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The <i>damaru</i> used to exist in Bugis country (B.F. Matthes 1872). <i>Gamaru</i> is found in the Bugis language. <i>Karatu</i> is found in the languages of Central Sulawesi (Kaudern [who spells the word in Dutch orthography, karatoe] 1927:139-145). 1927: 139-145). The pellets are not evoked. The drawings do not show any feature in common with the Toraja <i>garatung</i>. The <i>karatoe</i> is also evoked by Kruijt in <i>Bare'e</i> <i>sprekende</i> <i>Toradja</i> vol. 2: 380.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A <i>bissu</i> monk, on the left, at Pare-Pare, 1991. Nowadays, the <i>bissu</i> transvestite priests use the term ‘gamaru’to designate the production of a whistling sound with a finger on the rim of a ceramic bowl, considered to invite the divinities to descend to earth (maddewata), an action well known in Tibetan Tantrism (Hamonic 1987: 36).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CELEBESSUD\2344.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[In the north of Toraja country (Bare'e), <i>karatu</i> designates another drum.
+Figure D: <i>Karatu</i> of the Poso region, in Kaudern 1927, <i>Musical</i> <i>Instruments</i> <i>in</i> <i>Celebes:</i> 141. The drum C is also a <i>karatu</i> of Mabungka. The instrument is classified within the cup-shaped drums. This drum belonged to priestesses.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\KAUDERNKARAT.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ne' Lumbaa playing the drum, at the <i>bua'kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\1681.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="63">
+				<TITRE><![CDATA[Presence in Southern Asia.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The instrument <i>garatung</i> is known in India under the name of <i>damaru</i> (Pelras 1996: 71). This drum is also known in Tibet by the name of <i>damaru</i>, where it has an hourglass shape. An attribute of the god Shiva, it is also an attribute of numerous sages and religious masters (Helffer 1994: 233-250).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Damaru</i> of Mongolia, Musée de l'Homme 46-42-234.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\2747.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Small ivory <i>damaru</i>. Private collection. Communication M. Helffer.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\2748.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The Dalai Lama holds a bell <i>dril-bu</i> and a drum <i>damaru</i> in his hand, from Mireille Helffer’s book, <i>Mchod-Rol:</i> <i>les</i> <i>instruments</i> <i>de</i> <i>la</i> <i>musique</i> <i>tibétaine</i>, CNRS Edition, 1994: 232.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\2725.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A group of officiants with their instruments: the great drum <i>damaru</i> with wooden soundbox, the bell and the bone trumpet. Lhasa. From Mireille Helffer’s book, 1994: 249.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\2726.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Skull <i>damaru</i>, Musée Guimet M12857. From Mireille Helffer’s book, 1994: 234.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\2724.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="45">
+			<TITRE><![CDATA[The various names for the pellet drum.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Depending on the Toraja regions where it appears, it is also known as <i>karatu</i>, <i>gamaru</i>, <i>garapung</i>, <i>garattung</i>, <i>karatung</i>, or <i>tandilo</i> <i>ula'</i>, in Veen 1968, manuscript letter given by H. Nooy-Palm.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>12</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[From a lettre by the linguist H. van der Veen to Hetty Nooy-Palm (personal communication), translated from the Deutch by Thomas Beaufils, September 2004.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TEXTES\en\GAMARUVDVEEN.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="4">
+		<TITRE><![CDATA[The <i>bombongan</i> kettle gong.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="48">
+			<TITRE><![CDATA[The <i>bombongan</i> kettle-gong is the ceremonial instrument of the rituals of the West.]]></TITRE>
+			<COMMENTAIRE><![CDATA[<i>Bombongan</i> (or <i>padaling</i>) designates bronze kettle gongs, having either a shallow (southern Toraja) or a deep (northern Toraja) rim, and various diameters. These gongs are imported from Java or Bali at a high cost. Two types of gongs exist: the great gong, suspended at funerals, and the small processional chime.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>13</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Kettle-gong suspended from a house, Sangalla', 2001.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GONG\2300.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="100">
+				<TITRE><![CDATA[Various shapes.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Modern making.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GONG\0060.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\BB\BB1.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Small gong, during the procession to the grave, Tapparan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GONG\0290.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Kettle drum, departing to the grave, Tapparan, 1993.]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GONG\0289.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Gong players, departing to the grave, Tapparan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GONG\0292.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Kettle drum, Mamasa, 1996. Photo : James Temple.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GONG\2364.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="5">
+			<TITRE><![CDATA[The <i>bombongan</i> is used as status symbol.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The gong is reserved for the most elaborate funerals. While in the north the gong may be struck if seven buffaloes are sacrificed, in the south of the country it is only struck in the case of at least twenty-four buffaloes. In the scale of values the gong is thus the highest attribute, reserved for the high nobility. The dead man is said to be ‘gonged’(<i>dibombonganni</i> <i>tu</i> <i>tau</i>). Each village possesses only one gong.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>14</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Women keeping vigil, the gong, and the deceased in his red shell, 1991, Mengkendek.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GONG\0281.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="83">
+				<TITRE><![CDATA[The gong is the metaphor for the ritual voice.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From <i>Gelong</i> <i>Unnala</i> <i>Lalan</i>, part of the long <i>Gelong</i> <i>Maro</i> <i>maro</i> ritual, Torea, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\BOMBONGAN.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="6">
+			<TITRE><![CDATA[Struck in isolation, the gong (<i>bombongan</i>) is used as a signalling instrument.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Invariably suspended, it is struck without any particular rhythm throughout the ritual: 1) to signify that the celebration is of the highest degree 2) to announce the guests’arrival 3) to announce the entrance of the animals, the gifts of the guests to the family. During the first funeral celebration it is struck for the procession to the sacrificial field, then, later, a few days before the body is placed on the sacrificial field.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>15</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>S52.flv</ADRESSE>
+						<TYPE>VIDEO</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="33">
+				<TITRE><![CDATA[The gong solemnizes the processions.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Procession of the funerary mast and the mourners to the megalithic field, procession of the woman, procession of the guests brinding pigs and buffaloes for the deceased, procession to the grave.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO : Procession of the mast and the mourners to the megalithic field, To'Barana', 2000. The deceased is style in the house.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S45.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO : Procession of the woman to the magalithic field, first funeral of Ne'Sulo, 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S42.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: Arrival of a procession at a funeral celebration, to the sound of the gong. Penduan Ra'ba, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S53.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO : Bringing the pigs, Penduan Ra'ba, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S84.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="34">
+				<TITRE><![CDATA[The gong marks the beginning of a high noble’s funeral ritual.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[ The deceased’s son strikes the gong at Ne’Sulo’s first funeral celebration. At To’Barana’, June 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S51.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="7">
+			<TITRE><![CDATA[Gongs are sometimes used together.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Rarely, in the northwest of the country, a gong-chime (a set of five suspended gongs of different sizes), <i>padaling</i>, is used. The scale includes four tones (Eb F G# B). As in the Philippines or Vietnam, the playing technique is rhythmic and not melodic. Each player plays a short cell in counterpoint with another in a repetitive cycle without variation. The players are hired from the Baruppu' region, for a million rupees, to intensify the funeral’s grandeur.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>16</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Gong-chime of five suspended kettle-gongs at the village of Limbong (<i>Pangngala'</i>), during the guests’welcome at a funeral celebration, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GONG\0973.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\BB\BB3.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="71">
+				<TITRE><![CDATA[Gongs played in a set of four at Mamasa.]]></TITRE>
+				<COMMENTAIRE><![CDATA[At Mamasa, played in a set of four gongs.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A woman at Mamasa in 1995, photograph: James Temple.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GONG\2364.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Set of four suspended gongs at Mamasa, photograph: James Temple.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GONG\2365.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="14">
+		<TITRE><![CDATA[The <i>issong</i> rice-mortar.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="32">
+			<TITRE><![CDATA[The rice-mortar <i>issong</i> takes various forms.]]></TITRE>
+			<COMMENTAIRE><![CDATA[There are three types of mortar (<i>issong</i>): 1) the wooden trough, rectangular, for pounding rice (<i>issong</i> <i>pandan</i>) 2) rounded stone basin for pounding rice (<i>issong</i> <i>lepong</i>) 3) a smaller rounded stone basin (<i>issong</i> <i>batu</i>) for pounding spices and tomatoes in the home. The first rectangular form is used as a musical instrument.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>17</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Woman pounding rice in a rectangular mortar, Tallung Lipu, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\BOUV AGRI ARTI\lambuk\2673.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="29">
+				<TITRE><![CDATA[Use of the mortar in everyday life.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The rice-mortar is used simultaneously by several people when rice is pounded (<i>ma'lambuk</i>); all hold a pestle (<i>alu</i>); the rhythm is given by knocking a stone on the mortar. Agricultural work is musical.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Round mortar.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\MORTIER\2290.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Two little girls pounding in a round mortar. 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\BOUV AGRI ARTI\lambuk\1239.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rectangular and round mortars.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\MORTIER\2291.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[At Lempopoton, pounding rice. 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\BOUV AGRI ARTI\lambuk\2674.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Round stone mortar. Baruppu', 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\MORTIER\1535.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Round stone mortar.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\MORTIER\1534.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="84">
+				<TITRE><![CDATA[VIDEO: Collectively pounding rice.]]></TITRE>
+				<COMMENTAIRE><![CDATA[In everyday life rice is pounded alternately by several hands. For this alternation to be regular and successful –to keep the pestles from hitting each other - it is often necessary for one person to beat time.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: Children and parents pounding rice at Pakkung, Baruppu', 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S07.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="33">
+			<TITRE><![CDATA[The rice-mortar is used as a musical instrument to welcome guests.]]></TITRE>
+			<COMMENTAIRE><![CDATA[When guests are welcomed to the funeral celebration, the rice-mortar is beaten by between five and eight women. Just as for pounding rice, one woman beats time on the outside of the mortar.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>18</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Eight women beating the mortar (<i>issong</i>) while welcoming guests to a funeral celebration, Tallung Lipu, July 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\MORTIER\0357.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\INSTRUMENTS\I.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="30">
+				<TITRE><![CDATA[VIDEO: Mortar (<i>issong</i>) being played.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Technique for playing the mortar, filmed on the occasion of an anniversary celebration organized by local politicians, in the Toraja country. Rantepao, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S20.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[At Tallung Lipu, to welcome guests, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\MORTIER\0273.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[At Tallung Lipu, to welcome guests, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\MORTIER\0358.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[At Tallung Lipu, to welcome guests, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\MORTIER\0359.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="18">
+		<TITRE><![CDATA[Idiophones for the <i>bua’kasalle</i> ritual.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="55">
+			<TITRE><![CDATA[The instruments of the <i>bua’kasalle</i> are first and foremost ritual markers.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Drums, rice-stalk pipes, clappers, and large and small bells do not need specialist players.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>19</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Dancers at the <i>bua’kasalle</i> celebration, Deri 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MANGANDA\0999.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="56">
+			<TITRE><![CDATA[The <i>bangkula'</i> bell is used in the <i>manganda’</i> dance.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Medium-sized, and with a copper handle, the <i>bangkula'</i> (or <i>giring-giring</i>, or <i>talinting</i>) bell is used at the <i>bua’</i> <i>kasalle</i> for the <i>manganda’</i> dance to accompany the officiant’s words during the <i>singgi’</i> eulogy, to give rhythm to the <i>ma'pulung</i> (verses of praise) or for the <i>serang</i> <i>mundan</i> song.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>20</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>Manganda’</i> dancer at the <i>bua’kasalle</i> celebration, Deri, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MANGANDA\1005.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\CLO\CLO.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>Bua’kasalle</i>, Deri 1993. On the left of the photo the <i>bangkula’</i> bell can be seen.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MANGANDA\1015.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE></ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Close up of the bell <i>bangkula’</i> bell, <i>bua’kasalle</i> ritual, Deri, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MANGANDA\1015bis.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE></ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="96">
+				<TITRE><![CDATA[The bell is mentioned in the words of the songs of the officiants.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The officiant (<i>to</i> <i>minaa</i>) has, as a sound-making object, the <i>bangkula’</i> bell, also called <i>giring-giring</i>, which could also mean pellet bells.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Occurrence of the term ‘bell’in the officiant’s words. 1993. Samparan.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\BANGKULA.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Small and large bells in an extract from the <i>gelong</i> <i>maro</i> recitation, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\GIRING GIRING .jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="57">
+			<TITRE><![CDATA[The <i>la'pa-la'pa</i> clappers are used in the <i>manganda’</i> dance]]></TITRE>
+			<COMMENTAIRE><![CDATA[The <i>la'pa-la'pa</i> clappers, originally used to chase birds from the paddy fields, are used by the <i>manganda’</i> dancers.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>21</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>Manganda’</i> dancer holding clapper in his right hand, Deri, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MANGANDA\1006.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\CLO\CLO.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="97">
+				<TITRE><![CDATA[The instrument for chasing birds.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Originally the <i>la'pa-la'pa</i> was a clapper for chasing away birds in the paddy fields.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: Sound-making bird-scarers (<i>la'pa-la'pa</i>), Awan region.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S93.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>La'pa-la'pa</i> clappers in the paddy fields, Awan, 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RIZIERES\2713.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="9">
+		<TITRE><![CDATA[The <i>suling</i> flute.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="37">
+			<TITRE><![CDATA[The Toraja <i>suling</i> is a ring-flute.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Found in the region of Rantepao, the <i>suling</i> is a ring-flute (with a rattan ring called <i>dullik</i> ‘make to match with a little thing’), 65 cm long, extended with a lower bell-like tip of buffalo horn (<i>kolok</i> or <i>kolong</i> <i>suling</i>: ‘rear support’). The flute is pierced with five or six front holes depending on the regions. Its ambitus extends over about three octaves.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>22</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Flautist during the <i>pakorong</i> ritual, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1375.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\SLD\48.3FD1.mp3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="85">
+				<TITRE><![CDATA[Vertical bamboo flute with external duct.]]></TITRE>
+				<COMMENTAIRE><![CDATA[This system is widespread in most of Indonesia.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Detail of the <i>suling</i>’s external duct. From Marie-Barbara Le Gonidec, ‘Essai de Classification universelle des flutes’, in <i>Pastel</i>, July 1997: 29.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\FLUTECONDUITD'AIR.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Detail of the external duct without ring.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\2729 .jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Detail of the external duct with the ring, flute from Mamasa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\2730 .jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="76">
+				<TITRE><![CDATA[VIDEO: <i>Suling</i> playing.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO 1: <i>Suling</i> player at Buntao', filmed by Joséphine Simonnot, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S18.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO 2: <i>Suling</i> player at Buntao', filmed by Joséphine Simonnot, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S16.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO 3: <i>Suling</i> player at Buntao', filmed by Joséphine Simonnot, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S19.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="38">
+			<TITRE><![CDATA[In the rites of the West, the flute (<i>suling</i>) accompanies the <i>marakka</i> song.]]></TITRE>
+			<COMMENTAIRE><![CDATA[During a great funeral celebration, one or two flute players accompany one or two singers in the procession leading the guests to the reception site, or the deceased from the house to the site of the celebration. The tunes for leading the deceased to his grave have not been played for a long time.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>23</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Line of guests led by a flautist, Tallung Lipu, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\MARAKKA\2112.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\Divers\MA IB.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="31">
+				<TITRE><![CDATA[A flautist introduces the procession of guests.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A flautist and a singer introduce the procession of guests into the funeral celebration area, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\MARAKKA\0372 BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\Divers\MAS.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Sung during the funeral. Performed out of context. 1991, at Buntu Kalando.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\GS\GS 3.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Marakka</i> song, recorded at Buntao’, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\MAR17.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\MA\MA17.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="32">
+				<TITRE><![CDATA[The flute’s sound takes the deceased’s shade downstream.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The function of the flute was to guide the deceased’s spirit (<i>bombo</i>) out from the village at nightfall several days after the final entombment. His spirit was considered to be still lurking in the house. It was then guided and directed by the whole family, preceded by the ‘flutes of the dead man’s spirit’<i>suling</i> <i>bombo</i>.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From <i>Doodencultus</i>, Syndicat of Filming NOI, 1923, Museum of Film Amsterdam. The flute is in front of the coffin.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S108.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[According to an unpublished manuscript by Kadang, personal communication.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\SULINGBOMBO.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="39">
+			<TITRE><![CDATA[In the rituals of the East, the flute is played in quartets in the prophylactic <i>pakorong</i> ritual.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The pieces for flutes are played in groups of four, in polyphony, with drone and soloist. They are an offering to the divinity Puang Maruru' in the case of epidemics or skin diseases.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>1</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Flautists, <i>pakorong</i> ritual, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1373.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\SLD\15.1FD1.mp3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="51">
+				<TITRE><![CDATA[The flutes for the divinity.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The Toraja proffer musical and animal offerings to the divinity Ruru' to avert her anger. The role of the music is to seduce her, appease the suffering of the sick children (<i>ditalintingngi</i> ‘animate them with small noises’) and occasionally cure them. Thus, in the region of Pa' Buaran, the repertoire is called <i>passuling</i> <i>Puang</i> ‘God’s flute’or <i>suling</i> Datu Maruru' ‘the flute of Her Majesty Maruru'’or <i>Paningoan</i> <i>Datu</i> ‘the playing of Her Majesty’.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Ma’pakorong</i> flautists, Bekak, Randan Batu, Bua’Ke'pe, 27 October 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1378.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\SLD\26.2FC1.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Flautists at the <i>pakorong</i> ritual, Bekak, Randan Batu, Bua’ Ke'pe, 27 October 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1371.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\SLD\28.2FD1.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Flautist. Base piece, <i>oto'</i> <i>suling</i> ‘flute bone’.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1375.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\SLD\49.3FD2.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="87">
+				<TITRE><![CDATA[Use of the drone in flute playing.]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>60</PROPOSITION_LIEN>
+					<ANTECEDENT_LIEN>175</ANTECEDENT_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="40">
+			<TITRE><![CDATA[At Mamasa, in the past, there were two types of ring flutes, including double flutes.]]></TITRE>
+			<COMMENTAIRE><![CDATA[In the Mamasa region, two types of ring flutes existed: double and single flutes. Mamasa flutes are longer (80 cm) than at Rantepao. They are pierced with five holes instead of six. Both in the west and the east the flute ensembles –quartet, quintet –are played in a healing rite; drone playing has an important role.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>24</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Mamasa flautists, 1993. Five flutes. Piece: Paloppi.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1407.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\SLM\SLM4.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="86">
+				<TITRE><![CDATA[The ancient double flutes of Mamasa.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Double ring-flutes are attested at Mamasa. A holeless pipe was used as a drone. These flutes have disappeared today.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Map of the centre of Sulawesi.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\08NORDSULSEL.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Mamasa double flutes, in Kaudern, <i>Musical</i> <i>Instruments</i> <i>in</i> <i>Celebes</i>, 1927: 228.
+Reproductions of specimens preserved in Dutch museums.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\KAUDERNDOUBLEFLUTE.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Double flute, from B. Ijzerdraat and Sosrosuwarno, <i>Bentara</i> <i>Seni</i> <i>Suara</i>, 1954.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\FLUTEDOUBLE.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="42">
+				<TITRE><![CDATA[Healing flutes (<i>suling</i> <i>bonde</i>).]]></TITRE>
+				<COMMENTAIRE><![CDATA[The healing flute (<i>suling</i> <i>bonde</i>) tradition is residual. The musical set consists of five long <i>suling</i> ring-flutes with five front non-equidistant playing holes. These flutes have a low register. Four play in unison on a continuous drone while the soloist sweeps the harmonic spectrum with a special blowing technique. The aim of this music was to cure malaria: the flautists came every evening for a month to the invalid, who would start to dance.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Flautist in a group of five flautists, <i>suling</i> <i>bonde</i> (healing flutes) repertoire, recorded at Penanian-Mamasa, 14 September 1993. Piece: <i>suling</i> <i>rambok</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1408.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\SLM\SLM1.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Suling</i> <i>bonde</i> flautists, Penanian, 1993. Five flautists. Piece: <i>suling</i> <i>parodo</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\2419.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\SLM\SLM2.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Five flautists play <i>Suling</i> <i>dipapaya</i>, at Mamasa. September 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\SLM\SLM3.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="16">
+		<TITRE><![CDATA[The <i>tulali</i> flute.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="47">
+			<TITRE><![CDATA[The <i>tulali</i>, extinct today, was recorded in the 1970s.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The word for this flute is an Austronesian term: Kruyt gives both the Wana and Loinang instruments as <i>tulali</i>. A <i>turali</i> flute is found in Sabah on the island of Borneo, among the Dusun (nose flute, rather short, Matusky 2004), in the Gorontalo region of Sulawesi, and in the eastern Fiji islands (Tryon ed. 1994). There’s also a Philippine nose-flute called <i>tongali</i>, and a Toba Batak and Simalungun Batak have bamboo flutes called <i>tulila</i>.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>25</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>Tulali</i> extract, in Eric Crystal <i>Music</i> <i>of</i> <i>Sulawesi</i>, Ethnic Folkways, FE 4351, 1973. Title: <i>Pa'</i> <i>Loi-Loi</i>, played by the <i>to</i> <i>minaa</i> Ne' Ba'du of Tampo.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>US\TU\TU 1.mp3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="78">
+				<TITRE><![CDATA[Eric and Catherine Crystal’s recordings of the <i>tulali</i> flute.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The anthropologist Eric Crystal recorded this flute in the 1970s.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Tulali</i> flute. Title: <i>Pa'</i> <i>Arri-Arri</i>, played by the <i>to</i> <i>minaa</i> Ba'du of Tampo.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\TU\TU 2.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="17">
+		<TITRE><![CDATA[The <i>pelle’</i> aerophone.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="53">
+			<TITRE><![CDATA[The <i>pelle’</i> is an aerophone made in a way almost unique in the world.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The aerophone <i>pelle’</i> is made from a rice stalk split in several places. This stalk serves as the reed (a rare case of a multiple reed). It is introduced into a funnel-shaped sugar palm leaf resonator. The player modifies the pitch (by two or three whole tones) and the timbre by a movement of his hand on the bell. The instrument is also known as <i>barrung</i>, <i>oni-oni</i>, <i>poni-poni</i>, <i>panoni</i>, <i>tamorron</i>, <i>lullio</i>, or <i>liuk-liuk</i>.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>26</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[A multi-reed aerophone.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\PELLE\2298.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE></ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[VIDEO: Playing the <i>pelle’</i> aerophone. The left hand varies the resonance and the pitch. Rantepao, 2001.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>S28.flv</ADRESSE>
+						<TYPE>VIDEO</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[VIDEO: Playing the <i>pelle’</i>. The pressure of the hand changes the pitch. Rantepao, 2001.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>S29.flv</ADRESSE>
+						<TYPE>VIDEO</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[VIDEO: Playing the <i>pelle’</i>, Rantepao, 2001.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>S27.flv</ADRESSE>
+						<TYPE>VIDEO</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>Pelle’</i> player, 2001.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\PELLE\2299.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\INSTRUMENTS\P0.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+		<PROPOSITION id="54">
+			<TITRE><![CDATA[The rice-stalk aerophone <i>pelle’</i> announces the entrance of the animal offerings into the celebration.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The instrument, which is loud, is played for the arrival of the guests and their animal offerings at the celebration <i>bua’kasalle</i> ceremonial site. It amplifies the celebration’s intensity; it announces the end of the harvests.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>27</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Arrival of the pigs on palanquins to the sound of the rice-stalk aerophone <i>pelle’</i>, <i>bua’kasalle</i>, Deri 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA1\PALANQUIN\1103.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\A\A4.mp3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>Pelle’</i> player, Pa'Jerombe from Tondon Matallo, <i>bua’</i> <i>kasalle</i>, Deri, May 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\PELLE\0286.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\INSTRUMENTS\P1.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="19">
+		<TITRE><![CDATA[The <i>karombi</i> (jew’s harp).]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="58">
+			<TITRE><![CDATA[The <i>karombi</i> (bamboo jew’s harp).]]></TITRE>
+			<COMMENTAIRE><![CDATA[The tongue of the bamboo jew’s harp is worked by jerking a cord fixed to the frame, a technique common to all Indonesia. The tongue is inside the bamboo frame (Dournon 1978, <i>Les</i> <i>guimbardes</i> <i>du</i> <i>Musée</i> <i>de</i> <i>l’Homme</i>). L: 110, E: 1,4.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>28</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Jew’s harp player, Pelipus Randan, Batutumonga, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GUIMBARDE\1500.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\KA\KA 1.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Playing the <i>karombi</i>, personal collection.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GUIMBARDE\2731.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE></ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+		<PROPOSITION id="59">
+			<TITRE><![CDATA[The jew’s harp was used in a healing rite.]]></TITRE>
+			<COMMENTAIRE><![CDATA[In the Sesean region, the jew’s harp was played at purification rites for sick children. The jew’s harp (<i>karombi</i>) and the fiddle (<i>geso'-geso’</i>) were played at the purification rite (<i>mendio'<i> ‘getting washed’).]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>29</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Jew’s harp played by Pelipus Randan.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GUIMBARDE\1502.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="98">
+				<TITRE><![CDATA[A jew’s harp player.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Pilipus Randan, born in 1932, an inhabitant of Batutumonga (Sesean), is a jew’s harp player. He lived for two years in Makassar, then ten in Rantepao, as an agricultural employee. He became a Christian in the 1950s. In 1949 he stopped playing the jew’s harp. Since 1991, he has taken it up again through a program of folklorization launched by the Makale cultural office. Since then he has played in hotels.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Jew’s harp player, Pelipus Randan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GUIMBARDE\1503.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\KA\KA 2.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Jew’s harp player.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GUIMBARDE\1499.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Profile view.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GUIMBARDE\1501.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="99">
+				<TITRE><![CDATA[Description of the <i>mendio'</i> rite by the jew’s harp player.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The participants went to the well, the nobles first, then the others. After being bathed, the children had to play with the fish in a pig’s trough. If the child played aggressively he could regain his health; if, on the contrary, he showed no aggression, he remained ill. On this occasion the jew’s harp was played to entertain His Majesty Maruru'. The music is then called: ‘praise for His Majesty’ <i>karombian</i> <i>Datu</i> or ‘Playing for His Majesty’Paningoan <i>Datu</i>. According to the myth, Liling Sugi', a being descended from heaven (<i>to</i> <i>manurun</i>), brought the jew’s harp down to the earth.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A Toraja source.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\SOURCES EAU\2484.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="5">
+		<TITRE><![CDATA[The <i>geso’-geso’</i> fiddle.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="9">
+			<TITRE><![CDATA[Description of the one-stringed fiddle <i>geso’-geso’</i>.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Its soundboard is made from half a coconut with stretched goat-skin, or very rarely, horse-skin. The sound box, made from the palm <i>areng</i> (*<i>enau</i>) is 40 cm long; the long neck finishes in an end curved back in the form of a bird’s neck, like the <i>katik</i> carved at the top of certain houses next to the buffalo head. The string is pig’s gut, and the bow is made of bamboo. These fiddles are sometimes decorated with wood carvings.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>30</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Soundboard of a <i>geso'-geso’</i>, Jakarta, National Museum.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\1403.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="49">
+				<TITRE><![CDATA[Forms of the <i>geso’-geso’</i> neck.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Geso'-geso’</i> neck, National Museum, Jakarta.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\1404.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Katik</i> carved on a house façade.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\KATIK ET BUFFLES\2461.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Fiddle necks in the <i>pakorong</i> ritual, Bua’Ke'pe, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1368.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="10">
+			<TITRE><![CDATA[The one-stringed fiddle in the rituals of the West.]]></TITRE>
+			<COMMENTAIRE><![CDATA[It is no longer used for funeral rituals. Played by men or old women during funerals, it used to accompany one or two singers in the lamentation <i>marakka</i>.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>31</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Image of a fiddle, in Kruijt and Adriani 1912.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\FIGURES\GESOKRUIJT.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="48">
+				<TITRE><![CDATA[The funeral fiddle, an extinct instrument.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Bila</i> <i>Bulo</i> sung to the flute and fiddle, recorded at Buntu Kalando, in 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\GS\GS 2.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Pa'</i> <i>Kelong</i> sung and played to the fiddle by Indo' Meti of Suaya, Sangngalla’, August 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\GS\GS 1.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="11">
+			<TITRE><![CDATA[The one-stringed fiddle in the rituals of the East]]></TITRE>
+			<COMMENTAIRE><![CDATA[The one-stringed fiddle is no longer used except for one extremely residual ritual, the <i>pakorong</i>, a ritual to protect against smallpox. In this case, three <i>geso’-geso’</i> are played together..]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>2</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>Geso’-geso’</i> fiddle player during the <i>pakorong</i> ritual at Pa'Buaran, 1993. The head of the instrument is in the form of a cock.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1382.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\SLD\34.3VA2.mp3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="50">
+				<TITRE><![CDATA[Fiddles of the healing rituals.]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>63</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="10">
+		<TITRE><![CDATA[The <i>santung</i> and <i>tandilo</i> zithers.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="14">
+			<TITRE><![CDATA[Presence of two types of Toraja zither.]]></TITRE>
+			<COMMENTAIRE><![CDATA[<i>Santung</i> and <i>tandilo</i> both designate zithers: tube zither or stick zither. No longer in existence today these instruments are only present in poems as metaphors of instruments in general, or of the voice.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>32</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Tube zither above and stick zither below in Kruyt (1912).]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\FIGURES\KRUYT CITHARE .jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="16">
+				<TITRE><![CDATA[Two meanings of <i>tandilo</i>.]]></TITRE>
+				<COMMENTAIRE><![CDATA[1) Tube zither [Kruijt 1912; Kunst 1946 (<i>talalu</i> with ‘the Banggai and <i>rere</i> or <i>talalo</i> in Sulawesi).
+2) Stick zither [Veen 1940: <i>v.e.</i> <i>kokosnoot</i> <i>met</i> <i>een</i> <i>snaar</i> <i>er</i> <i>over</i> <i>gespannen</i>), Ijzerdraat 1954, Kunst (1946/1995: 182-183) about the <i>talindo</i> of ‘the Banggai and Kunitachi’1986 (<i>talindo</i>)].
+In Toraja, <i>tandilo</i> <i>ula'</i> (‘serpent zither’: striker ball drum; <i>tandilo</i> <i>datu</i> (‘divinity zither’): instrument used during rites against smallpox; <i>tandilo</i> <i>rante</i> ‘ceremonial field zither’, gong.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Occurrence of the term <i>tandilo</i> in a <i>simbong</i> song. <i>Bua’</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\MARASSAMO.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\SD\SD04-07.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Idiochord tube zither, from East Sulawesi (Tolaki), Length 32 cm. Personal collection.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\2733.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Idiochord tube zither from East Sulawesi (Tolaki).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\2732.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Occurrence of the term <i>tandilo</i> in chanted words. Here, <i>tandilo</i> is used as a metaphor for the drum.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\GARATUNG copier.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Tube zither, National Museum, Jakarta. The musical extract comes from a 1991 recording in East Sulawesi, among the Tolaki at Ambekairi (Kec. Unahaa, Kab. Kendari) (Recording Serge Sérafini and Dana Rappoport). The word for the instrument is <i>dimba</i> <i>dimba</i> <i>nggowuna</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\1983 bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\INSTRUMENTS\CT.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Tube zither, National Museum, Jakarta.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\1991BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="17">
+				<TITRE><![CDATA[Two meanings of the term <i>santung</i>.]]></TITRE>
+				<COMMENTAIRE><![CDATA[In Central Sulawesi, <i>santung</i> or <i>sosanru</i> designate a stick zither. The Toraja <i>santung</i> designates either a tube zither, or a stick zither. A coconut-shell resonator is partially closed by being held against the player’s chest. Veen (1940) describes a plucked string instrument <i>(als</i> <i>een</i> <i>tokkelinstrument</i>, <i>waarvan</i> <i>de</i> <i>snaar</i> <i>zuiver</i> <i>aangeslagen</i> <i>wordt</i> <i>bij</i> <i>het</i> <i>tokkelen</i>). For the Mandar, the tube zither is <i>sattung</i>. The Iban (central Sarawak) play on a tube zither (satong). In Timor, the tube zither is called <i>sasando</i>.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Occurrence of the term <i>santung</i> in a ritual song <i>Gelong</i> <i>unnala</i> <i>lalan</i> for the <i>maro</i> ritual. 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\SANTUNG.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="46">
+			<TITRE><![CDATA[The stick zither in Central Sulawesi.]]></TITRE>
+			<COMMENTAIRE><![CDATA[A coconut shell serves as the resonator of the stick zither.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>33</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[VIDEO: Stick zither (<i>popondo</i>) played by Joma, Wana community, Central Sulawesi. Film: G. Nougarol, 2001.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>S95.flv</ADRESSE>
+						<TYPE>VIDEO</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[VIDEO: Apa' Se'e (Kayupoli, Kab. Morowali, 2001) pronounces the names of the various parts of the stick zither. Film: G. Nougarol, 2001]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>S97.flv</ADRESSE>
+						<TYPE>VIDEO</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="11">
+		<TITRE><![CDATA[The <i>dongga</i> bamboo fork buzzer.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="15">
+			<TITRE><![CDATA[The bamboo fork buzzer (<i>dongga</i>) has disappeared.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The bamboo fork buzzer, once used during the <i>pakorong</i> ritual in certain places only (Saluputti), to repel smallpox. It is a bamboo percussion instrument 60 cm long and 7 cm wide. With two or three <i>dongga</i> of different sizes, several pitches could be heard. The length of the tongue determined the pitch. The instrument was held in one hand and hit with the other.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>34</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Bamboo fork buzzer at Tentena, Central Sulawesi. Recording: S. Serafini, 1991.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\CELEBESSUD\0182.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\INSTRUMENTS\FB.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="75">
+				<TITRE><![CDATA[Mention in the archives.]]></TITRE>
+				<COMMENTAIRE><![CDATA[It is called <i>dongga</i> by the Toraja, while in Central Sulawesi it is given the name <i>rere</i>, and <i>ore-ore</i> <i>nggae</i> or <i>gongallima</i> (hand jew’s harp) by the Tolaki of East Sulawesi, and <i>duridana</i> on Nias island. In fact, the sound it makes resembles that of the jew’s harp. <i></i>.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Figure by Walter Kaudern, in <i>Musical</i> <i>instruments</i> <i>in</i> <i>Celebes</i>, 1927: 38. The author collected a large number of forks called <i>rere</i>, in Central Sulawesi, southwest of Kulawi.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\FOURCHE.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Figure of bamboo fork buzzer in Kruyt and Adriani 1912.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\KRUYTFOURCHE.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Bamboo fork buzzer, National Museum, Jakarta.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\1992bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="95">
+				<TITRE><![CDATA[Bamboo fork buzzer playing technique (VIDEO).]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Bamboo fork buzzer (<i>talalo</i>) playing technique by Apa' Se'e, Wana community, Kayupoli, Kab. Morowali, Central Sulawesi. Film by Gérard Nougarol, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S96.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="13">
+		<TITRE><![CDATA[The <i>katapi</i> plucked lute.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="18">
+			<TITRE><![CDATA[The <i>katapi</i> is a plucked boat lute.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The <i>katapi</i> or <i>sudekan</i> is a so-called ‘boat’lute, plucked, in black wood, with two strings tuned in fourths. The sound box, 100 cm (3 ft 3 inches) by 140 cm (4 ft 7 inches), is pierced with three sound-holes at the back. The fingers rest on finger-posts 3 to 5 cm high. This system of finger-posts is not found in other boat lutes in Indonesia, apart from the Bugis-Makassar <i>kacapi/kacaping</i>, Sumba and the Philippines (the <i>kudyapi</i>).]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>35</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Toraja plucked lute (katapi). Personal collection, given by a grand father from Baruppu' region.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\2736.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE></ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Back of <i>katapi</i>, from Baruppu'.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\2737.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE></ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Detail of the <i>katapi</i> sound box. A wooden board is nailed to the back.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\2738.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE></ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+		<PROPOSITION id="20">
+			<TITRE><![CDATA[Distribution of plucked boat lutes in South Sulawesi and Indonesia.]]></TITRE>
+			<COMMENTAIRE><![CDATA[According to Philip Yampolsky (<i>Music<i> <i>of</i> <i>Indonesia</i> <i>15:</i> <i>South</i> <i>Sulawesi</i> <i>Strings</i>, 1997: 8), the lutes of South Sulawesi called <i>kacapi</i> (Bugis, Mandar), <i>kacaping</i> (Makassar) and <i>katapi</i> (Toraja) belong to a family of “boat lutes,”most of them with similar names, (e.g., <i>hasapi</i>, <i>sampeq</i>, <i>sapi</i>, <i>konyahpi</i>) found in many parts of western and central Indonesia –as far east as Sumba, but not in Java or Bali. Another member of the family is found in Thailand and Cambodia, where it is called <i>chapei</i>. Yet another, <i>kudyapi</i>, is found in the Philippines. Their curved form gave rise to the descriptive term of ‘boat lutes’.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>36</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Detail of the sound box of a large plucked lute from Mamasa, personal collection.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\2741.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="19">
+			<TITRE><![CDATA[The plucked lute was certainly borrowed from the lowland Bugis.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The plucked lute <i>kacapi</i> of South Sulawesi is distinguished from all the other lutes of the archipelago (except Sumba) by its finger-posts (between four and six) carved on the neck and resembling little pillars measuring between 3 and 7 cm. In Toraja country, the lute <i>katapi</i>, probably an import, only exists residually. In addition, it is not known if it ever had its moment of glory. It is not mentioned in the musicologists’first descriptions (Cf. Kunst 1946/1994: 182-183), nor in the great Toraja ritual words, otherwise so rich in allusions to musical instruments.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>37</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Plucked lute (kacapi) on the left. Photo: C. Pelras.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\2745.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="44">
+				<TITRE><![CDATA[Data on the Bugis plucked lute.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Its size is reduced: although the dimensions of the lutes vary from one group to the other, on average the instrument measures between 80 and 90 cm (about 2 ft 6 inches to 3 ft). Whereas its neck resembles an oar, the other side recalls the gables of Bugis or Toraja houses, which are also shaped like a boat or upturned saddle. In its original form the instrument’s neck and body were made from the same piece of wood. A resonant cavity is left open at the back, to be closed with a separate wooden board in which three holes have been pierced. In the south of Sulawesi, all the plucked lutes have two strings.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The various communities of the south of Sulawesi.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\05SULSEL.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Detail of <i>katapi</i> neck.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\2735.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="92">
+				<TITRE><![CDATA[<i>Kacapi</i> playing technique in the south of Sulawesi.]]></TITRE>
+				<COMMENTAIRE><![CDATA[In the south of Sulawesi, the plucked lute is found in all communities –Bugis, Makassar and Mandar.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Example of <i>kecaping</i> lute recorded at Tana Toa, Balagana (Makassar sub-group). Piece: <i>Kadopi</i> played by Tonang, from Balagana. Recording: S. Sérafini and D. Rappoport, 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\INSTRUMENTS\Luth Kajang.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Bugis song with two <i>kacapi</i>, two fiddles, one flute, and one keyed zither <i>mandalion</i>. Recorded at Sengkang by S. Sérafini and D. Rappoport, in 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\INSTRUMENTS\LB.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="24">
+			<TITRE><![CDATA[Katapi playing in Toraja country.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The plucked lute is uncommon among the Toraja. The only time I heard a plucked lute was during the <i>ma’pakorong</i> ritual, in which a lute duo performed. From the Bugis (neighboring people in the plains):, the Toraja have borrowed some <i>kacapi</i> duo that accompanies songs in Bugis language. The music of this duo is typically Bugis in rhythm, in its use of alternating singers, and in its nasal timbre.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>38</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Two plucked lutes (katapi) playing, ‘lagu <i>bugis’</i>, Pa' Buaran, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1365.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\K\K1.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="21">
+				<TITRE><![CDATA[Examples of Toraja <i>katapi</i> playing.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Four examples are given here; all recorded at the <i>pakorong</i> ritual, performed in 1993 in the region of Pa' Buaran. Borrowing from the Bugis playing technique is noticeable both in the rhythm and the language used –Bugis.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Piece for two lutes played at the <i>pakorong</i> ritual, Pa' Buaran, 1993. <i>Lagu</i> <i>Bugis</i> ‘Bugis song’.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\AUTREFOIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\K\K1.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Kacapi</i> duet. Solo singing in Bugis language. <i>Pakorong</i> ritual, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\K\K2.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Title: <i>Indo'</i> <i>Logo</i>, ‘The mother Logo’, in Bugis language, from Bugis folklore.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\K\K3.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Another song in Bugis language, the two singers exchanging verses.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\K\K4.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="50">
+			<TITRE><![CDATA[The plucked lute (katapi) in the region of Mamasa (West Toraja).]]></TITRE>
+			<COMMENTAIRE><![CDATA[Although no plucked lute playing tradition can be found in the east of the Toraja country, a tradition of lute accompanied singing exists, however, among the western Toraja, known as <i>ma'</i> <i>anduru</i> in the Mamasa region. The instrument appears to come from the province of Mambi, in the west of Mamasa, and in some parts of the Mandar coast. It may have replaced the <i>tandilo</i>. The two strings are tuned in fourths.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>39</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Large boat lute from Mamasa, personal collection.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\2743.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\AN\l 1.mp3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="93">
+				<TITRE><![CDATA[The Mamasa plucked lute.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The Mamasa lute, made from black wood and boat-shaped, is distinguished from the lutes of the plains by its large size, and the length of its neck, recalling the lutes of Borneo or the Philippines. The example measures 1.38 m. (4 ft 6 inches). The neck alone measures 39 cm. (1 ft 3 inches). It has two strings. The sound box is pierced with three holes at the back. The <i>katapi’s</i> sonority is clear and powerful. Its construction clearly resembles that of the Bugis lute <i>kacapi</i> as it has four or five finger-posts and a bridge. However, in use the player only uses three finger-posts.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Map of Mamasa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\08NORDSULSEL.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Detail of Mamasa plucked lute finger-posts.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\2742.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Back of a plucked lute.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\INSTRUM MUSEE\2744.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="94">
+				<TITRE><![CDATA[Repertoire <i>ma'anduru</i>.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The plucked lute accompanies the male solo song called <i>anduru'</i>. The song accompanied by the lute recounts historic episodes, praises the master of the house (ditendeng), and the audience, and then acts as intermediary between man and woman.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Historical narrative by Ne' Obi, at Lo'ko, Mamasa,1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\AN\l 2.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Another type of sung melody, by Ne' Obi, 70 years old, Mamasa, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\AN\l 1.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="15">
+		<TITRE><![CDATA[The <i>pompang</i> horn.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="29">
+			<TITRE><![CDATA[The flute-and-horn bands were formed with the arrival of the missionaries.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Among the Toraja, the popularity of bands called <i>musik</i> <i>bambu</i>, combining monophonic (one-pitch) horns and transverse flutes,is such that nowadays <i>musik</i> <i>bambu</i> is staged as traditional Toraja music. Various instruments make up these bands.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>40</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Flute-and-horn band, Mamasa, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0438.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\PP\PP 1.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="22">
+				<TITRE><![CDATA[The transverse flutes.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The six-holed transverse flute was first introduced in Sulawesi by the heads of Moluccan missionary schools in the first part of the nineteenth century. The Ambonese, long Protestant, were frequently employed in public administration, as they were often trilingual (in Ambonese, Malay and Dutch). Christian schoolteachers from Ambon and Minahasa were sent into the Toraja country to fulfill educational functions from 1910 up till the middle of the twentieth century. They also taught in the schools and made no secret of their desire to convert their pupils: they had a dual role –to teach and evangelize. In the schools they taught the children to make and play transverse flutes. That is why the Toraja still speak of ‘compulsory flute’(*<i>suling</i> <i>wajib</i>). Everywhere in Central Sulawesi and Toraja country the bamboo transverse flute was used in primary school music classes. Every school had –and still has –its flute band. Children walking to school over long distances would practise their instrument on the way (Bigalke 1981; Kaudern 1927; Harahap 1952: 15).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Transverse flutes, Toraja country, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0439.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Transverse flutes, Toraja country, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0427.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Transverse flute played by a children’s bandleader, 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0422.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="23">
+				<TITRE><![CDATA[The monophonic horns.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The bamboo horns (<i>pompang</i>) are attested from 1930 in a photo taken by Jaap Kunst showing children playing horns at Makale. According to some Toraja, the horns were introduced by the Manadonese around 1942. These flute-and-horn bands socialized young people in such way that conversions to Christianity were promoted. <i>Pompang</i> music may probably come from the <i>musik</i> <i>melulu</i> (bamboo horns called <i>musik</i> <i>bas</i>) of Sangir-Talaud, a group of Indonesian islands located just south of the Philippines.
+These bands also exist in Malaysia, in the state of Sabah, and in the southern Philippines (Taylor 1989: 15).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Map of instrumental migrations.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\22 Migrations.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Monophonic horn played by a six-year-old child, Sangalla', 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0437.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Monophonic horn played by a child, Sangalla', 1991.
+<b>§§1</b> <b>ARTICLE</b> <b>15</b> <b>ETAPE</b> <b>1</b>]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0421.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="73">
+				<TITRE><![CDATA[The multi-pipe horns.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Bands of multi-pipe horns, Mamasa, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0433.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Multi-pipe lateral flutes, Mamasa, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0429.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Multi-pipe horns, Mamasa, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0426.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Detail of a multi-pipe horn.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0430.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Detail of a multi-pipe horn.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0431.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="30">
+			<TITRE><![CDATA[The flute-and-horns (<i>pompang</i>) are played in bands by school children.]]></TITRE>
+			<COMMENTAIRE><![CDATA[A band of ‘<i>pompang</i> music’is made up of young school children playing transverse bamboo flutes (<i>suling</i> <i>bambu</i> <i>melintang</i>) who play the melody, and horns (<i>pompang</i>) of different sizes, rectangular in form, which ensure the harmony. Sometimes, a drum may accompany the band. The scale is diatonic. The recently introduced transverse flute is used only in these formations.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>41</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Child playing a monophonic horn (<i>pompang</i>).]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0436.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="24">
+				<TITRE><![CDATA[Horn sizes.]]></TITRE>
+				<COMMENTAIRE><![CDATA[As each horn is able to produce only one pitch, a band needs 15 horns. According to Pa’Patadungan, a <i>pompang</i> formation covers a range of three octaves.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Two horns of different sizes.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0434.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Pompang</i> horns.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0440.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Pompang</i> horns, profile view.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0432.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="74">
+				<TITRE><![CDATA[Schoolchildren’s band.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The bands are from schools, with ages ranging from 7 to 12 years.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Children’s band at Sangngalla', 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0428.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Children at Sangngalla', 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0423.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Children’s band, Sangngalla', 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0425.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="31">
+			<TITRE><![CDATA[These <i>pompang</i> bands are nowadays used for every occasion.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Created in schools, these <i>pompang</i> bands have been taking part in funeral celebrations since the 1950s. Today, competitions between regions are held at governmental celebrations.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>42</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Band integrated into a funeral celebration, Penduan Ra’ba, 2001.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\POMPANG\0435.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE></ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="26">
+				<TITRE><![CDATA[A testimony from 1940.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Concerning horns in the 1940s.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\WILCOX.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="27">
+				<TITRE><![CDATA[In the rituals.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: In a funeral celebration the band led by the village schoolteacher introduces the guests to the celebration, Penduan Ra’ba, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S90.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="28">
+				<TITRE><![CDATA[For the tourists.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Today, these <i>pompang</i> bands have become a sign of identity, a real Toraja ethnic marker. They bear witness to a form of controlled socialization characteristic of several regions of Indonesia, and are one of the main attractions offered to tourists in or outside the large hotels.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: a children’s band plays as an attraction for tourists, 1993.
+<b>§§</b>]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>s91.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+</ARTICLE>

@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Edited with SCD Editor v. 3.17e -->
+<!DOCTYPE articleSCDV3 SYSTEM 'articleSCDV3.dtd'>
+<ARTICLE id="5">
+	<TITRE><![CDATA[ANALYSE MUSICALE]]></TITRE>
+	<ID>5</ID>
+	<LANGUE>1</LANGUE>
+	<ANNEE_PUBLICATION></ANNEE_PUBLICATION>
+	<NOM_EDITEUR></NOM_EDITEUR>
+	<VILLE_EDITEUR></VILLE_EDITEUR>
+	<PAYS_EDITEUR></PAYS_EDITEUR>
+	<NOM_OUVRAGE></NOM_OUVRAGE>
+	<NOM_COLLECTION></NOM_COLLECTION>
+	<AUTEURS></AUTEURS>
+	<RESUME></RESUME>
+	<MOTS_CLEFS></MOTS_CLEFS>
+	<ETAPE id="15">
+		<TITRE><![CDATA[ORGANISATION DES SONS]]></TITRE>
+		<TYPE_ETAPE>0</TYPE_ETAPE>
+	</ETAPE>
+	<ETAPE id="1">
+		<TITRE><![CDATA[Profils mélodiques]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="1">
+			<TITRE><![CDATA[Le dépouillement mélodique caractérise la plupart des répertoires musicaux.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Le dépouillement se manifeste par l'usage de valeurs rythmiques élémentaires, isochrones, bichrones, par la réitération en boucle des cellules, le plus souvent organisées en motifs de trois ou quatre temps, par l'horizontalité des lignes mélodiques se déroulant sur un ambitus restreint.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>1</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Simplicité d'une cellule mélodique de <i>simbong</i>, région Pangngala'.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATION SIMBONG\31 S SYLLAB.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\EXEMPLES SON\SPO4TA.mp3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Matrice mélodique de <i>badong</i> se déployant sur quatre cellules.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>FLASH\12BRP12matrice.swf</ADRESSE>
+						<TYPE>FLASH</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+		<PROPOSITION id="16">
+			<TITRE><![CDATA[Les solistes se distinguent par leur compétence supérieure et par leur virtuosité.]]></TITRE>
+			<COMMENTAIRE><![CDATA[La virtuosité des solistes est sensible au Couchant dans la conduite du <i>badong</i>, dans la déploration <i>marakka</i>, et au Levant, dans le grand chœur <i>simbong</i>, et dans les répertoires pour flûtes du rituel <i>pakorong</i>. Leur compétence est nettement supérieure à celle des membres qui les accompagnent.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>2</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Ligne mélodique ornée dans <i>Pa'</i> <i>Indo'</i> <i>Tobong</i> issu du répertoire <i>marakka</i>, à Buntao' en 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATION MARAK\23 MARAKKA.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\MA\MA38.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="5">
+				<TITRE><![CDATA[Les chanteuses de déploration <i>marakka</i>]]></TITRE>
+				<COMMENTAIRE><![CDATA[Les chanteuses de <i>marakka</i> ont une haute maîtrise de l'art vocal. Dans les mélodies chantées, les valeurs de notes s'étirent langoureusement, puis sont brisées soudain par une ornementation virevoltante qui étouffe la pulsation.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Sonagramme. Début d'une pièce de <i>marakka</i>, une flûte et deux voix de femmes. L'image montre d'abord les inflexions ornées de la flûte puis l'inflexion descendante de la voix, soulignée par le passage du mode 2 en mode 1 lors de l'arrivée sur le fa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATION MARAK\SONAG MARAKKA.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SONMA38.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="7">
+				<TITRE><![CDATA[Les solistes des chœurs <i>simbong</i> et <i>nani</i>]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans les chœurs du Levant, un soliste conduit le groupe avec sa voix. Cette voix entonne, indique les changements de voyelles, annonce les passages au poème et signale la fin. La voix du soliste serpente en sinuosités déroutantes.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Exemple de voix soliste dans le <i>simbong</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATION SIMBONG\30 SIMBONG.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SPO4DEBUT.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="8">
+				<TITRE><![CDATA[Les solistes flûtistes]]></TITRE>
+				<COMMENTAIRE><![CDATA[L'art de la flûte est dévoilé à deux occasions : elle est jouée en solo pour accompagner la voix du <i>marakka</i> lors des funérailles, et en quatuor, lors du rituel d'éviction de la variole. Pour ce dernier, les solistes font preuve d'une dextérité remarquable, tant dans la lenteur que dans la vitesse.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pièce pour flûte <i>suling</i> <i>deata</i> enregistrée lors du rituel <i>pakorong</i>, 1993. La virtuosité du soliste est sensible par la maîtrise d'un tempo rapide.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATION SULING\1D2.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\SLD\16.1FD2.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="3">
+			<TITRE><![CDATA[L'apocope est un trait stylistique récurrent.]]></TITRE>
+			<COMMENTAIRE><![CDATA[L'apocope se définit par la chute d'un phonème, d'une ou de plusieurs syllabes à la fin d'un mot. Dans de nombreux répertoires, les fins de phrases sont tranchées brusquement : la dernière syllabe du vers chanté disparaît comme par étouffement. L'accent musical est souvent placé sur l'avant-dernière syllabe (paroxyton).]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>3</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Exemple d'apocope dans le répertoire <i>retteng</i>.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS RETTENG\RETTENG TEXTE.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\RE\RE1.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="11">
+				<TITRE><![CDATA[Dans le <i>badong</i>]]></TITRE>
+				<COMMENTAIRE><![CDATA[La fin de tous les chants de <i>badong</i>, toujours incisive, s'achève toujours par un terme tronqué, souvent <i>indo'</i> (« mère ») ou <i>ambe'</i> (« père »), adresses étouffées par un arrêt brutal.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Dernière phrase d'un <i>badong</i>, Rantetayo, vers 10-13.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS BADONG\NOTATION BRT\BRT 10-13.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\BRT10-13fin.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="9">
+				<TITRE><![CDATA[Dans le <i>dondi'</i>]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans le chœur <i>dondi'</i>, l'apocope est fréquente. Les trois dernières notes sont chantées dans une accélération et la dernière note, toujours coupée nette, élide par conséquent, la dernière syllabe.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Exemple d'apocope au niveau du premier vers. <i>Rante</i> est coupé en deux. <i>Dondi'</i> à Pangngala'.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS DONDI\14 RECITATION.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\DP\DP13-16.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[La fin du vers est presque coupée. <i>Dondi'</i>, Pangngala', 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS DONDI\17 MARIO-RIO.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\DP\DP19-20.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Exemple de fin abrupte dans une matrice mélodique de <i>dondi'</i> (région de Tikala)]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS DONDI\16 IA MAMMA.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\DT\DT61-62.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="12">
+				<TITRE><![CDATA[Dans le <i>retteng</i>]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans le <i>retteng</i>, la dernière syllabe de chaque octosyllabe est tronquée puis rejetée dans la période musicale suivante.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Exemple d'apocope dans le <i>retteng</i>]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS RETTENG\RETTENG TEXTE.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\RE\RE1.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="14">
+				<TITRE><![CDATA[Dans le <i>simbong</i>]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans le <i>simbong</i>, le dernier mot, souvent le plus important (<i>sumanga'</i> « énergie vitale », <i>lemo</i> « citron », métaphore de l'or, <i>bulayan</i> « or ») se voit tronqué dans la phrase musicale.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Extrait de fin de <i>simbong</i> (Poka 4).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATION SIMBONG\39 SIMBONGKORE.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SON13.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="4">
+			<TITRE><![CDATA[Le demi-ton est utilisé à des fins expressives.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Véritable technique expressive, la montée au demi-ton, de deux sortes, est récurrente dans de nombreux répertoires. Elle est une source de tension qui contraste avec l'horizontalité monotone de la corde récitative. Dans les deux cas, l'usage du demi-ton structure la composition mélodique et intensifie l'expression.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>1</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Le demi-ton dans le <i>dondi'</i>, Pangngala', vers 82.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>US\DP\DP82-85.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="16">
+				<TITRE><![CDATA[Un demi-ton élève une même mélodie]]></TITRE>
+				<COMMENTAIRE><![CDATA[G. Rouget (1961 : « Un chromatisme africain », <i>L'Homme</i> I, 3 : 32-46) parle alors de « chromatisme mélodique » ; dans ce cas, la récurrence du demi-ton fournit son dessin à la mélodie. Ascendant puis descendant, souvent employé au début du vers, la présence de ce demi-ton entraîne à chaque fois une coloration de la corde récitative par le renouvellement de la dynamique.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Le demi-ton mélodique dans le <i>dondi'</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS DONDI\57 DEMITON.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\DP\DP95-96.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Le demi-ton dans le grand chœur du Levant. Entre chaque phrase, la soliste monte au demi-ton. La note est dite « aspirée » (disirok). Chanteuse Indo' Tandirerung, Ulusalu, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\SU\SU 5-9.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Le demi-ton descendant dans le <i>marakka</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATION MARAK\23.1 MARAKKA.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\MA\MA38.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="86">
+				<TITRE><![CDATA[Un demi-ton mélodique opère au niveau de la phrase musicale]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>25</ETAPE_LIEN>
+					<PROPOSITION_LIEN>112</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="2">
+		<TITRE><![CDATA[Échelles toraja]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="5">
+			<TITRE><![CDATA[Les formules mélodiques, parfois construites sur un ton, se déploient le plus souvent selon une échelle à trois sons.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Chaque degré de « l'échelle-matrice » assume une fonction mélodique semblable dans tous les répertoires. La note la plus grave, notée 3, sert de note d'intonation, la note intermédiaire, notée 5, note centrale, sert le plus souvent de note de terminaison ou de corde de récitation (dans le <i>badong</i>) et la note du dessus, notée 6, sert de corde de récitation (dans le <i>dondi'</i>). Enfin, les notes ajoutées ne constituent que des attractions provisoires permettant des variations expressives.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>4</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Fig. A : échelle minimale sur un ton ; fig. B : échelle matrice à trois sons.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\NOTATION\ANALYSES\ECHELLES1.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="85">
+				<TITRE><![CDATA[Code de transcription]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Code de lecture.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\ANALYSES\KODETRANSCRIP.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="6">
+			<TITRE><![CDATA[L'échelle matrice à trois sons peut être enrichie par l'ajout d'un ton ou d'un demi-ton ascendant.]]></TITRE>
+			<COMMENTAIRE><![CDATA[L'échelle à trois sons enrichie peut être considérée comme une échelle tétraphonique (à quatre sons). Elle est régulièrement employée par les solistes qui ornent bien souvent à un intervalle de quarte.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>5</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[L'échelle de base et ses enrichissements (fig. C et D)]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\NOTATION\ANALYSES\ECHELLES.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="8">
+			<TITRE><![CDATA[L'échelle matrice résulterait de la série harmonique.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Kurd Reinhardt désigne l'échelle matrice (sol sib do) par le terme « nucleus » et suggère que le pentatonisme en serait issu (Reinhard 1958). La succession des intervalles de tierce mineure, seconde, et seconde pourrait correspondre à la suite des harmoniques 6, 7, 8, 9 de la série harmonique (en prenant do pour h1).]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>6</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Place de l'échelle matrice toraja en gras dans la série harmonique.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\NOTATION\ANALYSES\SERIE HARM.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="7">
+			<TITRE><![CDATA[Le répertoire de déploration <i>marakka</i> se distingue par son échelle particulière.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Seule l'échelle du répertoire de déploration <i>marakka</i>  -  telle une échelle <i>slendro</i> amputée  -  présente un ambitus dépassant la quinte d'un demi-ton. La flûte couvre tout l'ambitus tandis que la voix couvre un ambitus plus restreint.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>7</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Échelle du <i>marakka</i>.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATION MARAK\SCALE MARAKKA.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\MA\MA38.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="3">
+		<TITRE><![CDATA[Plan harmonique]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="12">
+			<TITRE><![CDATA[Le bourdon est le propre des répertoires du Levant.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Dans les musiques des rituels du Levant, les pièces présentent une même composition à deux parties opposant un bourdon homophone et une partie soliste brodant à la seconde inférieure et supérieure.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>8</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Tableau des répertoires : en grisé, répertoires sur bourdon.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TABLEAUX\BOURDON.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="17">
+				<TITRE><![CDATA[Bourdon continu et discontinu]]></TITRE>
+				<COMMENTAIRE><![CDATA[Tant dans la musique vocale qu'instrumentale, le bourdon peut être alternativement continu et discontinu. Le bourdon continu des flûtes et vièles de guérison évoque celui du <i>simbong</i>. Alors que dans ce dernier le bourdon devient syllabique lors de la récitation des paroles, dans les répertoires instrumentaux, il est discontinu (rythmé), dans des mélodies au tempo rapide.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Bourdon continu dans une pièce pour flûte (<i>buku</i> <i>suling</i> <i>penduan</i>), rituel <i>pakorong</i>, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\SLD\02.1FA1.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Extrait de chœur <i>simbong</i>, début, avant l'énonciation des paroles.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SPO4DEBUT.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Bourdon discontinu dans un quatuor de flûtes (<i>suling</i> <i>deata</i>), rituel <i>pakorong</i>, 1993. Pièce intitulée <i>*Bunyi</i> <i>kecapi</i> <i>orang</i> <i>dulu</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\SLD\15.1FD1.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Bourdon discontinu, extrait de chœur <i>simbong</i>, Poka, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SPO4TA.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="13">
+			<TITRE><![CDATA[La seconde harmonique est l'intervalle privilégié.]]></TITRE>
+			<COMMENTAIRE><![CDATA[La seconde est l'intervalle harmonique le plus clairement recherché. Il prédomine tant dans les répertoires des rites du Levant que ceux des rites du Couchant.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>9</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[VIDEO : Chœur <i>nani</i> (ou <i>dondo</i>, <i>dandan</i>) à la seconde, Ulusalu, août 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>S37.flv</ADRESSE>
+						<TYPE>VIDEO</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Extrait de <i>simbong</i> (sur bourdon à la seconde).]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\SIMBONG\SIMBONG\SIMBONGDEBOUT\1151.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\EXEMPLES SON\SPO4DEBUT.mp3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Présence de l'intervalle de seconde dans le <i>dondi'</i>.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS DONDI\15 DONDI SYLLAB.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\DS\DS07-9.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Présence de l'intervalle de seconde au début d'un <i>badong</i>, Tapparan.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS BADONG\ORNEMENT2BRT13.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\EXEMPLES SON\BRT13DEBUT.mp3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="19">
+				<TITRE><![CDATA[Taille de la seconde harmonique variée selon les groupes]]></TITRE>
+				<COMMENTAIRE><![CDATA[L'intervalle de seconde qui détermine le degré de brillance diffère selon les groupes : les limites de la seconde varient de 140 cents à 250 cents, soit une différence de presque un demi-ton selon les chœurs. Les chœurs sonores, « clairs » et « tranchant » utilisent une grande seconde (entre 220 cents et 250 cents, soit presque une tierce mineure) alors que les chœurs qui « sonnent moins » utilisent une seconde plus petite (140 cents).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Une seconde large : dans les chœurs expérimentés (Lo'ko' Lemo, Awan SangPolo), l'intervalle harmonique privilégié se stabilise en général sur un rapport de 7/6, 8/7 (au-dessus de 220 cents) ou de 9/8 (entre 200 et 220 cents). Ici, chœur de Lo'ko' Lemo, Poka 2, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\SPO\SPO2.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Une seconde plus étroite : dans les chœurs moins expérimentés, les rapports de fusion sont plus petits (9/8, 10/9, 11/10, 12/11, 13/12, 14/13) car la fusion se fait sur des harmoniques plus éloignées, sur les harmoniques 9, 10, 11 au lieu des harmoniques 6, 7, 8. Ici, <i>Simbong</i> de Baruppu' vers 4-5, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\SBR\SBR04-05.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="21">
+				<TITRE><![CDATA[Élargissement de l'intervalle harmonique au sein d'une même pièce]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans toutes les pièces de <i>simbong</i>, une constante se dégage : le rapport entre les deux voix s'agrandit en cours de morceau pour atteindre un état stable. Au début, le rapport est de moins d'un ton. Il sera presque toujours agrandi à la fin de la pièce (sauf pour les chœurs de Se'seng qui quelquefois concluent sur un rapport de 10/9, soit une petite seconde). Les différences entre début et fin au sein d'une même pièce sont quelquefois de l'ordre d'un demi-ton.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Début du chant <i>simbong</i> (SPO 4), enregistré à Poka. L'intervalle passe de 165 cents (fusion 11/10) au début à 252 cents (fusion 7/6) à la fin. Alors que le bourdon baisse, le soliste se maintient.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SPO4DEBUT.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Début du chant <i>simbong</i> (SA 21-25), Awan.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SA21-25DEBUT.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Début d'un chant <i>simbong</i> de Se'seng, piste 13.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\Piste 13 DEBSEC.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Fin du chant <i>simbong</i> (SPO 4), Pangngala'.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SPOFIN.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Fin du chant <i>simbong</i> (SA 21-25), Awan]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SA21-25FIN.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Fin du chant <i>simbong</i> de Se'seng, piste 13.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\Piste 13FIN.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="22">
+				<TITRE><![CDATA[Influence de la voyelle énoncée sur l'intervalle de seconde]]></TITRE>
+				<COMMENTAIRE><![CDATA[L'élargissement de l'intervalle harmonique est notamment lié au changement de voyelle. Lors du passage des voyelles [o] à [e], la hauteur du soliste (qui chante un [e] tirant sur le [[] ) monte alors que le bourdon reste stable ou baisse. Les formants aigus du è du soliste contribuent à attirer la voix du soliste vers le haut. L'élargissement du rapport est donc lié, entre autres facteurs, à la voyelle employée. Certains chanteurs affirment « suspendre en haut » pour le [e] (dibasse <i>ma'do</i>) et « suspendre en bas » pour le [o] (dibasse <i>ma'</i> <i>diong</i>).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Exemple de changement de voyelle, extrait de Poka 4.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\BASSE1.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Exemple de changement de voyelle au début d'un chant <i>simbong</i> d'Awan (21-25).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SA21-25.basse.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="23">
+				<TITRE><![CDATA[Instabilité globale de l'intervalle harmonique entre les pièces]]></TITRE>
+				<COMMENTAIRE><![CDATA[Un même chœur ne cherche pas forcément la même seconde pour chacune des pièces. L'intervalle est rarement stable tant au sein d'une même pièce qu'entre 2 pièces différentes. Un chœur peut finir sur une seconde moyenne (rapport de 9/8 soit 204 cents à Poka 2) puis dans la pièce suivante sur une seconde élargie (rapport de 7/6 soit 252 cents, Poka 4) ou inversement il peut finir sur une seconde élargie (rapport de 8/7 soit 244 cents) et dans une des pièces suivantes, sur une petite seconde (rapport 11/10 soit 165 cents).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Simbong</i> Poka 2 (1993, Rindingallo). La pièce se termine sur une seconde en rapport 9/8, soit 204 cents.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\SPO\SPO2.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Simbong</i> Poka 4. La pièce se termine sur une seconde élargie dans un rapport de 7/6, soit 252 cents.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\SPO\SPO4.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="15">
+			<TITRE><![CDATA[Orner l'unisson est une pratique propre à tous les répertoires.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les bons chanteurs sont ceux qui savent orner l'unisson. Les différentes expressions vernaculaires attestent de l'importance du changement de voix. Il s'agit de « changer les voix pour les embellir » (*<i>meroba</i> <i>suara</i> <i>supaya</i> <i>merdu</i>).]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>10</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[L'unisson est orné par un soliste dans le <i>badong</i>.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS BADONG\ORNEMENT2BRT13.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="3">
+				<TITRE><![CDATA[Les expressions vernaculaires]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Termes toraja décrivant l'ornement vocal.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\ORNERUNISSON.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="14">
+			<TITRE><![CDATA[Parallélisme, hétérophonie et bourdon sont les trois types de plurivocalité toraja.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les parties vocales ou instrumentales peuvent être soit à l'unisson, en hétérophonie, en parallélisme (à la tierce, à la quarte ou à la quinte) et sur bourdon.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>11</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>Dondi'</i> en quintes parallèles, 1991.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS DONDI\18 DONDIPOLYPH.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\DM\DM13-14.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="29">
+				<TITRE><![CDATA[À l'unisson]]></TITRE>
+				<COMMENTAIRE><![CDATA[Tous les répertoires sont pensés à l'unisson sauf le <i>simbong</i>, le <i>io-io</i> et les musiques du rituel <i>pakorong</i>.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Dondi'</i> enregistré à Sangngalla', 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\DS\DS12-13.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Chœur <i>badong</i> de 50 chanteurs environ, Gandang Batu,1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\BGB\BGB 2.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="84">
+				<TITRE><![CDATA[À un intervalle de seconde]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans la plupart des répertoires, le soliste chante (ou joue) à un intervalle de seconde (non tempérée), intervalle prédominant non seulement dans les répertoires sur bourdon (chœurs <i>simbong</i>, <i>io-io</i> et flûtes <i>suling</i> <i>deata</i> et <i>suling</i> <i>bonde</i>), mais aussi dans les répertoires funéraires qui ne sont pourtant pas sur bourdon, tels <i>badong</i> et <i>dondi'</i>.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Simbong</i> enregistré près de Pangngala', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\SPO\SPO3.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Simbong</i> de Se'seng enregistré à Bittuang, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\Piste 13.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Quatre flûtes jouent sur bourdon à la seconde lors du rituel <i>pakorong</i>, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\SLD\29.2FD2.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pièce pour quatuor de flûtes, <i>suling</i> <i>deata</i>, rituel <i>pakorong</i>, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\SLD\33.3VA1.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="31">
+				<TITRE><![CDATA[À la tierce]]></TITRE>
+				<COMMENTAIRE><![CDATA[L'unisson des hommes dans le <i>badong</i> peut être doublé à la tierce par des femmes et plus rarement par des hommes. Dans le <i>dondi'</i>, une même mélodie peut être chantée à la tierce.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Badong</i> à la tierce, enregistré à Karongian (Baruppu'), le 30 juin 1993. <i>Badongmo</i> <i>sullena</i> <i>bating</i>. Dernier jour des funérailles.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\PO\PO1.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Dondi'</i> à la tierce neutre, à Sa'dan Matallo. Les chanteurs viennent du village de Se'seng (Saluputti).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\DO\DO2.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Badong</i> à la tierce, Penduan Ra'ba', 2001. La tierce est chantée par des hommes.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\PO\PO6.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Dondi'</i> à la tierce, chœur mixte, funérailles Sa'dan Malolo. Les chanteurs viennent du village de Se'seng (Saluputti).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\DO\DO3.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="32">
+				<TITRE><![CDATA[À la quarte]]></TITRE>
+				<COMMENTAIRE><![CDATA[<i>Dondi'</i> et <i>badong</i> peuvent être chantés en doublure parallèle à la quarte.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Badong</i> à la quarte, enregistré à Kendenan (Baruppu'), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\PO\PO2.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Badong</i> à la quarte enregistré à Kendenan (Baruppu'). Les femmes chantent à la quarte par rapport aux hommes.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\PO\PO5.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Badong</i> à la quarte, enregistré à Kendenan (Baruppu'), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\PO\PO4.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="33">
+				<TITRE><![CDATA[À la quinte]]></TITRE>
+				<COMMENTAIRE><![CDATA[<i>Dondi'</i> et <i>badong</i> peuvent être chantés à la quinte. D'après les exemples recueillis, le <i>badong</i> est plus généralement chantée à la tierce ou à la quarte, et le <i>dondi'</i> à la quinte.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Badong</i> à la quinte, Lengkong, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\PO\PO3.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Dondi'</i>, Randanan (Mengkendek), août 1991. La quinte est chantée par un homme.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\DM\DM15-16.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Dondi'</i> à la quinte, Lengkong (Sapan), août 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\DO\DO6.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Dondi'</i> à la quinte, Kendenan (Baruppu'), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\DO\DO4.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Dondi'</i>, Randanan, 1993..]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\DO\DO8.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="4">
+		<TITRE><![CDATA[Les jeux de changement vocalique]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="46">
+			<TITRE><![CDATA[Certains répertoires présentent des jeux de changement vocalique.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Ces jeux, manifestes dans deux répertoires (<i>badong</i> et <i>simbong</i>), consistent à jouer sur un changement de voyelle, correspondant à une variation du spectre, provoquée par l'inversion des points d'articulation.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>2</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Jeu de changement vocalique entre les deux grands chœurs]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>FLASH\basse01.swf</ADRESSE>
+						<TYPE>FLASH</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="88">
+				<TITRE><![CDATA[Sens du mot <i>basse</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>76</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="87">
+				<TITRE><![CDATA[Dans le <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>26</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="78">
+				<TITRE><![CDATA[Dans le <i>badong</i>]]></TITRE>
+				<COMMENTAIRE><![CDATA[Au sens propre, <i>basse</i> désigne une suspension à deux versants. Il implique l'idée de bilatéralité, en se rapportant une chose retombant en deux parties en deux côtés opposés mais pas nécessairement symétriques. À propos d'un col de montagne, le terme évoque le passage de la montée à la descente (Veen & Tammu 1972). <i>Basse</i> désigne également le fait d'achever quelque chose. En musique, il désigne un changement de voyelle ou un changement de fréquence, d'une note basse à une note haute par exemple (notamment quand une flûte s'accorde en jouant une octave).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Description du sens de <i>basse</i> : par un dessin, un informateur oppose une « maison suspendue » (banua <i>ditoke'</i>) qui présente une suspension perpendiculaire à une seule partie à une « corde retombant en deux pans » (ulang <i>dibasse</i>). <i>Basse</i> désigne deux pans.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\BASSE.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="81">
+				<TITRE><![CDATA[Approche acoustique]]></TITRE>
+				<COMMENTAIRE><![CDATA[Les spécificités acoustiques du jeu de voyelles ont été mises en évidence par l'analyse de sonagrammes. Sur [o], le spectre est étendu de h1 à h4 et sur [e], le spectre s'élargit et laisse apparaître trois zones formantiques : h1 à h3 ; h7 à h9 et h12-h13-h14. Les voyelles fermées antérieures ont un champ de fréquence plus vaste car les formants sont éloignés. Lors du passage de [o] à [e], il y a modification d'un aspect du timbre : la brillance, déterminée par la fréquence des formants. Les deux premiers formants du [o] sont rapprochés alors que ceux du [e] sont écartés.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Sonagramme 12. Mise en regard de deux débuts de chœur <i>simbong</i>. Chacun exécute son changement de voyelle (basse), en passant de [o] vers [e] vers [o]. Le son choisi ici correspond au sonagramme du bas, de la région de Pangngala'.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\SONAG\son12.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SPO4DEBUT.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Sonagramme 12. Mise en regard de deux début de <i>simbong</i> chantés par un chœur d'une vingtaine d'hommes (en haut, région Se'seng, en bas, région Pangngala'). Le son choisi correspond au sonagramme du haut.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\SONAG\son12.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\Piste 13DEBUT.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Sonagramme 13. Extrait d'une fin de pièce de <i>simbong</i> (chœur d'hommes enregistré à Poka). Les paroles <i>kurre-kurre</i> <i>sumanga'</i> sont transformées en <i>koré-koré</i> <i>somengngé</i> car les voyelles tendent toutes vers [o] et [e].]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\SONAG\son13.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SON13.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Fréquence des deux premiers formants des voyelles de la langue française, d'après un tableau de Suzanne Fürniss, « La technique du jodel chez les Pygmées aka (Centrafrique). Une étude phonétique et acoustique », <i>Cahiers</i> <i>de</i> <i>musiques</i> <i>traditionnelles</i>, 1991, vol. 4, p. 172.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\FORMANTS1.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="82">
+				<TITRE><![CDATA[Approche phonétique]]></TITRE>
+				<COMMENTAIRE><![CDATA[Les voyelles [o] et [e] sont privilégiées. Ces deux voyelles sont mi-fermées. Dans le passage de [o] à [e], le mouvement passe d'un lieu d'articulation postérieur à antérieur, mais le degré d'aperture reste le même. L'opposition ne se joue pas sur une relation voyelle fermée/ouverte, mais sur le passage d'une position antérieure à postérieure.
+
+Ce n'est pas l'incidence de l'aperture qui ici modifie le timbre, mais un changement du lieu d'articulation de la voyelle. En fonction de celui-ci, les différentes zones du spectre sont inégalement couvertes. Si on assiste à l'uniformisation des voyelles en [o] et [e], c'est que les chanteurs privilégient l'alternance du spectre, soit étroit, soit large.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Opposition entre [o] et [e].]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\PHONETIQUE.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Triangle phonétique, d'après Luc Bouquiaux, France Cloarec-Heiss, Jacqueline Thomas, <i>Initiation</i> <i>à</i> <i>la</i> <i>phonétique</i>, Paris, Puf, 1976.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\TRIANGLE.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="10">
+			<TITRE><![CDATA[La qualité chorale des voix toraja se distingue par son homogénéité.]]></TITRE>
+			<COMMENTAIRE><![CDATA[L'homogénéité vocale est sensible dans l'union des timbres, dans la qualité d'un grain vocal cuivré, dans la recherche de spectres harmoniques alternés par les changements de voyelles.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>12</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Photo : <i>Badong</i> à Penduan Ra'ba', 2001. Enregistrement : <i>badong</i> de Baruppu' à la quarte.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\BADONG\PENDUANRABA\0466.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\PO\PO5.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>Badong</i> de Limbong (Pangngala'), 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>US\LIM\LIM 1.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>Simbong</i> d'un groupe de Pangngala', enregistré à Poka, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>US\SPO\SPO3.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>Dondi'</i> à la tierce.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>US\DO\DO3.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="16">
+		<TITRE><![CDATA[ORGANISATION DES MUSICIENS]]></TITRE>
+		<TYPE_ETAPE>0</TYPE_ETAPE>
+	</ETAPE>
+	<ETAPE id="8">
+		<TITRE><![CDATA[Organisations hiérarchiques]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="18">
+			<TITRE><![CDATA[De nombreux ensembles s'organisent en deux groupes nommés.]]></TITRE>
+			<COMMENTAIRE><![CDATA[La structure de la plupart des ensembles (<i>badong</i>, <i>simbong</i>, <i>nani</i> ou <i>dandan</i>, <i>io-io</i>, <i>suling</i> <i>bonde</i>, <i>suling</i> <i>deata</i>, <i>geso'-geso'</i>, <i>bugi'</i>, <i>gandang</i>) présente une constante : une organisation en deux groupes (vocal ou instrumental) - entre un chœur qui forme une base et un soliste brodant à la seconde supérieure ou inférieure.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>3</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Organisation d'un groupe de <i>suling</i> <i>bonde</i>, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\FIGURES\SULINGBONDE.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\SLM\SLM2.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="89">
+				<TITRE><![CDATA[La ronde <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>29</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="38">
+				<TITRE><![CDATA[Le chœur <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>112</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="42">
+				<TITRE><![CDATA[Les instruments du rituel <i>pakorong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>59</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="43">
+				<TITRE><![CDATA[Les tambours]]></TITRE>
+				<COMMENTAIRE><![CDATA[Un groupe de 4 tambourinaires se fonde sur une organisation en trois rôles : le chef (<i>pangindo'</i>), deux personnes qui frappent en réponse (la base) et qui constituent la base musicale (<i>pangrepe</i>) et un brodeur (<i>pa'pasala</i>). Les joueurs de la base commencent, puis c'est au tour du brodeur puis du chef. Deux personnes assument un rôle mélodique et deux un rôle de base. Il y a lieu ici encore de distinguer une organisation en deux groupes.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO : Jeu de tambour à Sa'dan, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S21.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="19">
+			<TITRE><![CDATA[Le soliste est assisté par un à plusieurs assistants.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Le soliste ou meneur (<i>indo'</i> « mère ») est soutenu par deux types d'assistants : « encadreurs, côtoyeurs » (<i>passa'pi'</i>) et « soutien » (<i>pa'tokon</i>).]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>4</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Tableau du nom des différents rôles dans plusieurs répertoires.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TABLEAUX\PASAPI.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="45">
+				<TITRE><![CDATA[Dans la ronde <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>71</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="47">
+				<TITRE><![CDATA[Dans les chœurs <i>simbong</i>, <i>nani</i>, <i>io-io</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>29</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="48">
+				<TITRE><![CDATA[Instruments de musique du rituel <i>pakorong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>59</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="49">
+				<TITRE><![CDATA[Flûtes de guérison de Mamasa]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>67</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="20">
+			<TITRE><![CDATA[Dans un groupement hiérarchique, les rôles sont subordonnés les uns aux autres.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Un principe de subordination se dégage : les « assistants » dépendent de leur meneur ; le groupe est subordonné au soliste. Cette subordination met en valeur la supériorité du soliste, seul à maîtriser le savoir-faire ornemental. Une structure en 4+1 ou 3+1 ou 2+1 est récurrente.]]></COMMENTAIRE>
+			<NIVEAU>2</NIVEAU>
+			<ORDRE>1</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Organisation du chœur <i>simbong</i>.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>FLASH\04dispo_Simbong.swf</ADRESSE>
+						<TYPE>FLASH</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="83">
+				<TITRE><![CDATA[Organisation des groupements]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>5</BASE_LIEN>
+					<ETAPE_LIEN>8</ETAPE_LIEN>
+					<PROPOSITION_LIEN>19</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="21">
+			<TITRE><![CDATA[Dans un groupement hiérarchique, les musiciens sont interdépendants.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Entre un chef et le groupe, entre un chef et ses assistants, entre les quatre groupes solistes et le chœur, l'interdépendance est sensible sur le plan du partage des tâches musicales. Ce principe empêche l'expression individuelle, même pour le soliste ; les chanteurs ne s'expriment jamais seuls mais toujours comme membres d'un tout. Cette immuabilité de la forme consacre l'unité communautaire.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>5</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Disposition d'une ronde <i>badong</i>.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>FLASH\badong_role.swf</ADRESSE>
+					<TYPE>FLASH</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="50">
+				<TITRE><![CDATA[Dans le <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>75</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="51">
+				<TITRE><![CDATA[Dans le répertoire pour flûtes du rituel <i>pakorong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>61</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="9">
+		<TITRE><![CDATA[Organisations non hiérarchiques]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="23">
+			<TITRE><![CDATA[Certaines formations ne subordonnent pas les voix les unes aux autres.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Dans certains cas - <i>dondi'</i>, <i>serang</i> <i>mundan</i>, <i>gelong</i> <i>maro</i>, <i>gelong</i> <i>bugi'</i>, <i>badong</i> <i>to</i> <i>buda</i> - une même partie est chantée par l'ensemble.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>6</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Ronde à l'unisson avant le départ vers la sépulture, Bokko, 1993]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\COUCHANT\BOKKO\1440.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="53">
+				<TITRE><![CDATA[Ronde <i>badong</i> à l'unisson]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dès que la musique marque les déplacements du défunt, une seule ronde est chantée, en chœur unitaire  -  par tous les exécutants, à l'unisson et sans alternance de solistes  -, tous les vivants voulant prendre part au geste d'adieu. La ronde est alors « ouverte » à tous. Conçue comme « bâtarde et amateur », elle est appelée <i>badong</i> <i>sirauta'nak</i> « <i>badong</i> dans lequel se mélangent plusieurs graines » ou <i>badong</i> <i>sangrupa</i> « d'une seule forme » ou encore <i>badong</i> <i>sikalombu</i> « <i>badong</i> boueux ». Tous ceux qui le souhaitent  -  ceux qui aiment et savent chanter  -  se joignent au cercle.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Badong</i> à l'unisson, chœur de Rantetayo, Tapparan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\BRT\BRT38.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Badong</i>, Tumbang Datu, région Bokko.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\BRB\BRB94-95.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="54">
+				<TITRE><![CDATA[Chœur <i>dondi'</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>25</ETAPE_LIEN>
+					<PROPOSITION_LIEN>113</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="56">
+				<TITRE><![CDATA[Chœur <i>nondo</i> <i>maro</i> des hommes]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>17</ETAPE_LIEN>
+					<PROPOSITION_LIEN>52</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="57">
+				<TITRE><![CDATA[Chœur <i>serang</i> <i>mundan</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>13</ETAPE_LIEN>
+					<PROPOSITION_LIEN>77</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="10">
+		<TITRE><![CDATA[Polymusiques]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="26">
+			<TITRE><![CDATA[Dans les grandes fêtes, les groupes de chanteurs chantent côte à côte et séparément.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Alors que ces musiques ne font l'objet d'aucune coordination rythmique, elles sont pourtant chantées simultanément : elles sont juxtaposées. Cette juxtaposition est fixe, durable et intentionnelle.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>7</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[VIDEO : Juxtaposition d'un chœur masculin et d'un chœur féminin. Images : Yves Defrance, Lo'ko' Lemo, 2005.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>S101.flv</ADRESSE>
+						<TYPE>VIDEO</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="59">
+				<TITRE><![CDATA[Rondes <i>badong</i> juxtaposées]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>71</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="60">
+				<TITRE><![CDATA[Chœurs <i>dondi'</i> juxtaposés]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans certaines fêtes funéraires, ou même avant la fête, quand le défunt repose dans la maison, les gens veillent le mort en chantant la lamentation <i>dondi'</i>. À Baruppu', plusieurs groupes chantent dans la maison du défunt.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Dans la maison où repose le défunt, 2 groupes chantent dans 2 pièces différentes, Kendenan (Baruppu'), 14 août 1993. Chef de chœur : Bo'ti'.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\PM\PM4.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="62">
+				<TITRE><![CDATA[Musiques juxtaposées lors de l'accueil des invités]]></TITRE>
+				<COMMENTAIRE><![CDATA[Différentes musiques rythment l'avancée des invités dans l'espace de la fête. Elles se succèdent tout en se superposant une à une, en se chevauchant, à quelques mètres de distance. L'intensité du mortier couvre les longs gémissements de la plainte élégiaque <i>marakka</i>, triste et lancinante, musicalement proche des pleurs ; les courtes mélodies féminines, planes et stagnantes du chœur <i>katia</i> s'entremêlent aux puissants accents de la ronde masculine <i>badong</i>, sans cesse brouillée par le mégaphone mal réglé du maître de cérémonie. Mélange de registres, mélange de timbres et mélange de rythmes.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Superposition de son du mortier à riz, des cris des porcs et du mégaphone dans des funérailles à Tallung Lipu, 1993. Dès qu'un groupe d'invités se présente au portail, le mortier à riz, à cinquante mètres en amont, est frappé par huit femmes. Don des invités à la famille, les porcs ficelés, braillant sans discontinuer, sont d'abord introduits et posés sur le champ cérémoniel, leurs cris se joignant au son du mortier, dans une ambiance étourdissante.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\FILES COUCHANT\0792.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\PM\PM2.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Superposition de sources musicales non coordonnées : chanteuse et flûtiste de <i>marakka</i>, chœurs <i>badong</i>, gong, puis chœur féminin de <i>katia</i>. Une fois que les invités s'approchent de la tente de réception, ils sont inondés de sons différents et variés. Tallung Lipu, funérailles, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\PM\PM1.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="64">
+				<TITRE><![CDATA[Danses <i>simbong</i> et <i>nani</i> juxtaposées]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>24</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="65">
+				<TITRE><![CDATA[Chants et tambours du rituel <i>maro</i>]]></TITRE>
+				<COMMENTAIRE><![CDATA[Le rituel <i>maro</i> peut être réalisé par plusieurs familles. Chaque famille se dote d'un ensemble de groupes sonores : tambours, officiants, chanteurs. Le dernier jour, un même ensemble est dupliqué selon les nombre de familles participantes. Ainsi, au rituel de Torea, en novembre 1993, je vis 5 mâts, 5 tambours, 5 groupes d'officiants et 5 groupes de jeunes danseuses et plusieurs groupes de chanteurs informels réunis en un seul lieu. Ici, sont juxtaposées des musiques de nature différente : chants de transe, psalmodies des officiants et tambours de danses.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Juxtaposition de chants de transe (<i>gelong</i> <i>unnondo</i> « chant pour sauter »), de tambours et de cris. Le chant est destiné à convoquer les divinités à descendre sur le lieu cérémoniel.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\MAPASANB\1523.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\PM\PM6.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Juxtaposition des chants psalmodiés des officiants avec les tambours. Quatre vieux officiants chantent un hymne au mât cérémoniel tandis que derrière, des frappes de tambours accompagnent la danse <i>gellu'</i> des jeunes filles. Torea, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\MAPASANB\2426.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\PM\PM7.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="29">
+			<TITRE><![CDATA[Pour la famille qui organise la fête, cette polymusique est signe de prestige social.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Plus le nombre de chœurs est important, plus la fête gagne en ampleur, plus la famille exhibe son pouvoir et son statut au regard tous. Les rituels toraja voient ainsi souvent l'enjeu primaire - garantir le confort de l'âme du défunt - supplanté par un enjeu politique de promotion sociale (acquérir prestige et statut par la distribution prodigue de riz, de viande et de sons aux autres familles et villages voisins).]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>13</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Parents de la défunte Ne' Sakkung, Tapparan, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\COUCHANT\ORGANISER\0767.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="30">
+			<TITRE><![CDATA[Cette polymusique manifeste l'échange entre les familles.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Deux groupes de donneurs sont distingués : les consanguins (cousins ou descendants de cousins) et les affins (parents par alliance). Quand les premiers apportent des cochons ou des cadeaux, ceux-ci ne sont pas considérés comme une dette. À l'opposé, les cadeaux des affins (cochons, vin de palme, riz ou danseurs) seront tenus pour dettes. Ils seront retournés en contrepartie à l'occasion d'autres fêtes. Un chœur représente donc aussi une forme de dette.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>14</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Apport des cochons, funérailles de Puang Laso Gau' Lembang, Mengkendek, 1991.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\COUCHANT\APPORTER LES COCHONS\2126.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="31">
+			<TITRE><![CDATA[Du point de vue des chanteurs, cette polymusique manifeste un principe de territorialisation.]]></TITRE>
+			<COMMENTAIRE><![CDATA[La superposition des groupes résulte de leur refus de se mélanger. Regroupés sur le même lieu, les chœurs, venant chacun d'une région ou d'un village différents, chantent simultanément mais séparément, dans une relation agonistique. Leur différence s'exprime notamment par la couleur de leur habit attribué par la famille commanditaire en échange de leur prestation. La polymusique résulte de l'expression simultanée d'unités régionales.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>15</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Au centre de la ronde, repousseurs de sorts (<i>pa'sande'</i> <i>boko'</i>, « ceux qui gardent l'arrière »), Tapparan, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\BADONG\RANTETAYO\0483.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="32">
+			<TITRE><![CDATA[Du point de vue religieux, ces polymusiques peuvent être considérées comme des offrandes sonores.]]></TITRE>
+			<COMMENTAIRE><![CDATA[L'abondance des offrandes animales va de pair avec les offrandes musicales. Celles-ci sont exhibées simultanément bien que séparément sur le champ cérémoniel. C'est par leur juxtaposition qu'est signifié l'appel des humains vers les entités immatérielles - ancêtres et divinités. Les musiques juxtaposées, au même titre que les offrandes alimentaires, mettent en relation les vivants avec l'invisible.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>16</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Hécatombe lors de funérailles à Tikala, 1991.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\COUCHANT\ABATTRE\HECATOMBES\0596.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="76">
+				<TITRE><![CDATA[Les offrandes animales]]></TITRE>
+				<COMMENTAIRE><![CDATA[Les buffles et porcs sont tués par dizaines. À peine un buffle s'est-il effondré dans un râle encore perceptible que le suivant a la gorge tranchée. À la fin, on assiste au démembrement général et à l'exposition des morceaux de viande sur des feuilles à même le sol avant d'être redistribués, selon des règles précises liées à l'héritage des terres de rizières.
+
+Tels les chants en polymusique, la mise à mort de buffles fait l'objet de pratiques de sorcellerie. Certains jettent des sorts afin que le buffle ne meure pas immédiatement, car la lenteur de l'agonie est tenue comme un signe de malédiction.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Démembrement du buffle.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\DEPECER PARTAGER CUIRE\3 DECOUPER\0580.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Partage et redistribution.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\DEPECER PARTAGER CUIRE\4 PARTAGER\2110.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="77">
+				<TITRE><![CDATA[Circulation des offrandes]]></TITRE>
+				<COMMENTAIRE><![CDATA[Un même processus de démembrement est à l'oeuvre. Dans la ronde, les paroles sont démembrées entre 4 groupes de chanteurs, tout comme les buffles sont démembrés en quarts (tepo <i>tedong</i>), soigneusement découpés puis redistribués à différents groupes. La redistribution, hiérarchisée, passe dans les deux cas, par la médiation du groupe social.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ronde <i>badong</i> divisée en quatre.
+
+§§]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>FLASH\badong4G.swf</ADRESSE>
+								<TYPE>FLASH</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+</ARTICLE>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	Fichier de langues, version française 
+-->
+<root>
+	<tu id="testMessage">
+		<![CDATA[Message de test / fichier de traduction en Français.]]>
+	</tu>
+	
+	<tu id="sans_titre">
+		<![CDATA[sans titre]]>
+	</tu>
+	
+	<!--
+		Eléments de menu	
+	-->
+	<tu id="menu_home">
+		<![CDATA[Accueil]]>
+	</tu>
+	<tu id="menu_lexique">
+		<![CDATA[Lexique]]>
+	</tu>
+	<tu id="menu_repertoires">
+		<![CDATA[Répertoires]]>
+	</tu>
+	<tu id="menu_recherche">
+		<![CDATA[Rechercher]]>
+	</tu>
+	<tu id="menu_enecoute">
+		<![CDATA[En Écoute]]>
+	</tu>
+	<tu id="menu_credits">
+		<![CDATA[Crédits]]>
+	</tu>
+	<tu id="menu_quit">
+		<![CDATA[Quitter]]>
+	</tu>
+	<tu id="menu_logiciste">
+		<![CDATA[Schéma logiciste]]>
+	</tu>
+	<tu id="menu_reduire">
+		<![CDATA[Agrandir/Réduire]]>
+	</tu>
+	
+	
+	<!-- ------------------ -->
+	<tu id="sommaire">
+		<![CDATA[SOMMAIRE]]>
+	</tu>
+	<tu id="lecture_rapide">
+		<![CDATA[LECTURE RAPIDE]]>
+	</tu>
+	<tu id="retour_lecture_rapide">
+		<![CDATA[RETOUR LECTURE RAPIDE]]>
+	</tu>
+	<tu id="argu_donnees">
+		<![CDATA[ARGUMENTATION ET DONNÉES]]>
+	</tu>
+	<tu id="répertoires">
+		<![CDATA[Répertoires]]>
+	</tu>
+	<tu id="home">
+		<![CDATA[Accueil]]>
+	</tu>
+	<tu id="argu">
+		<![CDATA[Argumentaire multimédia]]>
+	</tu>
+	<tu id="antho">
+		<![CDATA[Anthologie musicale multimédia]]>
+	</tu>
+	<tu id="sunset_title">
+		<![CDATA[Musique du couchant]]>
+	</tu>
+	<tu id="sunrise_title">
+		<![CDATA[Musique du levant]]>
+	</tu>
+	<tu id="sunset_desc">
+		<![CDATA[Les musiques du Couchant sont relatives aux funérailles. Le but de ces formes musicales est de transformer les défunts en constellation. Quatre répertoires funéraires sont présentés.]]>
+	</tu>
+	<tu id="sunrise_desc">
+		<![CDATA[Les musiques des rituels du Levant visent à solliciter des dieux la fécondité des plantations, des humains et des animaux, et la santé de l'ensemble des villages. Les musiques de quatre rituels, aujourd'hui disparus, sont présentées.]]>
+	</tu>
+	<tu id="corpus_access_browse">
+		<![CDATA[accéder au corpus par repertoires]]>
+	</tu>
+	<tu id="corpus_access_keyword">
+		<![CDATA[accéder au corpus par mots clés ou numéros de vers dans un répertoire]]>
+	</tu>
+	<tu id="lexique">
+		<![CDATA[Lexique]]>
+	</tu>
+	<tu id="en_ecoute">
+		<![CDATA[En écoute]]>
+	</tu>
+	<tu id="no_current_play">
+		<![CDATA[Aucune écoute en cours.]]>
+	</tu>
+	<tu id="description">
+		<![CDATA[Description]]>
+	</tu>
+	<tu id="unite_son">
+		<![CDATA[Unités Sonores]]>
+	</tu>
+	<tu id="vers">
+		<![CDATA[VERS]]>
+	</tu>
+	<tu id="previous_prop">
+		<![CDATA[PROPOSITION PRECEDENTE]]>
+	</tu>
+	<tu id="next_prop">
+		<![CDATA[PROPOSITION SUIVANTE]]>
+	</tu>
+	<tu id="recherche">
+		<![CDATA[Recherche]]>
+	</tu>
+	<tu id="search_notice">
+		<![CDATA[Sélectionnez un répertoire avant d’effectuer votre recherche]]>
+	</tu>
+	<tu id="search_keyword">
+		<![CDATA[Mots clefs]]>
+	</tu>
+	<tu id="search_verse">
+		<![CDATA[Numéros de vers]]>
+	</tu>
+	<tu id="search_err_tooshort">
+		<![CDATA[Veuillez saisir un mot d'au moins 3 caractères]]>
+	</tu>
+	<tu id="search_keyword_noresult">
+		<![CDATA[Aucun résultat pour #pattern# sur #rep#]]>
+	</tu>
+	<tu id="search_keyword_1result">
+		<![CDATA[Un résultat pour #pattern# sur #rep#]]>
+	</tu>
+	<tu id="search_keyword_Nresults">
+		<![CDATA[ résultats pour #pattern# sur #rep#]]>
+	</tu>
+	<tu id="search_verse_noresult">
+		<![CDATA[Aucun résultat pour le vers n°#verse# sur #rep#]]>
+	</tu>
+	<tu id="search_verse_1result">
+		<![CDATA[Un résultat pour le vers n°#verse# sur #rep#]]>
+	</tu>
+	<tu id="search_verse_Nresults">
+		<![CDATA[ résultats pour le vers n°#verse# sur #rep#]]>
+	</tu>
+	<tu id="linkviewer_legend">
+		<![CDATA[Cet argument a été développé dans :]]>
+	</tu>
+	<tu id="open_pdf">
+		<![CDATA[Ouvrir le document PDF]]>
+	</tu>
+</root>

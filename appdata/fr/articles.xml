@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+	<ARTICLE id="1">
+		<TITRE><![CDATA[PRINCIPES RELIGIEUX]]></TITRE>
+		<url>base1.xml</url>
+	</ARTICLE>
+	<ARTICLE id="2">
+		<TITRE><![CDATA[MUSIQUES DU COUCHANT]]></TITRE>
+		<url>base2.xml</url>
+	</ARTICLE>
+	<ARTICLE id="3">
+		<TITRE><![CDATA[MUSIQUES DU LEVANT]]></TITRE>
+		<url>base3.xml</url>
+	</ARTICLE>
+	<ARTICLE id="4">
+		<TITRE><![CDATA[ANALYSE MUSICALE]]></TITRE>
+		<url>base5.xml</url>
+	</ARTICLE>
+	<ARTICLE id="5">
+		<TITRE><![CDATA[INTERPRETATION]]></TITRE>
+		<url>base4.xml</url>
+	</ARTICLE>
+	<ARTICLE id="6">
+		<TITRE><![CDATA[Annexe : instruments de musique]]></TITRE>
+		<url>base6.xml</url>
+	</ARTICLE>
+</root>

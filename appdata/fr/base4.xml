@@ -1,0 +1,3045 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Edited with SCD Editor v. 3.17e -->
+<!DOCTYPE articleSCDV3 SYSTEM 'articleSCDV3.dtd'>
+<ARTICLE id="4">
+	<TITRE><![CDATA[INTERPRÉTATION]]></TITRE>
+	<ID>4</ID>
+	<LANGUE>1</LANGUE>
+	<ANNEE_PUBLICATION></ANNEE_PUBLICATION>
+	<NOM_EDITEUR></NOM_EDITEUR>
+	<VILLE_EDITEUR></VILLE_EDITEUR>
+	<PAYS_EDITEUR></PAYS_EDITEUR>
+	<NOM_OUVRAGE></NOM_OUVRAGE>
+	<NOM_COLLECTION></NOM_COLLECTION>
+	<AUTEURS></AUTEURS>
+	<RESUME></RESUME>
+	<MOTS_CLEFS></MOTS_CLEFS>
+	<ETAPE id="11">
+		<TITRE><![CDATA[L'APPARIEMENT DES MUSIQUES]]></TITRE>
+		<TYPE_ETAPE>0</TYPE_ETAPE>
+	</ETAPE>
+	<ETAPE id="2">
+		<TITRE><![CDATA[Grands chœurs dansés]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="152">
+			<TITRE><![CDATA[Deux chœurs sont dansés lors de rituels du plus haut degré.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les chœurs <i>badong</i> et <i>simbong</i> ont lieu lors de deux rituels différents, au plus haut degré de l'échelle sacrificielle. Ce sont des chœurs dansés dont la performance la plus intense et animée a lieu la veille des grands jours de sacrifice, dans l'espace de la cour.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>1</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Répétition de <i>simbong</i> à Baruppu', 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\SIMBONG\SIMBONG\SIMBARUPNB\2080.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="308">
+				<TITRE><![CDATA[Contexte du <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>72</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="309">
+				<TITRE><![CDATA[Contexte du <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>23</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="112">
+			<TITRE><![CDATA[Les deux grands chœurs <i>badong</i> et <i>simbong</i> présentent des groupes hiérarchisés.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Dans les chœurs <i>badong</i> et <i>simbong</i>, un principe de subordination se dégage entre un meneur, ses assistants et l'ensemble du chœur. Cette subordination valorise la supériorité du meneur, seul à maîtriser un savoir-faire ornemental. L'interdépendance entre les chanteurs est sensible sur le plan du partage des tâches musicales. Les chanteurs ne s'expriment jamais seuls mais toujours en tant que membres d'un tout.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>2</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[<i>Badong</i> autour du corps, 1991.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\BADONG\BADONG NB\1788.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="472">
+				<TITRE><![CDATA[Choeur <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>5</BASE_LIEN>
+					<ETAPE_LIEN>8</ETAPE_LIEN>
+					<PROPOSITION_LIEN>19</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="192">
+				<TITRE><![CDATA[Choeur <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>29</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="310">
+				<TITRE><![CDATA[Des semi-professionnels]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>71</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="285">
+				<TITRE><![CDATA[Des semi-professionnels]]></TITRE>
+				<COMMENTAIRE><![CDATA[Les deux chœurs mobilisent des professionnels, des groupes de chanteurs constitués, rémunérés, représentant des unités locales.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Mengkendek, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\BADONG\0475.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="153">
+			<TITRE><![CDATA[Le rapport du chant aux paroles est identique dans les deux grands chœurs.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Chaque danse (<i>badong</i> ou <i>simbong</i>) repose sur une matrice narrative, énoncée au début du rituel par les officiants puis reprise par le chœur. Au Couchant : le « récit du <i>badong</i> » (<i>ossoran</i> <i>badong</i>) constitue l'hagiographie du défunt. Au Levant, le « récit du <i>simbong</i> » (<i>samparan</i> <i>simbong</i>) est un panégyrique du vivant. Les paroles de ces chants diffèrent mais certaines parties sont communes. Leur fonction est similaire : le <i>badong</i> est une louange du défunt et le <i>simbong</i> est une louange du propriétaire de la maison fêtée.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>3</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Parties communes aux deux narrations.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TEXTES\PARTIES NARRATION.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="311">
+				<TITRE><![CDATA[Les mots du <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>74</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="312">
+				<TITRE><![CDATA[Les mots du <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>25</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="157">
+			<TITRE><![CDATA[<i>Badong</i> et <i>simbong</i> présentent une spécificité acoustique identique.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Par leur nature même, les chœurs du Couchant et du Levant présentent une même épaisseur des masses spectrales, puissantes, envahissant la totalité de l'espace. Des jeux vocaliques entre les voyelles [o] et [e] (é) sont manifestes dans les deux grands répertoires. Ils figurent un retournement, une inversion.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>4</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Les jeux vocaliques dans les deux grands chœurs.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>FLASH\basse01.swf</ADRESSE>
+						<TYPE>FLASH</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="287">
+				<TITRE><![CDATA[Dans le <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>26</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="288">
+				<TITRE><![CDATA[Dans le <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>76</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="423">
+				<TITRE><![CDATA[Analyse musicale]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>5</BASE_LIEN>
+					<ETAPE_LIEN>4</ETAPE_LIEN>
+					<PROPOSITION_LIEN>46</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="190">
+			<TITRE><![CDATA[Un même type de technique vocale est utilisé dans les deux chœurs.]]></TITRE>
+			<COMMENTAIRE><![CDATA[La technique vocale d'un soliste de <i>badong</i> ou de <i>simbong</i> est similaire : le soliste doit être capable de broder à la seconde. Cette habileté est nommée <i>ma'tindok</i>, <i>ma'korrok</i> ou <i>mangindo'i</i>.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>5</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Le brodeur dans un <i>badong</i>.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS BADONG\ORNEMENT2BRT13.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\EXEMPLES SON\BRT13DEBUT.mp3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="473">
+				<TITRE><![CDATA[Une même pratique ornementale]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>5</BASE_LIEN>
+					<ETAPE_LIEN>3</ETAPE_LIEN>
+					<PROPOSITION_LIEN>15</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="338">
+				<TITRE><![CDATA[Le meneur de <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>77</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="424">
+				<TITRE><![CDATA[Le meneur de <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>26</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="116">
+			<TITRE><![CDATA[Un mode de jeu polymusical est commun aux deux grandes formes chorales.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Dans les deux plus grands rituels, des groupes chantent à certains moments côte à côte mais séparément. Alors que ces musiques ne font l'objet d'aucune coordination rythmique, elles sont pourtant jouées simultanément : elles sont juxtaposées. Cette juxtaposition est fixe, durable et intentionnelle.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>6</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Polybadong lors d'un rituel funéraire, Tapparan, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\BADONG\POLYBADONG\2106.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="490">
+				<TITRE><![CDATA[Polymusiques]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>5</BASE_LIEN>
+					<ETAPE_LIEN>10</ETAPE_LIEN>
+					<PROPOSITION_LIEN>26</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="204">
+				<TITRE><![CDATA[Couchant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>71</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="209">
+				<TITRE><![CDATA[Levant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>24</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="191">
+			<TITRE><![CDATA[Badong et <i>simbong</i> diffèrent dans leur chorégraphie.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Le <i>badong</i> se danse en ronde ; le <i>simbong</i> en arc de cercle.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>7</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+				<SERIE_HAUT_ECRAN>
+					<Donnee_Media>
+						<LEGENDE><![CDATA[<i>Badong</i> lors du départ à la sépulture, 1993.]]></LEGENDE>
+						<FICHIER>
+							<ADRESSE>MEDIAS\IMAGES\MUSIQUES\BADONG\2134bis.jpg</ADRESSE>
+							<TYPE>IMAGE</TYPE>
+						</FICHIER>
+						<FICHIER>
+							<ADRESSE></ADRESSE>
+							<TYPE>SON</TYPE>
+						</FICHIER>
+					</Donnee_Media>
+				</SERIE_HAUT_ECRAN>
+				<SERIE_BAS_ECRAN>
+					<Donnee_Media>
+						<LEGENDE><![CDATA[<i>Simbong</i> à Bittuang, décembre 1993.]]></LEGENDE>
+						<FICHIER>
+							<ADRESSE>MEDIAS\IMAGES\MUSIQUES\SIMBONG\SIMBONG\SIMBONGDEBOUT\1508bis.jpg</ADRESSE>
+							<TYPE>IMAGE</TYPE>
+						</FICHIER>
+						<FICHIER>
+							<ADRESSE></ADRESSE>
+							<TYPE>SON</TYPE>
+						</FICHIER>
+					</Donnee_Media>
+				</SERIE_BAS_ECRAN>
+			<ANTECEDENT id="341">
+				<TITRE><![CDATA[Ronde <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>71</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="342">
+				<TITRE><![CDATA[Arc de cercle <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>27</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="192">
+			<TITRE><![CDATA[Badong et <i>simbong</i> diffèrent dans leur organisation chorale.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Le chœur <i>badong</i> est formé de quatre groupes solistes alors que le <i>simbong</i> n'est pas antiphoné.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>8</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+				<SERIE_HAUT_ECRAN>
+					<Donnee_Media>
+						<LEGENDE><![CDATA[Organisation du <i>badong</i>.]]></LEGENDE>
+						<FICHIER>
+							<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS BADONG\Badong4g_rondebis.jpg</ADRESSE>
+							<TYPE>IMAGE</TYPE>
+						</FICHIER>
+						<FICHIER>
+							<ADRESSE></ADRESSE>
+							<TYPE>SON</TYPE>
+						</FICHIER>
+					</Donnee_Media>
+				</SERIE_HAUT_ECRAN>
+				<SERIE_BAS_ECRAN>
+					<Donnee_Media>
+						<LEGENDE><![CDATA[Organisation du <i>simbong</i>.]]></LEGENDE>
+						<FICHIER>
+							<ADRESSE>MEDIAS\IMAGES\FIGURES\DISPOSIMBONGBIS.jpg</ADRESSE>
+							<TYPE>IMAGE</TYPE>
+						</FICHIER>
+						<FICHIER>
+							<ADRESSE></ADRESSE>
+							<TYPE>SON</TYPE>
+						</FICHIER>
+					</Donnee_Media>
+				</SERIE_BAS_ECRAN>
+			<ANTECEDENT id="425">
+				<TITRE><![CDATA[Organisation du <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>71</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="426">
+				<TITRE><![CDATA[Organisation du <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>29</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="8">
+			<TITRE><![CDATA[Homologies des chœurs <i>badong</i> et <i>simbong</i>.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les homologies entre ces chœurs sont de nature extramusicales et musicales.]]></COMMENTAIRE>
+			<NIVEAU>2</NIVEAU>
+			<ORDRE>1</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+				<SERIE_HAUT_ECRAN>
+					<Donnee_Media>
+						<LEGENDE><![CDATA[Ronde <i>badong</i>, Penduan Ra'ba, 2001.]]></LEGENDE>
+						<FICHIER>
+							<ADRESSE>MEDIAS\IMAGES\MUSIQUES\BADONG\PENDUANRABA\0465.JPG</ADRESSE>
+							<TYPE>IMAGE</TYPE>
+						</FICHIER>
+						<FICHIER>
+							<ADRESSE></ADRESSE>
+							<TYPE>SON</TYPE>
+						</FICHIER>
+					</Donnee_Media>
+				</SERIE_HAUT_ECRAN>
+				<SERIE_BAS_ECRAN>
+					<Donnee_Media>
+						<LEGENDE><![CDATA[Rang des chanteurs de <i>simbong</i>, 1993.]]></LEGENDE>
+						<FICHIER>
+							<ADRESSE>MEDIAS\IMAGES\MUSIQUES\SIMBONG\SIMBONG\SIMBONGUP\1808.JPG</ADRESSE>
+							<TYPE>IMAGE</TYPE>
+						</FICHIER>
+						<FICHIER>
+							<ADRESSE></ADRESSE>
+							<TYPE>SON</TYPE>
+						</FICHIER>
+					</Donnee_Media>
+				</SERIE_BAS_ECRAN>
+			<ANTECEDENT id="465">
+				<TITRE><![CDATA[Homologie prosodique]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>52</ETAPE_LIEN>
+					<PROPOSITION_LIEN>197</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="332">
+				<TITRE><![CDATA[Homologies acoustiques]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>157</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="335">
+				<TITRE><![CDATA[Homologie de groupement]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>112</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="333">
+				<TITRE><![CDATA[Même jeu polymusical]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>116</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="334">
+				<TITRE><![CDATA[Homologies de contexte]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>152</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="336">
+				<TITRE><![CDATA[Homologies littéraires]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>153</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="337">
+				<TITRE><![CDATA[Homologies de technique vocale]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>190</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="9">
+			<TITRE><![CDATA[Opposition des chœurs <i>badong</i> et <i>simbong</i>.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les grands chœurs <i>badong</i> et <i>simbong</i> ne sont pas en rapport d'homologie stricte car ils sont identiques par leur nature acoustique mais différents par leur forme musicale (temporalité, traitement des paroles, dynamique accentuelle) - similitudes et oppositions étant synthétisées dans le tableau ci-dessous.]]></COMMENTAIRE>
+			<NIVEAU>2</NIVEAU>
+			<ORDRE>2</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Tableau des oppositions entre <i>badong</i> et <i>simbong</i>.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TABLEAUX\OPPOS BADONG SIMBONG.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="45">
+				<TITRE><![CDATA[Une organisation chorale différente]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>192</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="438">
+				<TITRE><![CDATA[Une chorégraphie différente]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>191</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="340">
+				<TITRE><![CDATA[Un rapport différent de la musique au rituel]]></TITRE>
+				<COMMENTAIRE><![CDATA[Alors que le <i>badong</i> joue le rôle de marqueur lors des déplacements du corps du défunt, le <i>simbong</i>, au contraire, n'accompagne aucune action.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Le <i>badong</i> marque les déplacements du corps, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\BADONG\2134bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Le chant <i>nani</i> ne marque pas d'action rituelle spécifique, Bittuang, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\SIMBONG\DANDAN\DANDANBITTUANG\2088bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="46">
+				<TITRE><![CDATA[Un traitement des paroles différent]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans le <i>badong</i>, la parole est éclatée par des mélismes démesurés tandis que dans le <i>simbong</i> reste compréhensible. Alors que dans le <i>badong</i>, les consonnes sont atténuées - voire presque effacées -, dans le <i>simbong</i>, au contraire, la consonne est mise en relief et devient l'un des ressorts du timbre. La consonne permet au chanteur de bruiter sa voix. Un des paradoxes, c'est que le <i>badong</i> accentue la vigueur rythmique mais affaiblit le mot alors que le <i>simbong</i> affaiblit le dynamisme rythmique mais accentue le mot. Le croisement fait sens : les deux répertoires s'opposent et se complètent.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Badong</i> de Baruppu', enregistré à Tikala, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\BRP\BRP12.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Extrait de <i>simbong</i>, Poka, Rindingallo, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\EXEMPLES SON\SPO4TA.mp3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="47">
+				<TITRE><![CDATA[Une temporalité différente]]></TITRE>
+				<COMMENTAIRE><![CDATA[Alors que le <i>badong</i>, mesuré, évoque un temps discontinu, le <i>simbong</i> privilégie un temps non mesuré et continu - la continuité envahit d'ailleurs jusqu'aux parties mesurées, les versets étant entrecoupés de longues tenues non mesurées. À la continuité statique du <i>simbong</i>, liée au flux temporel continu, s'oppose la discontinuité dynamique du <i>badong</i>.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Badong</i>, chœur de Rantetayo, vers 8-9, enregistré à Tapparan, juillet 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\BRT\BRT8-9.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Simbong</i>, chœur d'Awan, vers 14-17, 1993,.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>US\SA\SA14-17.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="48">
+				<TITRE><![CDATA[Deux types de polyvocalité]]></TITRE>
+				<COMMENTAIRE><![CDATA[Alors que le premier est à l'unisson et de tendance hétérophone, le second est une polyphonie à deux parties sur bourdon homophone.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Début d'un <i>badong</i> à Limbong, Pangngala', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS BADONG\MANTAbis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\LIM\LIM 1.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Notation du <i>Simbong</i> « <i>Marassamo</i> (...) », Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATION SIMBONG\35 SIMBONGbis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\SD\SD04-07.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="30">
+			<TITRE><![CDATA[Les deux grands chœurs dansés forment un couple (<i>bali</i>).]]></TITRE>
+			<COMMENTAIRE><![CDATA[<i>Badong</i> et <i>simbong</i> sont accouplés car ils sont semblables sur certains points et largement opposés sur d'autres.]]></COMMENTAIRE>
+			<NIVEAU>3</NIVEAU>
+			<ORDRE>1</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Deux coqs en position inverse sur le pignon d'une maison.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MAISON\PIGNONS\1316.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="321">
+				<TITRE><![CDATA[Différences]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>9</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="344">
+				<TITRE><![CDATA[Homologies]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>8</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="3">
+		<TITRE><![CDATA[Déclamations solistes]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="182">
+			<TITRE><![CDATA[Les déclamations solistes sont énoncées lors des grands rituels.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les déclamations ont lieu si au moins un buffle a été sacrifié, au sein des grands rituels pour les personnes ou pour les familles de haut rang.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>9</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[En dessous de la plate-forme <i>bala'kaan</i>, Bokko, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\COUCHANT\BALAKAAN\BALAKAAN BOKKO\0555.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="323">
+				<TITRE><![CDATA[Contexte du <i>retteng</i> <i>to</i> <i>mate</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>20</ETAPE_LIEN>
+					<PROPOSITION_LIEN>79</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="324">
+				<TITRE><![CDATA[Contexte du <i>retteng</i> <i>deata</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>12</ETAPE_LIEN>
+					<PROPOSITION_LIEN>30</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="181">
+			<TITRE><![CDATA[Les déclamations sont des solos intégrés aux grands chœurs.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les déclamations solistes sont psalmodiées dans les chœurs <i>badong</i>, <i>simbong</i> et <i>nani</i>.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>10</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Déclamation soliste lors du rituel <i>bua'</i> <i>kasalle</i>, Tiroan, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\SIMBONG\SIMBONG\SINGGI\1514.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="318">
+				<TITRE><![CDATA[Solo du <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>12</ETAPE_LIEN>
+					<PROPOSITION_LIEN>30</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="319">
+				<TITRE><![CDATA[Solo du <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>20</ETAPE_LIEN>
+					<PROPOSITION_LIEN>79</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="158">
+			<TITRE><![CDATA[Mêmes spécificités acoustiques des déclamations au Levant et au Couchant.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Apocope, recto tono et appauvrissement harmonique sont trois traits qui distinguent ce type de déclamation appelé <i>retteng</i> ou <i>singgi'</i> dans certaines régions.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>11</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Sonagramme d'un <i>retteng</i> au défunt montrant la technique d'appauvrissement harmonique en fin de souffle.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\NOTATION\SONAG\son5.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="315">
+				<TITRE><![CDATA[Apocope au Couchant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>20</ETAPE_LIEN>
+					<PROPOSITION_LIEN>81</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="316">
+				<TITRE><![CDATA[Décharnement harmonique au Couchant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>20</ETAPE_LIEN>
+					<PROPOSITION_LIEN>82</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="327">
+				<TITRE><![CDATA[Apocope et décharnement vocalique au Levant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>12</ETAPE_LIEN>
+					<PROPOSITION_LIEN>32</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="317">
+				<TITRE><![CDATA[Recto tono au Couchant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>20</ETAPE_LIEN>
+					<PROPOSITION_LIEN>80</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="328">
+				<TITRE><![CDATA[Recto tono au Levant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>12</ETAPE_LIEN>
+					<PROPOSITION_LIEN>31</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="206">
+			<TITRE><![CDATA[Les déclamations solistes font alterner plusieurs solistes.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Cette alternance peut parfois être conflictuelle, notamment dans les funérailles.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>12</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Chanteurs de <i>badong</i>, Penduan Ra'ba', 2001.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\BADONG\PENDUANRABA\0462.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="489">
+				<TITRE><![CDATA[Le renvoi de strophes dans le <i>retteng</i> funéraire]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>12</ETAPE_LIEN>
+					<PROPOSITION_LIEN>30</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="427">
+				<TITRE><![CDATA[Le renvoi de strophes dans le <i>retteng</i> funéraire]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>20</ETAPE_LIEN>
+					<PROPOSITION_LIEN>126</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="161">
+			<TITRE><![CDATA[Les déclamations développent un contenu littéraire de même nature.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Le contenu des déclamations solistes emprunte certains vers à la matrice textuelle des grands chœurs&nbsp;(<i>ossoran badong</i>, <i>samparan</i> <i>simbong</i>). C'est souvent soit un hommage personnel, soit une satire du défunt ou du commanditaire du rituel <i>bua'</i> <i>kasalle</i>. L'enjeu socio-politique de cette profération est particulièrement dangereux.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>13</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Exemple d'une pièce de <i>retteng</i> en forme d'hommage au défunt, collecté en 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TEXTES\RETTENGAMBEINDO.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="488">
+				<TITRE><![CDATA[Contenu du <i>retteng</i> funéraire]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>20</ETAPE_LIEN>
+					<PROPOSITION_LIEN>126</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="326">
+				<TITRE><![CDATA[Contenu du <i>retteng</i> <i>deata</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>12</ETAPE_LIEN>
+					<PROPOSITION_LIEN>33</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="184">
+			<TITRE><![CDATA[Homologies des déclamations solistes au Couchant et au Levant.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Hormis certaines différences mélodico-rythmiques et textuelles et des différences d'intonation, propres à leur exécution, les déclamations solistes <i>retteng to mate</i> et <i>retteng deata</i> possèdent une même forme musicale.]]></COMMENTAIRE>
+			<NIVEAU>2</NIVEAU>
+			<ORDRE>3</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[<i>Retteng</i> lors du rituel catholique <i>ma'kurre</i> <i>sumanga'</i>, Bittuang, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\SIMBONG\SIMBONG\SINGGI\1166.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="464">
+				<TITRE><![CDATA[Contenu littéraire de même nature]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>3</ETAPE_LIEN>
+					<PROPOSITION_LIEN>161</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="462">
+				<TITRE><![CDATA[Relation aux grands choeurs]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>3</ETAPE_LIEN>
+					<PROPOSITION_LIEN>181</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="330">
+				<TITRE><![CDATA[Opposition par contexte]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>3</ETAPE_LIEN>
+					<PROPOSITION_LIEN>182</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="329">
+				<TITRE><![CDATA[Identité de nature]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>3</ETAPE_LIEN>
+					<PROPOSITION_LIEN>158</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="31">
+			<TITRE><![CDATA[Les déclamations solistes forment une paire (<i>bali</i>).]]></TITRE>
+			<COMMENTAIRE><![CDATA[Hormis certaines différences mélodico-rythmiques et littéraires, les déclamations solistes constituent une même forme musicale. Le concept <i>bali</i> relie dans ce cas deux répertoires, de forme semblable par leur composition sonore (solo), leur organisation musicale (déclamation recto tono), leur gestuelle (debout immobile), leur contexte (rituels de degré équivalent). Ces répertoires diffèrent par les paroles chantées et les variantes mélodiques propres à chaque région.]]></COMMENTAIRE>
+			<NIVEAU>3</NIVEAU>
+			<ORDRE>2</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Panneaux de bois identiques sur une maison toraja.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\2227.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="331">
+				<TITRE><![CDATA[Homologies des deux déclamations]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>3</ETAPE_LIEN>
+					<PROPOSITION_LIEN>184</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="4">
+		<TITRE><![CDATA[Choeurs mixtes non dansés]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="185">
+			<TITRE><![CDATA[Les chœurs <i>dondi'</i> et <i>serang</i> <i>mundan</i> sont mixtes et ouverts à tous.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Mixtes et ouverts à tous, ils peuvent être chantés tout au long du rituel par des non-spécialistes en nombre indéterminé. Femmes et hommes de tous âges chantent ensemble.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>14</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[VIDEO : <i>Dondi'</i> à Baruppu', 2001.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>S72.flv</ADRESSE>
+						<TYPE>VIDEO</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="475">
+				<TITRE><![CDATA[Organisations non hiérarchiques]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>5</BASE_LIEN>
+					<ETAPE_LIEN>9</ETAPE_LIEN>
+					<PROPOSITION_LIEN>23</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="347">
+				<TITRE><![CDATA[<i>Dondi'</i> chœur mixte]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>25</ETAPE_LIEN>
+					<PROPOSITION_LIEN>107</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="348">
+				<TITRE><![CDATA[<i>Serang mundan</i>, choeur mixte]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>13</ETAPE_LIEN>
+					<PROPOSITION_LIEN>77</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="163">
+			<TITRE><![CDATA[Les chœurs mixtes présentent un même traitement des paroles.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Chaque vers (octosyllabe ou heptasyllabe) est énoncé sur une matrice mélodique, soit de façon syllabique, soit de façon mélismatique. Entre chaque vers, les chanteurs marquent une pause.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>15</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Extrait de <i>dondi'</i> à Pangngala', 1991.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\NOTATION\NOTATIONS DONDI\21 DAMULE DONDI.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\DP\DP82-85.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="349">
+				<TITRE><![CDATA[Énonciation des paroles dans le <i>dondi'</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>25</ETAPE_LIEN>
+					<PROPOSITION_LIEN>111</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="350">
+				<TITRE><![CDATA[Énonciation des paroles dans le <i>serang mundan</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>13</ETAPE_LIEN>
+					<PROPOSITION_LIEN>35</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="162">
+			<TITRE><![CDATA[Une même structure mélodico-rythmique unit les chœurs <i>dondi'</i> et <i>serang mundan</i>.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les phrases sont énoncées sur une structure psalmodique : montée sur une corde récitative, récitation sur une seule note, puis redescente sur une note terminale.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>16</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Structure récitative des deux chœurs.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>FLASH\dondi.swf</ADRESSE>
+						<TYPE>FLASH</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="351">
+				<TITRE><![CDATA[Structure mélodique du <i>dondi'</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>25</ETAPE_LIEN>
+					<PROPOSITION_LIEN>110</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="352">
+				<TITRE><![CDATA[Structure mélodique du <i>serang mundan</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>13</ETAPE_LIEN>
+					<PROPOSITION_LIEN>35</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="186">
+			<TITRE><![CDATA[Les chœurs mixtes ne sont pas dansés.]]></TITRE>
+			<COMMENTAIRE><![CDATA[<i>Dondi'</i> et <i>serang</i> <i>mundan</i> sont chantés en position assise. Certaines fois, le <i>serang</i> <i>mundan</i> est chanté debout ; de même, certaines fois, le <i>badong</i> prend la forme du <i>dondi'</i> et inversement.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>17</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Chanteuses de <i>dondi'</i> à l'aube, Pangngala', 1991.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\CHANTEURS\1258.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="353">
+				<TITRE><![CDATA[<i>Dondi'</i> chanté assis]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>25</ETAPE_LIEN>
+					<PROPOSITION_LIEN>107</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="428">
+				<TITRE><![CDATA[Position du <i>serang mundan</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>13</ETAPE_LIEN>
+					<PROPOSITION_LIEN>38</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="165">
+			<TITRE><![CDATA[Les paroles chantées, dans les deux cas, présentent une forme aphoristique.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Alors que le <i>dondi'</i> égrène des quatrains relatifs à l'existence, à la séparation, à la mort, à l'amour, le <i>serang</i> <i>mundan</i> égrène des quatrains énigmatiques relatifs à la vie.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>18</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Extraits de <i>dondi'</i> et <i>serang</i> <i>mundan</i>.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TEXTES\TEXTE DONDI SM.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="355">
+				<TITRE><![CDATA[Les paroles du <i>dondi'</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>25</ETAPE_LIEN>
+					<PROPOSITION_LIEN>108</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="356">
+				<TITRE><![CDATA[Les paroles du <i>serang</i> <i>mundan</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>13</ETAPE_LIEN>
+					<PROPOSITION_LIEN>36</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="193">
+			<TITRE><![CDATA[Homologies des chœurs mixtes non dansés.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les homologies formelles entre <i>dondi'</i> et <i>serang</i> <i>mundan</i> sont nombreuses.]]></COMMENTAIRE>
+			<NIVEAU>2</NIVEAU>
+			<ORDRE>4</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[<i>Dondi'</i> et <i>serang</i> <i>mundan</i>.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>FLASH\dondi.swf</ADRESSE>
+						<TYPE>FLASH</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="471">
+				<TITRE><![CDATA[Des formes mineures]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>54</ETAPE_LIEN>
+					<PROPOSITION_LIEN>205</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="463">
+				<TITRE><![CDATA[Même gestuelle ]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>4</ETAPE_LIEN>
+					<PROPOSITION_LIEN>186</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="357">
+				<TITRE><![CDATA[Composition du groupe]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>4</ETAPE_LIEN>
+					<PROPOSITION_LIEN>185</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="358">
+				<TITRE><![CDATA[Même traitement des paroles]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>4</ETAPE_LIEN>
+					<PROPOSITION_LIEN>163</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="359">
+				<TITRE><![CDATA[Même structure mélodique]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>4</ETAPE_LIEN>
+					<PROPOSITION_LIEN>162</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="360">
+				<TITRE><![CDATA[Même structure aphoristique]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>4</ETAPE_LIEN>
+					<PROPOSITION_LIEN>165</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="167">
+			<TITRE><![CDATA[Les petits chœurs mixtes forment une paire (<i>bali</i>).]]></TITRE>
+			<COMMENTAIRE><![CDATA[<i>Bali</i> relie le <i>serang</i> <i>mundan</i> et le <i>dondi'</i>, deux répertoires de forme semblable par leur composition sonore (chœur mixte), leur organisation musicale, leur gestuelle (assis), leur contexte (rituels de degré équivalent). Ces répertoires diffèrent seulement par leurs paroles et par des variantes mélodiques (<i>dondi'/serang mundan</i>).]]></COMMENTAIRE>
+			<NIVEAU>3</NIVEAU>
+			<ORDRE>3</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Panneaux de bois identiques gravés sur une maison toraja.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\2227.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="470">
+				<TITRE><![CDATA[Même prosodie des poèmes courts]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>54</ETAPE_LIEN>
+					<PROPOSITION_LIEN>189</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="361">
+				<TITRE><![CDATA[Homologie des deux chœurs]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>4</ETAPE_LIEN>
+					<PROPOSITION_LIEN>193</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="450">
+				<TITRE><![CDATA[Les poèmes courts et leur mode aphoristique]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>54</ETAPE_LIEN>
+					<PROPOSITION_LIEN>169</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="49">
+		<TITRE><![CDATA[Flûtes de guérison]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="133">
+			<TITRE><![CDATA[Les pièces musicales du rituel <i>pakorong</i> doivent se répondre.]]></TITRE>
+			<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>19</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Flûtistes, rituel <i>pakorong</i>, 1993]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1378.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="362">
+				<TITRE><![CDATA[L'accouplement des flûtes]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>61</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="25">
+		<TITRE><![CDATA[L'APPARIEMENT DES POÈMES CHANTÉS]]></TITRE>
+		<TYPE_ETAPE>0</TYPE_ETAPE>
+	</ETAPE>
+	<ETAPE id="52">
+		<TITRE><![CDATA[Poèmes narratifs]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="171">
+			<TITRE><![CDATA[Les préambules des grands chants sont des narrations.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Avant l'exécution des grands chœurs dansés, des récits (<i>ossoran</i>, <i>samparan</i>) sont énoncés. Ce sont des poèmes longs, de 500 à 1 000 vers, construits selon un ordre chronologique et obéissant à une logique narrative.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>20</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[L'officiant Ne' Lumbaa s'adresse au défunt dans un long récit, <i>ma'kakarun</i>, 2000.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\COUCHANT\IMAGES OB\2166.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="429">
+				<TITRE><![CDATA[<i>Ossoran</i> <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>74</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="364">
+				<TITRE><![CDATA[<i>Samparan</i> <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>25</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="170">
+			<TITRE><![CDATA[Les préambules des grands chœurs dansés se font sur le mode de l'éloge.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Dans les grands chœurs dansés, l'éloge des nobles est central. Par la description des biens, de la réussite, de la richesse, de l'abondance, les êtres chantés, défunts ou vivants, sont glorifiés et honorés par l'évocation de leur vie exemplaire. Cette évocation consolide et réaffirme le statut de certaines personnes de la société.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>21</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Extrait du <i>samparan</i> <i>simbong</i>, vers 484 et suivants, collecté en 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TEXTES\ENVOI  SSIMBONG.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="430">
+				<TITRE><![CDATA[L'éloge dans le <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>74</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="431">
+				<TITRE><![CDATA[L'éloge dans le <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>25</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="172">
+			<TITRE><![CDATA[Les préambules des grands chœurs dansés ont une même forme strophique.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Dans les récits <i>ossoran</i> <i>badong</i> et <i>samparan</i> <i>simbong</i>, les vers peuvent être regroupés par distiques, tercets ou quatrains d'octosyllabes.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>22</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Exemples de strophes issues des récits <i>ossoran</i> <i>badong</i> et <i>samparan</i> <i>simbong</i>.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TEXTES\OCTOSYLLABE SS-BADONG.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="376">
+				<TITRE><![CDATA[Prosodie du <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>122</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="377">
+				<TITRE><![CDATA[Prosodie du <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>81</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="173">
+			<TITRE><![CDATA[Les préambules des grands chœurs dansés sont chantés sur le mode récitatif-psalmodié.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les paroles de louange qui précèdent les chants <i>badong</i> et <i>simbong</i> sont déclamées par un officiant. Aussitôt après, ces paroles sont reprises en partie par les chœurs.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>23</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Déclamation sur le mode psalmodié, Tiroan, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\MUSIQUES\SIMBONG\SIMBONG\SINGGI\1166.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\SBI\SBI209-B.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="432">
+				<TITRE><![CDATA[Mode d'exécution de l'<i>ossoran badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>74</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="433">
+				<TITRE><![CDATA[Mode de performance du <i>samparan</i> <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>25</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="188">
+			<TITRE><![CDATA[Les préambules des grands chœurs dansés constituent des stocks de paroles à chanter.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les narrations, valorisées, constituent un stock de strophes réutilisées dans les formes poétiques courtes.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>24</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[En gras, le vers de la narration repris en chœur par les chanteurs. Extrait d'<i>ossoran badong</i>, Tapparan, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\TEXTES\MATRICE OSSORAN.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\BRT\BRT37.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="369">
+				<TITRE><![CDATA[La matrice narrative <i>ossoran</i> <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>74</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="370">
+				<TITRE><![CDATA[La matrice narrative <i>samparan</i> <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>25</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="197">
+			<TITRE><![CDATA[<i>Simbong</i> et <i>badong</i>, quand ils sont chantés, sont fondés sur une même prosodie.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Dans ces deux répertoires, le chant est composé d'une succession de strophes terminées par une clausule (<i>tampak</i>).]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>25</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Extrait de strophes de <i>simbong</i> et <i>badong</i>.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TEXTES\STROPHES BADONG SIMBONG.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="378">
+				<TITRE><![CDATA[Métrique du <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>122</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="379">
+				<TITRE><![CDATA[Métrique du <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>81</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="194">
+			<TITRE><![CDATA[Homologies des poèmes narratifs.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les deux poèmes, <i>ossoran</i> <i>badong</i> et <i>samparan</i> <i>simbong</i>, sont appariés par une série de traits communs. Déclamés par un seul officiant, ils introduisent les grands chœurs dansés <i>badong</i> et <i>simbong</i>.]]></COMMENTAIRE>
+			<NIVEAU>2</NIVEAU>
+			<ORDRE>5</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Les traits communs aux deux narrations]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TEXTES\HOMOLOGIESNARRATION.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="485">
+				<TITRE><![CDATA[Homologies de segmentations]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>52</ETAPE_LIEN>
+					<PROPOSITION_LIEN>197</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="468">
+				<TITRE><![CDATA[Homologie de fonction]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>52</ETAPE_LIEN>
+					<PROPOSITION_LIEN>188</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="467">
+				<TITRE><![CDATA[Homologie prosodi]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>52</ETAPE_LIEN>
+					<PROPOSITION_LIEN>172</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="466">
+				<TITRE><![CDATA[Homologie thématique]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>52</ETAPE_LIEN>
+					<PROPOSITION_LIEN>170</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="371">
+				<TITRE><![CDATA[Homologies formelles]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>52</ETAPE_LIEN>
+					<PROPOSITION_LIEN>171</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="372">
+				<TITRE><![CDATA[Homologie d'exécution]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>52</ETAPE_LIEN>
+					<PROPOSITION_LIEN>173</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="195">
+			<TITRE><![CDATA[Différence entre les deux poèmes narratifs.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Il existe des différences de contenu entre les deux poèmes. Si tous les deux ressortent de l'éloge, ce qui est raconté n'est pas identique. Dans l'<i>ossoran badong</i>, adressé au défunt, le défunt s'élève et quitte les humains. Dans le récit, le mouvement d'abord centrifuge devient centripète.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>26</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Effigie du défunt masculin, Pangleon, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\COUCHANT\EFFIGIES TAU TAU\PANGLEON\0663.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="434">
+				<TITRE><![CDATA[Récit du <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>74</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="435">
+				<TITRE><![CDATA[Récit du <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>25</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="196">
+			<TITRE><![CDATA[Les deux grands poèmes narratifs forment un couple.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les deux poèmes <i>ossoran</i> <i>badong</i> et <i>samparan</i> <i>simbong</i> possèdent des homologies formelles nombreuses qui permettent de les associer mais leur contenu diffère nettement sur le plan des significations.]]></COMMENTAIRE>
+			<NIVEAU>3</NIVEAU>
+			<ORDRE>4</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Duplicat du motif du buffle (pa'tedong) sur une façade de maison toraja.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\2235.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="373">
+				<TITRE><![CDATA[Homologies]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>52</ETAPE_LIEN>
+					<PROPOSITION_LIEN>194</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="374">
+				<TITRE><![CDATA[Différence]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>52</ETAPE_LIEN>
+					<PROPOSITION_LIEN>195</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="54">
+		<TITRE><![CDATA[Poèmes courts]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="169">
+			<TITRE><![CDATA[Les poèmes courts se déploient sur un mode aphoristique.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les poèmes courts ou poèmes « lyriques », ont en commun leur caractère fragmentaire et leur mode aphoristique.]]></COMMENTAIRE>
+			<NIVEAU>2</NIVEAU>
+			<ORDRE>6</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Extraits de <i>dondi'</i> et <i>serang</i> <i>mundan</i>, collectés en 1991 et 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TEXTES\TEXTE DONDI SM.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="375">
+				<TITRE><![CDATA[Mode aphoristique]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>4</ETAPE_LIEN>
+					<PROPOSITION_LIEN>165</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="189">
+			<TITRE><![CDATA[Les poèmes courts présentent une prosodie spécifique.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les vers de <i>dondi'</i> et de <i>serang</i> <i>mundan</i> diffèrent des vers de <i>badong</i> et <i>simbong</i> par la présence de l'heptasyllabe. Les distiques sont souvent formés d'un octosyllabe, d'un heptasyllabe et d'une clausule de quatre ou cinq pieds.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>27</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Extrait de <i>dondi'</i>, 1991.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\TEXTES\MALIMBULIMBU.jpg</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE>US\DT\DT41-44.MP3</ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="380">
+				<TITRE><![CDATA[Prosodie du <i>dondi'</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>25</ETAPE_LIEN>
+					<PROPOSITION_LIEN>124</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="436">
+				<TITRE><![CDATA[Prosodie du <i>serang</i> <i>mundan</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>13</ETAPE_LIEN>
+					<PROPOSITION_LIEN>36</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="205">
+			<TITRE><![CDATA[Les poèmes courts sont hiérarchiquement moins valorisés que les grandes narrations.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les poèmes courts sont facultatifs sur le plan du rituel. Ouverts à tous, ils sont énoncés le plus souvent assis.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>28</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Chanteuses de <i>dondi'</i>, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\DONDI\1451.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="410">
+				<TITRE><![CDATA[<i>Dondi'</i> pendant le rituel]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>25</ETAPE_LIEN>
+					<PROPOSITION_LIEN>107</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="411">
+				<TITRE><![CDATA[<i>Serang</i> <i>mundan</i> pendant le rituel]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>13</ETAPE_LIEN>
+					<PROPOSITION_LIEN>77</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="204">
+			<TITRE><![CDATA[Les poèmes courts des petites chœurs forment une paire.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les homologies d'ordre poétique entre <i>dondi'</i> et <i>serang</i> <i>mundan</i> présentent une relation de paire.]]></COMMENTAIRE>
+			<NIVEAU>3</NIVEAU>
+			<ORDRE>5</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Motifs identiques gravés sur une maison.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\2227.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="409">
+				<TITRE><![CDATA[Homologies]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>54</ETAPE_LIEN>
+					<PROPOSITION_LIEN>169</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="21">
+		<TITRE><![CDATA[L'APPARIEMENT DES RITUELS]]></TITRE>
+		<TYPE_ETAPE>0</TYPE_ETAPE>
+	</ETAPE>
+	<ETAPE id="55">
+		<TITRE><![CDATA[Homologies entre grands rituels]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="174">
+			<TITRE><![CDATA[Homologies entre lieux et temps rituels.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Les grands rituels ont lieu sur des rizières asséchées à l'extérieur des villages, soit au sud-ouest, soit au nord-est, du côté du Soleil Levant (rites de vie) ou du Soleil Couchant (rites de mort). Des deux côtés l'organisation spatio-temporelle est identique.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>29</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Préparation de l'espace funéraire à Mengkendek, 1991.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\COUCHANT\ESPACE STRUCTURES\0766.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="292">
+				<TITRE><![CDATA[Les cours]]></TITRE>
+				<COMMENTAIRE><![CDATA[Pendant les grands rituels, les cours sont décorées par des tissus, rouge au Couchant et blanc au Levant.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Grenier lors des funérailles. Le tissu rouge se nomme <i>kaseda</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\GRENIER\0098bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Une maison pendant les funérailles.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\FETEE\0209bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Funérailles à Sapan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\ABATTRE\A SAPAN\0602bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rouge sang.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\AVEC SANG\0976 bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Grenier à riz lors du <i>bua'</i> <i>kasalle</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\GRENIER\0236bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Maison ornée de bannières blanches, lors du <i>ma'kurre</i> <i>sumanga'</i>, version catholique du rite <i>bua'</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\FETEE\0201bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="291">
+				<TITRE><![CDATA[Les champs sacrificiels]]></TITRE>
+				<COMMENTAIRE><![CDATA[Les espaces sacrificiels sont différents selon les rites de vie ou de mort. Ils sont situés en dehors du village, soit au sud-ouest, soit au nord-est de la maison.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Le champ cérémoniel des funérailles (<i>rante pantunuan</i> « champ de l'abattage »), Tapparan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RANTE\0941bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Le champ de mégalithes, To' Barana', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RANTE\2414.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Champ du <i>la'pa'</i>, rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\ESPACE BUA\1100bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="305">
+				<TITRE><![CDATA[Les plates-formes]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans le grand rituel du Levant (<i>bua' kasalle</i>) est érigée une haute plate-forme (<i>bala'kaan boro</i> « promontoire splendide » ou <i>gorang</i> <i>bulaan</i> « tour dorée ») d'où les officiants déclament les louanges <i>singgi'</i>.
+Dans le grand rituel du Couchant (<i>rapasan</i>), est érigée la « plate-forme à viande » (<i>bala'kaan duku'</i>) d'où est distribuée la viande pour le partage et d'où sont invoqués les ancêtres.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Funérailles de Ne' Sulo, To' Barana', 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\BALAKAAN\BALAKAAN TO BARANA\2131bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Les officiants sur le <i>bala'kaan</i>, To' Barana', 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\BALAKAAN\BALAKAAN TO BARANA\2129bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Bala'kaan</i> à Pangleon, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\BALAKAAN\BALAKAAN PANGLEON\0552bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Bala'kaan</i> à Bokko, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\BALAKAAN\BALAKAAN BOKKO\0569bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Bala'kaan</i> à Bokko, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\BALAKAAN\BALAKAAN BOKKO\0572bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Bala'kaan</i> à Bokko, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\BALAKAAN\BALAKAAN BOKKO\0756bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Officiants montant sur la plate-forme <i>gorang</i>, <i>bua'</i> <i>kasalle</i>, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\SINGGI\1092bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Les officiants perchés en haut louent les membres de la famille, <i>bua'</i> <i>kasalle</i>, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\SINGGI\1645bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\SINGGI\2083bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Trois officiants sur la haute tour <i>gorang</i>, rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\SINGGI\2084bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="322">
+				<TITRE><![CDATA[Les tours de résidence, tours de réclusion]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans les rituels de vie et de mort, sur l'espace cérémoniel, sont érigées des tours de résidence. Sur la « tour gravée » (<i>lakkean sura'</i> ),le défunt repose pendant toute la durée des funérailles. Sur la tour de réclusion (<i>gorang tumbang</i>), l'officiée <i>tumbang</i>, en période d'abstinence, devra dormir pendant plusieurs jours.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Tour <i>lakkean</i> <i>sura'</i>, Penduan Ra'ba', 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\IMAGES OB\2168BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Tour <i>lakkean</i> <i>sura'</i>, où repose le défunt. Tallung Lipu, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\ESPACE STRUCTURES\0761BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Tour <i>lakkean</i> <i>sura', </i> Sa'dan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\ESPACE STRUCTURES\0777BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Tour <i>gorang</i> <i>tumbang</i>, rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MAMULLE\0990BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Tour <i>gorang</i> <i>tumbang</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MAMULLE\0985BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Vue générale du lieu. Deux tours sont érigées. En noir, la tour de la <i>tumbang</i>, l'officiée du rituel, rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\ESPACE BUA\1100TER.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="386">
+				<TITRE><![CDATA[Lieux au Couchant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>7</ETAPE_LIEN>
+					<PROPOSITION_LIEN>15</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="387">
+				<TITRE><![CDATA[Lieux au Levant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>21</ETAPE_LIEN>
+					<PROPOSITION_LIEN>70</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="175">
+			<TITRE><![CDATA[Homologies dans les symboles et artefacts.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Dans le rituel <i>bua'</i> <i>kasalle</i>, au Levant, le mât cérémoniel (<i>bate</i>) est la réplique du mât du rituel du Couchant (<i>bate lepong</i>, <i>bandera</i>). L'effigie féminine (<i>tumba'</i>) a pour pendant l'effigie du défunt (<i>tau-tau</i>). L'arbre <i>lumbaa</i> <i>langi'</i> au rituel <i>bua'</i> <i>kasalle</i> a pour réplique l'arbre <i>lumbaa</i> <i>padang</i>. Le santal (<i>sendana bonga</i>) du Levant a pour réplique, au Couchant, le santal au coeur blanc (<i>sendana dongka</i>, Nooy-Palm 1979 : 221). La pierre mégalithe <i>simbuang</i> <i>batu</i> a pour réplique l'arbre fourchu <i>parangka</i> de la fête <i>bua'</i> ...(Nooy-Palm 1986 : 338).]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>30</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Trois mâts <i>bate</i> lors du rituel <i>maro</i> à Torea, novembre 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\BATE PASA\1900.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="486">
+				<TITRE><![CDATA[Artefacts au Levant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>17</ETAPE_LIEN>
+					<PROPOSITION_LIEN>46</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="293">
+				<TITRE><![CDATA[Mât trident]]></TITRE>
+				<COMMENTAIRE><![CDATA[Le mât cérémoniel funéraire (<i>bandera</i>, <i>bate</i> <i>lepong</i>) a pour réplique le mât du Levant (<i>bate</i>), érigé au rituel <i>maro</i> ou <i>bate</i> <i>manurun</i>.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Mât <i>bandera</i>, To' Barana', 2000. Premières funérailles de Ne' Sulo.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\BANDERA\2128BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Mât <i>bandera</i>, To' Barana', 2000. Premières funérailles de Ne' Sulo.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\BANDERA\0536BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Mât <i>bate</i>, rituel <i>maro</i> 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\BATE PASA\1902BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Mât <i>bate</i>, rituel <i>maro</i>, Torea, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\BATE PASA\1900BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="294">
+				<TITRE><![CDATA[Poteau d'offrandes]]></TITRE>
+				<COMMENTAIRE><![CDATA[Au Couchant et au Levant, dans la cour, en amont des maisons, un pieu est planté. Sur celui-ci seront suspendues des parties des animaux sacrifiés (cornes, morceaux de viande) et des fioles en bambou remplies de sang. L'officiant s'assoit à côté du pour y faire des invocations. Au Levant, le pieu se nomme <i>peturo</i> <i>langi'</i> (Nooy-Palm 1986 : 40),. Au Couchant, il se nomme <i>simbuang</i> <i>kayu</i>. C'est à ce dernier que sont attachées les animaux destinés aux sacrifices.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pieu sacrificiel, funérailles de Ne' Sulo, première partie, To' Barana', 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\ARBRAVIANDE\0516BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Les trois sangs sont répandus sur le pieu: celui d'un chiot, d'un coq et d'un buffle. C'est la « terre aux trois sangs » (<i>padang ditallu</i> <i>rarai</i>),chantée dans le poème <i>singgi'</i>, vers 18.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\ARBRAVIANDE\2102BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pieu sacrificiel au Couchant, funérailles de Indo' Serang, Randanan, 1993. À côté, un enfant et « l'enveloppeur de mort » (<i>to</i> <i>mebalun</i>).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\ARBRAVIANDE\1497BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pieu sacrificiel au Levant, rituel catholique <i>ma'kurre</i> <i>sumanga'</i>, à Tiroan (Bittuang), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\ARBRIANDEMATAL\0501BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pieu d'offrandes animales, rituel catholique <i>ma'kurre</i> <i>sumanga'</i>, à Tiroan (Bittuang).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\ARBRIANDEMATAL\0502BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pieu <i>peturo'</i> <i>langi'</i> (« montre-ciel »), devant la maison, <i>bua'kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\ESPACE BUA\1651BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="295">
+				<TITRE><![CDATA[Effigie]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans les deux rituels, une effigie est construite. Ces représentations, du défunt (<i>tau-tau</i>) dans un cas, et d'une femme dans l'autre (<i>anak dara</i>) seront placées dans la nature à la fin du rituel.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Effigie funéraire, Pangleon, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\EFFIGIES TAU TAU\PANGLEON\2097bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Effigie <i>anak</i> <i>dara</i>, rituel <i>bua'</i> <i>kasalle</i>, photo dans R.Waterson 1991. L'effigie est formée d'une sorte de tronc décoré de lianes et de pousses végétales.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA1\2696bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="296">
+				<TITRE><![CDATA[Ornements]]></TITRE>
+				<COMMENTAIRE><![CDATA[Au Couchant, le <i>belo</i> <i>tedong</i> (« joyau du buffle »), ornement formé de différentes pièces de valeur, est descendu sur le champ au centre de la ronde <i>badong</i> (Nooy-Palm 1986 : 210). Au Levant, les danseurs (<i>to manganda'</i>) portent une coiffe richement ornée rappelant les cornes du buffle. Ces ornements sont descendus en procession sur le grand champ. Ils possèdent tous deux : des tissus cérémoniels, des ornements, d'anciennes pièces de monnaie.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ornement <i>belo</i> <i>tedong</i> confectionné dans certains rituels funéraires, Nooy-Palm 1986 : 208.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\belotedong.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Coiffe confectionnée pour la danse <i>manganda'</i>, rituel <i>bua'</i> <i>kasalle</i>, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MANGANDA\1005bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Coiffe confectionnée pour la danse <i>manganda'</i>, rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MANGANDA\1006bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="297">
+				<TITRE><![CDATA[Arbre]]></TITRE>
+				<COMMENTAIRE><![CDATA[Le santal (<i>sendana bonga</i>) du Levant a pour pendant, au Couchant, le santal au coeur blanc. « <i>During</i> <i>a</i> <i>rite</i> <i>of</i> <i>the</i> <i>ma'tomatua</i> <i>the</i> <i>sendana</i> <i>dongka</i> <i>is</i> <i>planted</i>, <i>a</i> <i>variety</i> <i>of</i> <i>sandalwood</i> <i>tree</i> <i>differing</i> <i>from</i> <i>the</i> <i>heavenly</i> <i>sendana</i>. <i>This</i> <i>tree</i> <i>has</i> <i>no</i> <i>red</i> <i>heart-wood</i>, <i>like</i> <i>the</i> <i>sendana</i> <i>bonga;</i> <i>the</i> <i>heart-wood</i> <i>is</i> <i>whitish</i> <i>instead</i> » (Nooy-Palm 1979 : 221).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Arbre <i>sendana</i> <i>bonga</i> planté devant une maison.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\ARBRE\sendana\0277.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="298">
+				<TITRE><![CDATA[Pierre]]></TITRE>
+				<COMMENTAIRE><![CDATA[Le mégalithe ( <i>simbuang batu</i>) des funérailles aurait pour réplique le <i>parangka</i> du rituel <i>bua'</i> <i>kasalle</i>. « Le <i>parangka</i> érigé lors du rituel <i>bua'</i> est une pierre, placée à côté de l'arbre de bois de santal, devant la maison ou réside l'officiée <i>tumbang</i>. » (Nooy-Palm 1986 : 322 et 338, note 6, ma traduction).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Sur un champ de mégalithes (<i>simbuang</i> <i>batu</i>), To' Barana', 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LUMBAA LEMPO\Lumbaa ses orgines\2068.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="299">
+				<TITRE><![CDATA[Buffle et calao]]></TITRE>
+				<COMMENTAIRE><![CDATA[Sur les façades de certaines maisons sont sculptées des têtes de buffles et de volatiles. La tête de buffle. La présence du buffle (<i>tedong</i>) indique qu'une cérémonie du plus haut niveau a eu lieu du côté du Couchant ; la présence du volatile (<i>katik</i>) montre que la plus haute cérémonie du Levant (<i>bua'</i> <i>kasalle</i>) a eu lieu - signes que les maisons ont achevé leurs cycles rituels (Waterson 1989 : 61). Les palanquins du <i>bua'</i> <i>kasalle</i> sont décorés de <i>katik</i>, oiseaux à long cou. Ces sculptures seront attachées ensuite à la maison.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Façade de maison toraja.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\KATIK ET BUFFLES\2041.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Sur la photo, la jeune fille à l'avant se tient au cou du <i>katik</i> lors du rite <i>mamulle</i>, rituel <i>bua'</i> <i>kasalle</i>, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MAMULLE\0993.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Sur le palanquin, le cou de l'oiseau peut être distingué, <i>bua'</i> <i>kasalle</i> à Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\SINGGI\1645.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Le palanquin, lors de la louange <i>singgi'</i>, <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\SINGGI\0994.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="388">
+				<TITRE><![CDATA[Artefacts au Couchant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>7</ETAPE_LIEN>
+					<PROPOSITION_LIEN>17</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="176">
+			<TITRE><![CDATA[Homologies entre officiants.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Dans le grand rituel de funérailles, « l'enveloppeur de mort » (to <i>mebalun</i>) est aussi nommé « prêtre de l'ombre du défunt » (<i>to</i> <i>burake</i> <i>bombo</i>) ou « prêtre du Soleil couchant » (<i>to</i> <i>burake</i> <i>matampu'</i>). Il a pour paire l'officiant(e) <i>to</i> <i>burake</i> des rituels du Levant (<i>to</i> <i>burake</i> <i>tattiku'</i> au Nord ou <i>to</i> <i>burake</i> <i>tambolang</i> au Sud).]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>31</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[L'officiant <i>to</i> <i>burake</i> jouant de son petit tambour, <i>bua'</i> <i>kasalle</i>, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\1330.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="306">
+				<TITRE><![CDATA[Les officiants au Couchant et au Levant]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[L'officiant <i>to</i> <i>mebalun</i> avec la veuve tête couverte, lors des funérailles de Ne' Sulo, derrière en jaune, le défunt, 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\IMAGES OB\2179bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[L'officiant <i>to</i> <i>burake</i> en train de faire une offrande, lors du <i>bua'</i> <i>kasalle</i>, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\1677bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="389">
+				<TITRE><![CDATA[Gardien des rites du Levant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>1</BASE_LIEN>
+					<ETAPE_LIEN>17</ETAPE_LIEN>
+					<PROPOSITION_LIEN>65</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="390">
+				<TITRE><![CDATA[Gardien des rites du Couchant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>1</BASE_LIEN>
+					<ETAPE_LIEN>17</ETAPE_LIEN>
+					<PROPOSITION_LIEN>66</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="177">
+			<TITRE><![CDATA[Homologies dramaturgiques.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Que ce soit pour le rituel du Couchant ou celui du Levant, les membres de la famille entrent en procession sur le champ sacrificiel. Un homme portant une coiffe à cornes les y conduit. Lors de la seconde partie de chacun des rituels, les membres de la famille sont soulevés puis secoués dans des palanquins, autour d'une tour.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>32</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Champ cérémoniel funéraire, à Tapparan, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\RANTE\0941.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="300">
+				<TITRE><![CDATA[Procession]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans les deux plus grands rituels, du Couchant et du Levant, l'entrée sur le champ cérémoniel est consacrée par l'entrée en procession des familles (<i>rapu</i>). Au Couchant, le rite <i>ma'pasonglo</i> (« descendre en procession » sur le grand champ à l'ouest de la maison) ouvre les secondes funérailles. Au Levant, la seconde partie du <i>bua'</i> <i>kasalle</i> s'ouvre par l'entrée en procession des membres de la famille sur le grand champ à l'est de la maison (<i>megorang tama</i> <i>kala'paran</i>). Dans les deux cas, les secondes parties ont toujours lieu hors de la maison.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rite <i>ma'pasonglo</i>, Tapparan, juillet 1993. Le corps est descendu en procession vers le champ sacrificiel. Les participants sont reliés par un long tissu rouge.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PROCESSIONS\0815bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rite <i>ma'pasonglo</i>, Tapparan, juillet 1993. Le corps est descendu en procession vers le champ sacrificiel. Les participants sont reliés par un long tissu rouge.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PROCESSIONS\0816bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rite <i>ma'pasonglo</i>, Tapparan, juillet 1993. Arrivée de la procession sur le champ cérémoniel.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PROCESSIONS\0818bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[1. Rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993. Descente de la procession vers le champ <i>kala'paran</i> <i>bua'</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PROCESSIONS\0823BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[2. Rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993. En tête de la procession, les officiants <i>burake</i>, puis les officiées <i>tumbang</i> et les danseurs casqués (to <i>manganda'</i>).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PROCESSIONS\0827BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[3. Rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993. Les membres de la procession sont reliés par un long tissage bleu.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PROCESSIONS\0826bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[4. Rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993. Les membres de la procession arrivent sur le champ cérémoniel ; ils sont reliés par un long tissage bleu.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PROCESSIONS\0829bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="307">
+				<TITRE><![CDATA[Hommes coiffés de cornes]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans les deux types de rituels, à chaque fois, les participants sont conduits sur le champ cérémoniel par un ou plusieurs hommes portant une coiffe à cornes. D'après H. Van der Veen, au Couchant, un esclave, le <i>to</i> <i>ussobo'i</i> <i>rante</i> entre dans le champ funéraire en premier afin d'exorciser le mal ; de la même façon, au Levant, c'est « celui qui chante » (<i>to</i> <i>menani</i>) qui entre sur le champ (voir les notes non publiées de Veen dans The Handschriften collection of the Royal Institute for Linguistics in Leiden (c. p. H. Nooy-Palm).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Hommes coiffés de cornes lors de funérailles à Sa'dan Matallo, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\DANSES\0365bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Danseurs de <i>randing</i> coiffés de cornes, Semaine culturelle (*Pekan <i>Budaya</i>), Makassar, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\DANSES\1801bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[L'homme à la coiffe « cornée » conduisant le groupe de parenté sur le champ cérémoniel s'appellerait <i>peta'</i> <i>badamo</i>. Rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MANGANDA\1014bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Homme coiffé de cornes introduisant la procession sur le champ cérémoniel, <i>kala'paran</i> <i>bua'</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PROCESSIONS\0823BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="301">
+				<TITRE><![CDATA[Palanquins]]></TITRE>
+				<COMMENTAIRE><![CDATA[Dans la seconde partie des deux grands rituels, un même rite consiste à soulever et à secouer des membres de la famille dans des palanquins et à les faire tourner autour d'une tour. Lors de funérailles, le mort, l'effigie et des membres de la famille se voient portés et secoués dans des palanquins, autour de la tour. Dans certaines régions, le jour des sacrifices de buffles, le rite <i>ma'parondo</i> consiste à porter les arrière-petits-enfants du défunt à dos d'hommes pour les faire tourner trois fois autour de la plate-forme (<i>lakkean</i>) où repose le défunt (Wilcox 1949 : 85 et suiv. ; Nooy-Palm 1986 : 216-218).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Défunt porté sur un palanquin, Sa'dan matallo, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\PARCOURS CERCUEIL\Sa'dan\0781bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Défunt porté sur un palanquin, Sa'dan Matallo, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\PARCOURS CERCUEIL\Sa'dan\0868bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Le défunt porté sur un palanquin, Randanan, Mengkendek, 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\PARCOURS CERCUEIL\Cercueil Mengkendek\0832bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Le défunt est porté sur un palanquin à travers ses rizières, Mengkendek, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\PARCOURS CERCUEIL\Cercueil Mengkendek\0780bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Dans le <i>bua'</i> <i>kasalle</i>, les officiées (<i>tumbang</i>, <i>banaa</i>, <i>limbong</i> <i>bua'</i>) puis d'autres femmes se voient également transportées sur des palanquins, Deri, décembre 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MAMULLE\0991bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rite <i>mamulle</i>, Bamba (Deri), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MAMULLE\0993bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Au <i>bua'</i> <i>kasalle</i>, les officiées (<i>tumbang</i>, <i>banaa</i>, <i>limbong</i> <i>bua'</i>) puis d'autres femmes sont transportées sur des palanquins. Deri, décembre 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MAMULLE\0980bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="302">
+				<TITRE><![CDATA[Circumambulation]]></TITRE>
+				<COMMENTAIRE><![CDATA[Les participants tournent autour de la tour du défunt ou autour de la tour <i>gorang</i>.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Funérailles à Tapparan, juillet 1993]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PROCESSIONS\0820bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rituel <i>bua'</i> <i>kasalle</i>, Bamba (Deri), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PROCESSIONS\0822bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+			<ANTECEDENT id="391">
+				<TITRE><![CDATA[Dramaturgie au Couchant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>7</ETAPE_LIEN>
+					<PROPOSITION_LIEN>15</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="392">
+				<TITRE><![CDATA[Dramaturgie au Levant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>21</ETAPE_LIEN>
+					<PROPOSITION_LIEN>70</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="178">
+			<TITRE><![CDATA[Homologies chorégraphiques.]]></TITRE>
+			<COMMENTAIRE><![CDATA[La danse <i>randing</i> des funérailles a pour paire le <i>tenten</i> du grand rituel <i>bua'</i> <i>kasalle</i>. L'homologie entre ces danses est manifeste non seulement par les costumes (les hommes portent un chapeau de paille avec de fausses cornes stylisées et tiennent un bouclier) mais également par les gestes : la main droite est balancée, tandis que la main gauche tient le bouclier ; par ailleurs, chaque danseur avance dans le cortège en sautillant. Dans les deux cas, ces danseurs, l'allure guerrière, précèdent l'entrée des participants sur le champ cérémoniel.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>33</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Danseurs <i>to</i> <i>ma'</i> <i>randing</i>, *Pekan <i>Budaya</i> (« Festival culturel »), Makassar, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\DANSES\1801.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="487">
+				<TITRE><![CDATA[Danse <i>manganda'</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>21</ETAPE_LIEN>
+					<PROPOSITION_LIEN>74</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="414">
+				<TITRE><![CDATA[Danses <i>randing</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>22</ETAPE_LIEN>
+					<PROPOSITION_LIEN>127</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="303">
+				<TITRE><![CDATA[Homologies de deux danses au Couchant et au Levant]]></TITRE>
+				<COMMENTAIRE><![CDATA[L'homologie entre les deux danses est confirmée grâce au film de Rolf de Maré (1938) conservé à Stockholm. Le <i>tenten</i> a aujourd'hui disparu. Les deux chapeaux utilisés pour ces danses sont conservés à Stockholm, au musée de la Danse et à Jakarta au Musée national (Museum Pusat). Un seul des chapeaux est orné de coquillages. Les vestes des chasseurs de tête - également conservées au Musée national - sont également ornées de coquillages (voir croquis dans Nooy-Palm 1986 : 314). Les chapeaux, de forme conique, sont à demi recouverts de peau et bordés de cheveux (rapportés de la chasse aux têtes ?), ornés de coquillages blancs, surmontés de cinq feuilles de métal - les plus courtes, au nombre de trois, se dressent au milieu et les deux les plus longues représentent une stylisation en laiton des cornes de buffle.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+				<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+					<SERIE_HAUT_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Ma'randing</i>, funérailles à Sa'dan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\DANSES\0365bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Ma'randing</i> lors d'un festival de folklore, Makassar, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\DANSES\1801bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_HAUT_ECRAN>
+					<SERIE_BAS_ECRAN>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Homme casqué de cornes, jour du rite <i>manganda'</i>, deuxième partie du rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MANGANDA\1014bis.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Hommes casqués entrant dans l'arène, rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PROCESSIONS\0827BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_BAS_ECRAN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="179">
+			<TITRE><![CDATA[Homologies des actes de langage.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Certaines prières des rituels du Levant présentent une analogie avec les prières du Couchant.]]></COMMENTAIRE>
+			<NIVEAU>1</NIVEAU>
+			<ORDRE>34</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Homologies de prières, au Levant et au Couchant.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TABLEAUX\PRIERE.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="437">
+				<TITRE><![CDATA[Déclamations au Couchant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>7</ETAPE_LIEN>
+					<PROPOSITION_LIEN>17</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="399">
+				<TITRE><![CDATA[Déclamations au Levant]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>14</ETAPE_LIEN>
+					<PROPOSITION_LIEN>78</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="200">
+			<TITRE><![CDATA[Homologies des chants.]]></TITRE>
+			<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+			<NIVEAU>3</NIVEAU>
+			<ORDRE>6</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Correspondances entre les chants.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\FIGURES\ARCENCIELHAUT.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="483">
+				<TITRE><![CDATA[Homologies des petits chœurs]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>4</ETAPE_LIEN>
+					<PROPOSITION_LIEN>193</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="393">
+				<TITRE><![CDATA[Homologies des grands chœurs]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>8</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="394">
+				<TITRE><![CDATA[Homologies des déclamations solistes]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>3</ETAPE_LIEN>
+					<PROPOSITION_LIEN>184</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="211">
+			<TITRE><![CDATA[Homologies des deux grands rituels.]]></TITRE>
+			<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+			<NIVEAU>2</NIVEAU>
+			<ORDRE>7</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Rituel <i>singgi'</i> lors de la fête <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\SINGGI\2083.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="461">
+				<TITRE><![CDATA[Homologies entre officiants]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>55</ETAPE_LIEN>
+					<PROPOSITION_LIEN>176</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="443">
+				<TITRE><![CDATA[Homologies de temps et de lieux]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>55</ETAPE_LIEN>
+					<PROPOSITION_LIEN>174</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="444">
+				<TITRE><![CDATA[Homologies dans les objets]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>55</ETAPE_LIEN>
+					<PROPOSITION_LIEN>175</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="445">
+				<TITRE><![CDATA[Homologies dramaturgiques]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>55</ETAPE_LIEN>
+					<PROPOSITION_LIEN>177</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="446">
+				<TITRE><![CDATA[Homologies chorégraphiques]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>55</ETAPE_LIEN>
+					<PROPOSITION_LIEN>178</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="447">
+				<TITRE><![CDATA[Homologies des actes de langage]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>55</ETAPE_LIEN>
+					<PROPOSITION_LIEN>179</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="202">
+			<TITRE><![CDATA[Différences entre les deux rituels.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Malgré les fortes homologies qui relient ces rituels, les différences sont nombreuses : dans la nature des sacrifices (buffles d'un côté, porcs de l'autre), dans la nature des échanges, dans le sens même des rituels. Alors que les funérailles seraient un départ, le rituel <i>bua'</i> <i>kasalle</i> serait une arrivée.]]></COMMENTAIRE>
+			<NIVEAU>3</NIVEAU>
+			<ORDRE>7</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[L'arrivée du parcours, <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\PROCESSIONS\0829.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="448">
+				<TITRE><![CDATA[Opposition des chœurs <i>badong</i> et <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>9</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="397">
+				<TITRE><![CDATA[Le <i>rapasan</i> n'est qu'un début]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>1</BASE_LIEN>
+					<ETAPE_LIEN>25</ETAPE_LIEN>
+					<PROPOSITION_LIEN>62</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="400">
+				<TITRE><![CDATA[Le <i>bua'</i> <i>kasalle</i> est un achèvement]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>1</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>22</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="199">
+			<TITRE><![CDATA[Les deux grands rituels, <i>rapasan</i> et <i>bua'</i> <i>kasalle</i>, forment un couple.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Un certain nombre d'éléments sont communs aux deux rituels : actants (officiants, joueur de tambour, effigie...), espace scénique (lieu, plate-forme), décor (pieu, arbre, mégalithe), drame (entrée de la famille <i>rapu</i>, sacrifice animal). L'univers sonore des deux rituels est également proche. Il fonctionne par dyades (<i>bali</i>) et participe de la morphologie rituelle.]]></COMMENTAIRE>
+			<NIVEAU>4</NIVEAU>
+			<ORDRE>1</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Le lien <i>bali</i> dans les deux plus grands rituels, au Couchant et au Levant.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TABLEAUX\COMP.RAPASANBUA.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="480">
+				<TITRE><![CDATA[Homologies des deux grands rituels]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>55</ETAPE_LIEN>
+					<PROPOSITION_LIEN>211</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="395">
+				<TITRE><![CDATA[Homologies des chants]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>55</ETAPE_LIEN>
+					<PROPOSITION_LIEN>200</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="401">
+				<TITRE><![CDATA[Différences entre les deux grands rituels]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>55</ETAPE_LIEN>
+					<PROPOSITION_LIEN>202</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="12">
+		<TITRE><![CDATA[SIGNIFICATION DES HOMOLOGIES]]></TITRE>
+		<TYPE_ETAPE>0</TYPE_ETAPE>
+	</ETAPE>
+	<ETAPE id="15">
+		<TITRE><![CDATA[Le lien <i>bali</i> au sens de couple]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="39">
+			<TITRE><![CDATA[Au plan musical, le lien <i>bali</i> peut signifier une relation de couple.]]></TITRE>
+			<COMMENTAIRE><![CDATA[<i>Bali</i> prend le sens de couple quand il relie des répertoires à la fois semblables et opposés. La notion <i>bali</i> se définit à la fois par un principe d'identité, reliant des structures musicales et chorégraphiques semblables et d'altérité, opposant des structures musicales et chorégraphiques différentes.]]></COMMENTAIRE>
+			<NIVEAU>4</NIVEAU>
+			<ORDRE>2</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+				<SERIE_HAUT_ECRAN>
+					<Donnee_Media>
+						<LEGENDE><![CDATA[<i>Badong</i>, 1993.]]></LEGENDE>
+						<FICHIER>
+							<ADRESSE>MEDIAS\IMAGES\MUSIQUES\BADONG\2134bis.jpg</ADRESSE>
+							<TYPE>IMAGE</TYPE>
+						</FICHIER>
+						<FICHIER>
+							<ADRESSE></ADRESSE>
+							<TYPE>SON</TYPE>
+						</FICHIER>
+					</Donnee_Media>
+				</SERIE_HAUT_ECRAN>
+				<SERIE_BAS_ECRAN>
+					<Donnee_Media>
+						<LEGENDE><![CDATA[Bittuang, 1993.]]></LEGENDE>
+						<FICHIER>
+							<ADRESSE>MEDIAS\IMAGES\MUSIQUES\SIMBONG\DANDAN\DANDANBITTUANG\2088bis.jpg</ADRESSE>
+							<TYPE>IMAGE</TYPE>
+						</FICHIER>
+						<FICHIER>
+							<ADRESSE></ADRESSE>
+							<TYPE>SON</TYPE>
+						</FICHIER>
+					</Donnee_Media>
+				</SERIE_BAS_ECRAN>
+			<ANTECEDENT id="481">
+				<TITRE><![CDATA[Lien entre certaines pièces instrumentales]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>49</ETAPE_LIEN>
+					<PROPOSITION_LIEN>133</PROPOSITION_LIEN>
+					<ANTECEDENT_LIEN>362</ANTECEDENT_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="382">
+				<TITRE><![CDATA[Lien entre deux chœurs dansés]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>2</ETAPE_LIEN>
+					<PROPOSITION_LIEN>30</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="452">
+				<TITRE><![CDATA[Lien entre deux poèmes narratifs]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>52</ETAPE_LIEN>
+					<PROPOSITION_LIEN>196</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="201">
+			<TITRE><![CDATA[ Deux rituels opposés sont accouplés par une série d'homologies musicales et dramaturgiques.]]></TITRE>
+			<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+			<NIVEAU>5</NIVEAU>
+			<ORDRE>1</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+				<SERIE_HAUT_ECRAN>
+					<Donnee_Media>
+						<LEGENDE><![CDATA[Parcours du palanquin du défunt, Sa'dan, 1993.]]></LEGENDE>
+						<FICHIER>
+							<ADRESSE>MEDIAS\IMAGES\COUCHANT\PARCOURS CERCUEIL\Sa'dan\0781bis.jpg</ADRESSE>
+							<TYPE>IMAGE</TYPE>
+						</FICHIER>
+						<FICHIER>
+							<ADRESSE></ADRESSE>
+							<TYPE>SON</TYPE>
+						</FICHIER>
+					</Donnee_Media>
+				</SERIE_HAUT_ECRAN>
+				<SERIE_BAS_ECRAN>
+					<Donnee_Media>
+						<LEGENDE><![CDATA[Parcours des officiées (<i>mamulle</i>), <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+						<FICHIER>
+							<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MAMULLE\0991bis.jpg</ADRESSE>
+							<TYPE>IMAGE</TYPE>
+						</FICHIER>
+						<FICHIER>
+							<ADRESSE></ADRESSE>
+							<TYPE>SON</TYPE>
+						</FICHIER>
+					</Donnee_Media>
+				</SERIE_BAS_ECRAN>
+			<ANTECEDENT id="396">
+				<TITRE><![CDATA[Lien entre les deux grands rituels]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>55</ETAPE_LIEN>
+					<PROPOSITION_LIEN>199</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="24">
+		<TITRE><![CDATA[Le lien <i>bali</i> au sens de paire]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="50">
+			<TITRE><![CDATA[Au plan musical, <i>bali</i> peut désigner une relation de paire.]]></TITRE>
+			<COMMENTAIRE><![CDATA[<i>Bali</i> prend le sens de paire quand il relie deux répertoires de forme semblable, par leur composition sonore (chœur masculin/solo/mixte), leur organisation musicale, leur gestuelle (dansé/debout immobile/assis), leur contexte et qui diffèrent seulement par les paroles et des variantes mélodiques. Tel est le cas de <i>retteng</i> <i>to</i> <i>mate/</i> <i>retteng</i> <i>deata</i> et <i>dondi'/</i> <i>serang</i> <i>mundan</i>.]]></COMMENTAIRE>
+			<NIVEAU>4</NIVEAU>
+			<ORDRE>3</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 2 FENETRES</TYPE_ILLUSTRATION>
+				<SERIE_HAUT_ECRAN>
+					<Donnee_Media>
+						<LEGENDE><![CDATA[<i>Dondi'</i>, Pangngala', 1991.]]></LEGENDE>
+						<FICHIER>
+							<ADRESSE>US\DP\DP108-111.MP3</ADRESSE>
+							<TYPE>SON</TYPE>
+						</FICHIER>
+					</Donnee_Media>
+				</SERIE_HAUT_ECRAN>
+				<SERIE_BAS_ECRAN>
+					<Donnee_Media>
+						<LEGENDE><![CDATA[Chant <i>serang</i> <i>mundan</i>, rituel <i>bua'</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+						<FICHIER>
+							<ADRESSE>US\SM\SM 22-25.MP3</ADRESSE>
+							<TYPE>SON</TYPE>
+						</FICHIER>
+					</Donnee_Media>
+				</SERIE_BAS_ECRAN>
+			<ANTECEDENT id="381">
+				<TITRE><![CDATA[Lien <i>bali</i> des chœurs mixtes non dansés]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>4</ETAPE_LIEN>
+					<PROPOSITION_LIEN>167</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="402">
+				<TITRE><![CDATA[Lien des déclamations au sein des grands chœurs]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>3</ETAPE_LIEN>
+					<PROPOSITION_LIEN>31</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="451">
+				<TITRE><![CDATA[Lien entre poèmes courts]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>54</ETAPE_LIEN>
+					<PROPOSITION_LIEN>204</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="16">
+		<TITRE><![CDATA[Le lien <i>bali</i> au sens de renvoi]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="213">
+			<TITRE><![CDATA[ Au plan musical, <i>bali</i> peut signifier l'idée de renvoi.]]></TITRE>
+			<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+			<NIVEAU>3</NIVEAU>
+			<ORDRE>8</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Sculpture sur une maison, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\2391.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="477">
+				<TITRE><![CDATA[Renvoi de paroles]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>16</ETAPE_LIEN>
+					<PROPOSITION_LIEN>203</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="476">
+				<TITRE><![CDATA[Renvoi de mélodies]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>16</ETAPE_LIEN>
+					<PROPOSITION_LIEN>44</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="44">
+			<TITRE><![CDATA[<i>Bali</i> signifie « se renvoyer des mélodies ».]]></TITRE>
+			<COMMENTAIRE><![CDATA[Dans le chœur <i>badong</i>, les phrases musicales sont renvoyées en alternance entre quatre groupes tel un jeu de ping-pong (<i>badong</i> <i>sibali-bali</i> « en réponse »). Dans le rituel <i>pakorong</i>, les groupes se renvoient les morceaux afin de former des paires pour éviter la un déséquilibre potentiellement dangereux.]]></COMMENTAIRE>
+			<NIVEAU>2</NIVEAU>
+			<ORDRE>8</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Jeu de renvoi de pièces dans un rituel prophylactique.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\FIGURES\Animflute.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="384">
+				<TITRE><![CDATA[Renvoi de son dans le <i>badong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>19</ETAPE_LIEN>
+					<PROPOSITION_LIEN>75</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="405">
+				<TITRE><![CDATA[Renvoi des mélodies de flûtes]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>49</ETAPE_LIEN>
+					<PROPOSITION_LIEN>133</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="203">
+			<TITRE><![CDATA[<i>Bali</i> signifie « se renvoyer des vers ».]]></TITRE>
+			<COMMENTAIRE><![CDATA[<i>Bali</i> désigne aussi le renvoi de paroles organisées (poèmes chantés ou psalmodiés). Ce principe est à l'oeuvre dans plusieurs répertoires dont l'esprit est celui de joutes informelles. Dans le <i>dondi'</i>, <i>serang</i> <i>mundan</i>, <i>simbong</i>, les chœurs se répondent (<i>sibali</i>) par des strophes au contenu sémantique proche - l'enjeu consistant notamment à empêcher le renvoi en arrêtant l'adversaire. Compétition et rivalité sont de mise.]]></COMMENTAIRE>
+			<NIVEAU>2</NIVEAU>
+			<ORDRE>9</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Renvoi de vers entre deux chœurs <i>simbong</i> et <i>dandan</i>]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\FIGURES\polybaruppu.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="484">
+				<TITRE><![CDATA[Dans le <i>simbong</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>3</BASE_LIEN>
+					<ETAPE_LIEN>11</ETAPE_LIEN>
+					<PROPOSITION_LIEN>24</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="403">
+				<TITRE><![CDATA[Dans le <i>dondi'</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>2</BASE_LIEN>
+					<ETAPE_LIEN>25</ETAPE_LIEN>
+					<PROPOSITION_LIEN>109</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="413">
+				<TITRE><![CDATA[Dans le <i>retteng</i>]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>3</ETAPE_LIEN>
+					<PROPOSITION_LIEN>206</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="212">
+			<TITRE><![CDATA[Le renvoi de dyades se joue entre éléments formant des couples ou des paires.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Le renvoi est un concept qui s'applique aussi bien aux répertoires de musiques qu'aux rituels. Ainsi, le <i>rapasan</i> a pour réplique le <i>bua'</i> <i>kasalle</i>, les deux rituels forment un couple tandis que le <i>dondi'</i> et le <i>serang</i> <i>mundan</i> forment une paire de répertoires. Du même et du différent sont exprimés et renvoyés de manière dynamique lors des grands rituels.]]></COMMENTAIRE>
+			<NIVEAU>5</NIVEAU>
+			<ORDRE>2</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Gravure sur bois, sur une façade de maison.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\2394.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="478">
+				<TITRE><![CDATA[Renvoi de sons et de mots]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>16</ETAPE_LIEN>
+					<PROPOSITION_LIEN>213</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="459">
+				<TITRE><![CDATA[Entre petits chœurs]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>24</ETAPE_LIEN>
+					<PROPOSITION_LIEN>50</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="454">
+				<TITRE><![CDATA[Entre rituels]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>55</ETAPE_LIEN>
+					<PROPOSITION_LIEN>199</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="458">
+				<TITRE><![CDATA[Entre grands chœurs]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>15</ETAPE_LIEN>
+					<PROPOSITION_LIEN>39</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="56">
+		<TITRE><![CDATA[Le schéma général]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="209">
+			<TITRE><![CDATA[ Le cycle rituel est construit sur un renvoi dynamique d'homologies hiérarchisées en couples et en paires.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Lié aux ordres cosmique et mythique, le cycle rituel s'exprime par un couplage d'homologies (<i>bali</i>). Un couple génère un réseau de paires plus petites, associées les unes aux autres. L'ensemble du cycle vise à réunifier ce qui est décomposé, la mort en vie, dans un mouvement de balancier intermittent, passant alternativement de la déploration à la louange, par une série d'accouplements de différentes natures et de différents degrés.]]></COMMENTAIRE>
+			<NIVEAU>6</NIVEAU>
+			<ORDRE>1</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Parcours de l'ombre.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>FLASH\parcours_FR.swf</ADRESSE>
+						<TYPE>FLASH</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="482">
+				<TITRE><![CDATA[Renvoi de dyades entre couples et paires]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>16</ETAPE_LIEN>
+					<PROPOSITION_LIEN>212</PROPOSITION_LIEN>
+			</ANTECEDENT>
+			<ANTECEDENT id="460">
+				<TITRE><![CDATA[Appariement des deux plus grands rituels
+
+§§]]></TITRE>
+				<TYPE_ANTECEDENT>AVEC LIEN</TYPE_ANTECEDENT>
+					<BASE_LIEN>4</BASE_LIEN>
+					<ETAPE_LIEN>15</ETAPE_LIEN>
+					<PROPOSITION_LIEN>201</PROPOSITION_LIEN>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+</ARTICLE>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	Fichier de langues, version anglaise
+-->
+<root>
+	<tu id="testMessage">
+		<![CDATA[Test message / Translation file in English.]]>
+	</tu>
+	
+	<tu id="sans_titre">
+		<![CDATA[untitled]]>
+	</tu>
+	
+	<!--
+		Eléments de menu	
+	-->
+	<tu id="menu_home">
+		<![CDATA[Home]]>
+	</tu>
+	<tu id="menu_lexique">
+		<![CDATA[Glossary]]>
+	</tu>
+	<tu id="menu_repertoires">
+		<![CDATA[Directories]]>
+	</tu>
+	<tu id="menu_recherche">
+		<![CDATA[Search]]>
+	</tu>
+	<tu id="menu_enecoute">
+		<![CDATA[Track location]]>
+	</tu>
+	<tu id="menu_credits">
+		<![CDATA[Credits]]>
+	</tu>
+	<tu id="menu_quit">
+		<![CDATA[Quit]]>
+	</tu>
+	<tu id="menu_logiciste">
+		<![CDATA[Logicist diagram]]>
+	</tu>
+	<tu id="menu_reduire">
+		<![CDATA[Full screen/Reduced]]>
+	</tu>
+
+	
+	<!-- ------------------------- -->
+	<tu id="sommaire">
+		<![CDATA[CONTENTS]]>
+	</tu>
+	<tu id="lecture_rapide">
+		<![CDATA[FAST PREVIEW]]>
+	</tu>
+	<tu id="argu_donnees">
+		<![CDATA[ARGUMENTATION AND DATAS]]>
+	</tu>
+	<tu id="répertoires">
+		<![CDATA[Repertoire items]]>
+	</tu>
+	<tu id="rechercher">
+		<![CDATA[Search]]>
+	</tu>
+	<tu id="argu">
+		<![CDATA[Multimedia Argument]]>
+	</tu>
+	<tu id="antho">
+		<![CDATA[Multimedia Musical Anthology]]>
+	</tu>
+	<tu id="sunset_title">
+		<![CDATA[Music of the setting sun]]>
+	</tu>
+	<tu id="sunrise_title">
+		<![CDATA[Music of the rising sun]]>
+	</tu>	
+	<tu id="sunset_desc">
+		<![CDATA[The music of the setting sun is related to funerals. One aim of these musical forms was to help the deceased undergo his journey towards the setting sun. Four repertoires are shown here.]]>
+	</tu>
+	<tu id="sunrise_desc">
+		<![CDATA[The rituals of the rising sun aim to promote the fertility of the fields and the well being of humans and animals, and to repel sickness. The music of four rituals, now disappeared, is shown here.]]>
+	</tu>
+	<tu id="corpus_access_browse">
+		<![CDATA[access the recordings by repertoire]]>
+	</tu>
+	<tu id="corpus_access_keyword">
+		<![CDATA[access the recordings by keyword (category of song, word in text, etc.) or by line-number in the verse]]>
+	</tu>
+	<tu id="lexique">
+		<![CDATA[Glossary]]>
+	</tu>
+	<tu id="en_ecoute">
+		<![CDATA[Track location]]>
+	</tu>
+	<tu id="no_current_play">
+		<![CDATA[Not playing yet.]]>
+	</tu>
+	<tu id="description">
+		<![CDATA[Description]]>
+	</tu>
+	<tu id="unite_son">
+		<![CDATA[Sound Units]]>
+	</tu>
+	<tu id="vers">
+		<![CDATA[VERSES]]>
+	</tu>
+	<tu id="previous_prop">
+		<![CDATA[PREVIOUS TOPIC]]>
+	</tu>
+	<tu id="next_prop">
+		<![CDATA[NEXT TOPIC]]>
+	</tu>
+	<tu id="recherche">
+		<![CDATA[Search]]>
+	</tu>
+	<tu id="search_notice">
+		<![CDATA[Select a repertoire before searching]]>
+	</tu>
+	<tu id="search_keyword">
+		<![CDATA[keywords]]>
+	</tu>
+	<tu id="search_verse">
+		<![CDATA[verse number]]>
+	</tu>
+	<tu id="search_err_tooshort">
+		<![CDATA[Please enter at last 3 caracters]]>
+	</tu>
+	<tu id="search_keyword_noresult">
+		<![CDATA[No result for #pattern# on #rep#]]>
+	</tu>
+	<tu id="search_keyword_1result">
+		<![CDATA[One result for #pattern# on #rep#]]>
+	</tu>
+	<tu id="search_keyword_Nresults">
+		<![CDATA[ results for #pattern# on #rep#]]>
+	</tu>
+	<tu id="search_verse_noresult">
+		<![CDATA[No result for verse n°#verse# on #rep#]]>
+	</tu>
+	<tu id="search_verse_1result">
+		<![CDATA[One result for verse n°#verse# on #rep#]]>
+	</tu>
+	<tu id="search_verse_Nresults">
+		<![CDATA[ results for verse n°#verse# on #rep#]]>
+	</tu>
+	<tu id="linkviewer_legend">
+		<![CDATA[This argument has been developped in :]]>
+	</tu>
+	<tu id="open_pdf">
+		<![CDATA[Open PDF document]]>
+	</tu>
+</root>

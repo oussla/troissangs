@@ -1,0 +1,3111 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!--  Edited with SCD Editor v. 3.17e -->
+<!DOCTYPE articleSCDV3 SYSTEM 'articleSCDV3.dtd'>
+<ARTICLE id="1">
+	<TITRE><![CDATA[RELIGIOUS PRINCIPLES]]></TITRE>
+	<ID>1</ID>
+	<LANGUE>1</LANGUE>
+	<ANNEE_PUBLICATION></ANNEE_PUBLICATION>
+	<NOM_EDITEUR></NOM_EDITEUR>
+	<VILLE_EDITEUR></VILLE_EDITEUR>
+	<PAYS_EDITEUR></PAYS_EDITEUR>
+	<NOM_OUVRAGE></NOM_OUVRAGE>
+	<NOM_COLLECTION></NOM_COLLECTION>
+	<AUTEURS></AUTEURS>
+	<RESUME></RESUME>
+	<MOTS_CLEFS></MOTS_CLEFS>
+	<ETAPE id="23">
+		<TITRE><![CDATA[Location of study.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="56">
+			<TITRE><![CDATA[The study applies to the Toraja Sa'dan and Toraja Mamasa groups.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The Toraja group, part of the Austronesian linguistic family, lives in the mountains in the island of Sulawesi.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>1</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Landscape, Sapan, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\PAYSAGES\2072.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="102">
+				<TITRE><![CDATA[Fieldwork area.]]></TITRE>
+				<COMMENTAIRE><![CDATA[I mainly collected in the west and north of the country, in the cantons of Saluputti, Rindingallo and Sesean. These are at a higher altitude than those in the valley –Rantepao, Sangngalangi’, Makale, Sangngalla’, and Mengkendek. The altitude of the valley is 800 m and it can rise to 2000 m in the north.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Map of Indonesia.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\en\01 INDOMAP.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Map of the northern part of South Sulawesi.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\en\08sulsel.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Area covered by research in 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\en\16record.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Map showing the location of the Baruppu' region, from <i>Tana</i> <i>Toraja</i>, Periplus Editions.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\17 Baruppumap.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Map showing a research area in the west of Pangngala’, from <i>Tana</i> <i>Toraja</i>, Periplus Editions.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\CARTE LEMPOPOTON.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: Toraja paddy field landscape, Awan region, 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S98.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="99">
+				<TITRE><![CDATA[Boundaries in previous times.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The difficulty in defining the Toraja group arises for historical, linguistic and cultural reasons. In general, the population of the upper basin of the Sa'dan has been comprehensively studied. From the end of the nineteenth century N. Adriani and A. Kruijt began using the name ‘Toraja’ instead of ‘Alfuru’ –a name given to every highlander who was still ‘pagan’– in order to remove the negative connotation accorded the latter. At the end of the nineteenth century, the name ‘Toraja’was widely used to designate the highlanders of Central Sulawesi and the inhabitants of northern South Sulawesi. Nowadays, as a result of linguistic research, the word ‘Toraja’ is more accurately defined.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Adriani’s map in 1913, in Kruijt (Alb.) and Adriani (N.), 1912-1914, <i>De</i> <i>Bare'e</i> <i>Sprekende</i> <i>Toradja's</i> <i>van</i> <i>Midden</i> <i>Celebes</i>, Batavia.
+At the beginning of the century the Makale-Rantepao region was already clearly demarcated.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\10ADRIANI.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The three Toraja groups according to A. Kruijt in 1912.
+Three groups were called Toraja: the West-Toradja group, the Oost-Toradja group and Zuid-Toradja group, i.e., west, east and south. Today, only the communities in the south are called Toraja, designated by Kruijt using the term Zuid-Toradja.
+Sources: Kruijt (Alb.) and Adriani (N.), <i>De</i> <i>Bare'e</i> <i>Sprekende</i> <i>Toradja's</i> <i>van</i> <i>Midden</i> <i>Celebes</i>, Batavia.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\11KRUJT.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Distribution of ethnic groups according to W. Kauder, around 1920, in Kaudern, <i>Structure</i> <i>and</i> <i>Settlements</i> <i>in</i> <i>Central</i> <i>Celebes</i>, 1925, Map 5.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\12KAUDERNTORAJA.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The Toraja languages, after H. van der Veen (1929), in ‘Nota betreffende de grenzen van de Sa'danse taalgroep en het haar aanverwante taalgebied’, <i>Tijdschrift</i> <i>voor</i> <i>Indische</i> <i>Taal-</i>, <i>Land-en</i> <i>Volkenkunde</i> 69: 50-97.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\en\13vanderveen.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="100">
+				<TITRE><![CDATA[Administrative boundaries.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The present day administrative boundaries of the Toraja country are more tightly drawn than the Toraja linguistic area as a whole, shown on the map by dotted lines.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Present day administrative boundaries of Tana Toraja after <i>Biro</i> <i>Pusat</i> <i>Statistik</i> 1980.
+The line in bold indicates the current limits of Tana Toraja according to the Government,
+the doted line shows the real limit of the Toraja linguistic regions.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\en\09admin.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="101">
+				<TITRE><![CDATA[Linguistic boundaries.]]></TITRE>
+				<COMMENTAIRE><![CDATA[According to the linguistic map the Toraja group spreads over four departments –Tana Toraja, Polewali-Mamasa, Mamuju, and Luwu'. Recent research distinguishes several sub-families each comprising several languages. Toraja, a western Malayo-Polynesian language, is a linguistic sub-family of the northern South Sulawesi family of languages alongside Bugis, Makassar and Seko (Blust 1984-85; Friberg 1989: 16). This language consists of major dialects –also called languages –and sub-dialects. Linguists agree on the existence of five Toraja languages.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja language family, after Barbara Grimes, 1988, <i>Ethnologue</i>, <i>Languages</i> <i>of</i> <i>the</i> <i>World</i>, Dallas, Summer Institute of Linguistics.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\en\14languesToraja.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<!--
+						<Donnee_Media>
+							
+							<LEGENDE><![CDATA[The Toraja languages.
+Sources: Wurm 1981; Grimes 1988; Friberg 1989; Noorduyn 1991; Grime et al. 1994.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TABLEAUX\LANGUES TORAJA.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+							
+						</Donnee_Media>
+						-->
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="22">
+		<TITRE><![CDATA[Data on social structure.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="48">
+			<TITRE><![CDATA[Hereditary social status governs socio-religious practices.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Social status determines the existence of different values and rituals depending on class. Rank determines a dwelling type, the type of matrimonial alliance and the type of ritual duty.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>2</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Ne’Lumbaa in front of the megalith of one of his ancestors, 2000.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\LUMBAA LEMPO\Lumbaa ses orgines\2068.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="60">
+			<TITRE><![CDATA[Toraja society is divided into three or four status levels.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Strongly hierarchical and made up of great families, Toraja society is organized according to ranks of hereditary status diversely titled depending on the region. In the songs two classes are distinguished: the nobles ‘true men, rich, elders’ (<i>tau</i> <i>tongan</i>, <i>tau</i> <i>sugi'</i>, <i>to</i> <i>makaka</i>) and ‘the numerous or thick men’(<i>tau</i> <i>buda</i>, <i>tau</i> <i>kamban</i>). The classes use an endogamy of rank and an exogamy of village. The nobles are distinguished by their capacity to celebrate a complete ritual cycle.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>3</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[A woman at the side of a noble’s catafalque, indicated by the red color and sun circle motif, 1991.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\COUCHANT\CERCUEIL\0634.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="106">
+				<TITRE><![CDATA[The nobles.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Called ‘the elders’ (<i>to</i> <i>makaka</i>), ‘the rich’ (<i>to</i> <i>sugi'</i>), the ‘big’ (<i>to</i> <i>kapua</i>), ‘the true being’ (<i>tau</i> <i>tongan</i>) –the class of nobles (<i>tana bulaan</i> ‘golden land’) makes up about 25% of the population. The officiants are members of this class.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Mengkendek, 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\CERCUEIL\2125.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From a <i>simbong</i> song, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\TAU TAE LA SUSINNA.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From a <i>simbong</i> song, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\Noble Simbong2.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="107">
+				<TITRE><![CDATA[‘Those in the middle’.]]></TITRE>
+				<COMMENTAIRE><![CDATA[‘Those in the middle’ (<i>to</i> <i>tangnga</i>) designate the iron class (<i>tana'</i> <i>bassi</i>), resulting from the marriage between nobles and commoners. Rich, they are also called ‘the elders’ (<i>to</i>  <i>makaka</i>).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PORTRAIT\GROUPES\0139.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="108">
+				<TITRE><![CDATA[The commoners.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The commoners are called in Toraja ‘the multitude’ (<i>to</i> <i>kamban</i>), ‘the numerous people’ (<i>to</i> <i>buda</i>) or ‘the bundle of bamboos’ (<i>to</i> <i>bulo</i> <i>dia’pa’</i>) or ‘the poor’ (<i>to</i> <i>bongko</i>). In the south, this class is called ‘the palm wood class’ (<i>tana'</i> <i>karurung</i>).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PORTRAIT\PORTRAITFEMMS\1268.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From a song evoking the difference between nobles and commoners, recorded at Tiroan (Bittuang), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\MADOKKONA URU.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\SBI\SBI93-101.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From a <i>simbong</i> evoking the difference between nobles and commoners, collected 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\MADOKKOBULAYAN.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Farmers, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\BOUV AGRI ARTI\1232.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="109">
+				<TITRE><![CDATA[The dependants.]]></TITRE>
+				<COMMENTAIRE><![CDATA[In the south of Rantepao, there was a class of dependants known as <i>to</i> <i>kaunan</i> (‘servants, dependants’) or ‘class of the grass trampled under foot’(<i>tana'</i> <i>kua-kua</i>). In the north, this class is not present and so is not mentioned in the songs. Despite the abolition of slavery by the Dutch at the beginning of the century there are still dependants in families not converted to Christianity.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Women at a funeral celebration.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PUBLIC\0965.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="49">
+			<TITRE><![CDATA[It is possible, through marriage and the rituals, to change status.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The Toraja do form a stratified society, but not strictly so in so far as, on the one hand, a woman can become noble by marrying a man more noble than herself, and on the other, the funeral celebration –a trampoline for social competition –enables members of the lower classes to acquire a new status if they succeed in completing a ritual cycle at the highest level.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>4</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Palanquin of the deceased carried at a funeral ritual, Tapparan, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\RANTE\0945.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="50">
+			<TITRE><![CDATA[Society is organized into great families (<i>rapuan</i>), among whom a strong extended family feeling prevails.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The stem family corresponds to the Toraja term <i>rapuan</i> designating a group of cognate descent from a common ancestor, the founder of the ancestral house <i>tongkonan;</i> in fact it refers to a vast structure with a highly significant role at the great rituals (Nooy-Palm 1979:26).]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>5</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Celebrated house, at a <i>ma’kurre</i> <i>sumanga’</i> (Catholic thanksgiving ritual), Bittuang, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MAISON\FETEE\0201.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="52">
+			<TITRE><![CDATA[In the songs, the noble class is praised for its grandeur.]]></TITRE>
+			<COMMENTAIRE><![CDATA[In the songs, the value of the nobility is told through different metaphors such as gold, metal, trees, birds of prey, jewels, and paddy fields.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>6</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Nobles with their backs to a megalith during Ne’Sulo’s funeral, 2000.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\PORTRAIT\NOBLES POUVOIR\0063.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="85">
+				<TITRE><![CDATA[The great trees.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The great trees –banyan (<i>lamba'</i>, <i>barana’</i>), sandalwood (<i>sendana</i>), and <i>Michelia</i> <i>celebica</i> (<i>uru</i>) –designate rich and powerful beings, able to protect and counsel.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From a <i>simbong</i> song, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\MADOKKO.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Michelia</i> <i>celebica</i> <i>(uru</i>), ironwood, filao.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\ARBRE\uru\2651.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Banyan tree (<i>barana’</i>)]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\ARBRE\barana\2643.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="121">
+				<TITRE><![CDATA[Gold.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Gold (<i>bulayan</i>) is omnipresent in the words of the songs. The noble being is created using gold. Children are conceived from gold. The nobles are praised through gold: all the <i>badong</i> songs have as final expressions word such as: ‘gold necklace’ (<i>rara'</i> <i>bulayan</i>), ‘gold leaf’ (<i>dom</i> <i>bulayan</i>); ‘golden hairbun’ (<i>lokkon</i> <i>bulayan</i>) refers to an illustrious woman, ‘golden horns’ (<i>tanduk</i> <i>bulayan</i>) to a glorious man.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Words of the <i>badong</i> song ‘Pa’Bottong’, Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\OR BADONG.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Necklace (<i>rara'</i>), Ke’te’Kesu’, 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\OBJETS BIJOUX\2574.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Lyrics of a <i>nani</i> song, Ulusalu, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\OR NANI.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Lyrics from great songs, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\OR BADONG simbong.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Red and gold coffin, reserved for the nobles, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\CERCUEIL\0643.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="120">
+				<TITRE><![CDATA[Weapons.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Kris (<i>gayang</i>, <i>sarapang</i>) and sabers (<i>penainna</i>), are the metaphors for masculine nobility. Cutting-edged weapons are associated with magic power. <i>Gayang</i> designates a golden kris, metaphor for a young noble boy. <i>Sarapang</i> designates a great golden kris, metaphor for a man of importance. Praise often found is ‘thick kris’ (gayang <i>pirri'</i>).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Kris at a <i>maro</i> ritual, Torea village, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\TRANSEMANTERE\1041.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Sarapang</i> or <i>gayang</i>, Ke’te’Kesu’, 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\OBJETS BIJOUX\2577.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Gayang</i>, <i>sarapang</i>, Ke’te’Kesu’, 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\OBJETS BIJOUX\2576.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja kris, Rantepao, 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\OBJETS BIJOUX\2689.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From a <i>simbong</i> song, Bittuang, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\TAMBOLANGDATU.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="87">
+				<TITRE><![CDATA[Ancestral textiles.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Ancestral textiles appear in several categories: <i>maa'</i>, <i>sarita</i>, and <i>langgesa’</i>. The <i>maa’</i> textiles were introduced by the East India Company (VOC), which imported these cottons from India. They are held to possess magic powers that can affect prosperity. The <i>sarita</i> and other sacred fabrics were, according to the Toraja, made of divine thread (Veen 1965: 92-93). Accordingly, they were used in diverse ways during the rituals: attached to long bamboo masts in front of the deceased’s house, bound round the funeral effigy’s head, and hung as ceremonial banners from the houses (Nooy-Palm 1979: 257; Gittinger 1989: 202).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Lotong</i> <i>boko</i> fabric (private property, 2005).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\OBJETS BIJOUX\2686.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Tombi</i>, ceremonial cloth attached to a stake and planted on the sacrificial site, Bokko 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\TOMBI\2101.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Tombi</i>, funeral at Bokko, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\TOMBI\0922.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ancestral cloths on the masts <i>bate</i> at the <i>maro</i>, Torea, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\BATE PASA\1900.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From a <i>simbong</i> song, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>en/Tissage.pdf</ADRESSE>
+								<TYPE>PDF</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="88">
+				<TITRE><![CDATA[Birds.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The nobility is also associated with birds: cocks, falcons, egrets, silvery-cheeked hornbills, swifts. Only the noble have the right to show a sculpted bird on their façades.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Bird on a house, Limbong (Lempopoton), 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\KATIK ET BUFFLES\2461.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Simbong song stanzas, collected in 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\Volatiles.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Cock fight, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COQS\1213.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Cocks engraved on the gable of a house.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\PIGNONS\1318.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Cocks engraved on the gable of a house.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\PIGNONS\1316.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="89">
+				<TITRE><![CDATA[Water, paddy fields.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The nobles possess water: the source (<i>saruran</i>), the well (<i>timbun</i>) and the ‘pools of the riches’ (<i>limbong</i> <i>sugi'</i>) where people bathe to become rich, metaphor for commoners working in the nobles’paddy fields.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ambe' Rapi' in front of a wells (<i>turunan</i>, <i>bubun</i>), Awan, 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\SOURCES EAU\2483.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Paddy fields, region of Lempopoton, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RIZIERES\2275.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Region Rindingallo, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RIZIERES\2267.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Paddy fields, near Ke'te’Kesu’, 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RIZIERES\2652.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Simbong stanzas, Bittuang, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\Limbong.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Simbong stanza, collected in 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\Saruran.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="53">
+			<TITRE><![CDATA[The class of nobles is identified by its exemplarity.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The noble is exemplary on every level: he makes a good marriage, possesses a magnificent family (<i>rapu</i>); he is enterprising both as farmer and businessman –he can admirably exchange rice for buffaloes, he is a master of weaving and metal-working; he is distinguished by his piety, his aptitude to perform the highest rituals, and his punctilious honor. These are reflected in the quantity and quality of meat he receives during the rituals.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>7</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[House door richly decorated with the motif of the buffalo <i>pa'tedong</i>.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MAISON\PORTE\1313.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="119">
+				<TITRE><![CDATA[A ‘true man’.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The true being is of divine ancestry. As a person he is accomplished, married, powerful, generous, and astute, full of piety.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From a funeral <i>badong</i> song.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\Mellao.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="91">
+				<TITRE><![CDATA[A successful marriage and a magnificent issue.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From <i>ossoran</i> <i>badong</i>, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\Alliance.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From <i>ossoran</i> <i>badong</i>, lines190 and ff., 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>en/Filiation.pdf</ADRESSE>
+								<TYPE>PDF</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="92">
+				<TITRE><![CDATA[The spirit of enterprise.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From <i>ossoran</i> <i>badong</i>, lines 233 and ff., collected at Randanan (Rindingallo), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>en/Initiative.pdf</ADRESSE>
+								<TYPE>PDF</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="93">
+				<TITRE><![CDATA[Master of weaving.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Weaving, detail (source D. Rappoport)]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TISSAGE\2678.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja weaver at SangKombong, Sa'dan district, 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S94.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From <i>samparan</i> <i>simbong</i>, lines 296 and ff., Lo'ko’Lemo, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>en/Tissage.pdf</ADRESSE>
+								<TYPE>PDF</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="94">
+				<TITRE><![CDATA[Master of metalworking.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: A forge at Batutumonga, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S15.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From the <i>samparan</i> <i>simbong</i>, lines 338 and ff., 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>en/Forge.pdf</ADRESSE>
+								<TYPE>PDF</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Forge at Batutumonga, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FORGE\2190.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The furnace of the forge at Batutumonga, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FORGE\2187.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Forge at Batutumonga, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FORGE\2186.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Forge at Batutumonga, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FORGE\2185.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="95">
+				<TITRE><![CDATA[Extraordinary piety.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From the <i>samparan</i> <i>simbong</i>, lines 411 and ff., 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>en/Piete.pdf</ADRESSE>
+								<TYPE>PDF</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="96">
+				<TITRE><![CDATA[A prodigious being.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From the <i>samparan</i> <i>simbong</i>, lines 456 and ff., 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>en/Prodigue.pdf</ADRESSE>
+								<TYPE>PDF</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="1">
+		<TITRE><![CDATA[THE OPPOSITION WEST/ EAST]]></TITRE>
+		<TYPE_ETAPE>0</TYPE_ETAPE>
+	</ETAPE>
+	<ETAPE id="3">
+		<TITRE><![CDATA[The village, between West and East.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="2">
+			<TITRE><![CDATA[The villages are built following the axes West/East and Upstream/Downstream.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Like many peoples in Indonesia, the Toraja orient themselves using the path of the sun and the course of the rivers. The West and downstream are associated with the world of the ancestors, death and the color black. The East and upstream are associated with the world of the divinities, prosperity and orange-yellow.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>8</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Orientation of Toraja houses and granaries.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>FLASH\en\14MaisonsGreniers_us.swf</ADRESSE>
+						<TYPE>FLASH</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+		<PROPOSITION id="5">
+			<TITRE><![CDATA[Around the village, the West and downstream are associated with the world of the deceased and the ancestors.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Downstream is the direction of the non-deified ancestors’world. The setting sun also refers to the directions west and downstream. It represents the side of death, funerals, and the transformation of shades into ancestors. After the rituals held on their behalf, the shades leave down the river Sa'dan, towards Enrekang, to travel to a place called Puyo. The ancestors are held to have arrived originally following a route from southwest to northeast, when they crossed the sea from the mythical island of Pongko' aboard eight ships (Nooy Palm 1979: 112-114).]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>9</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Toraja village, Rindingallo canton, 2001.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\VILLAGES\0088.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="137">
+				<TITRE><![CDATA[Downstream, the ancestors’world.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Downstream is the direction of the world of non-deified ancestors. Various terms designate downstream: <i>sau'</i> ‘going downstream’, <i>lo'</i> ‘down there’, <i>diong</i> ‘below’.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Mountains in the south of the country, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PAYSAGES\1246.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A river in a Toraja landscape, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PAYSAGES\0105.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Suspension bridge, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PAYSAGES\1517.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Suspension bridge, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PAYSAGES\2375.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="138">
+				<TITRE><![CDATA[The megalith field.]]></TITRE>
+				<COMMENTAIRE><![CDATA[This field, generally outside the village to the west and never cultivated, is planted with megaliths –great standing stones –most often in a circle, for the dead of noble rank. It is reserved for funeral rituals during which it is an area for slaughtering buffaloes, invocations, and sharing out meat.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Megalith field, Rindingallo, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RANTE\2105.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Megalith field.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RANTE\0280.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Megalith field, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RANTE\0940.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Megalith field, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RANTE\1766.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Megaliths (<i>simbuang</i>), To' Barana', Rindingallo.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RANTE\0939.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Megaliths (<i>simbuang</i>), To' Barana', Rindingallo.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RANTE\0935.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Megaliths (<i>simbuang</i>), To' Barana', Rindingallo.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\RANTE\0934.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Megaliths (<i>simbuang</i>) beside a road, Pangngala’, Rindingallo.
+Many megalith fields have been destroyed or abandoned.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\MONOLITHE\2048.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="9">
+				<TITRE><![CDATA[The tombs.]]></TITRE>
+				<COMMENTAIRE><![CDATA[In places, certain rocks along the paths have been dug out to enclose one or more bodies. They are closed by wooden doors on which motifs are engraved. They can be reopened for the <i>ma'nene'</i>, the anniversary rite for the dead.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja tombs, 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\1276.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja tombs.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\1285.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja tomb: the humans leave everything of vital necessity for the ancestors in front of the tombs: betel bag, hat, transistor, food, and so on.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\1323.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja tomb.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\1292.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From <i>ossoran</i> <i>badong</i>, concerning tombs, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\RAMPOMIBATU.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\OB\OB938-940.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Access ladders to the tombs, region of Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\1287.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Access ladders to the tombs at <i>ma'nene'</i> ritual, during the restoration of the graves, Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\1288.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja tombs, Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\1277.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja tomb.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\1281.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Wooden coffins (<i>erong</i>) hanging from cliff, Ke'te’Kesu’.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\1286.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Hanging wooden coffins (<i>erong</i>).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\1326.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Hanging wooden coffins (<i>erong</i>).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\2118.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Tau-tau</i> of great nobles, on tomb cliff.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\STATUETTES FALAISES\0947.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Tau-tau</i> of great nobles.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\STATUETTES FALAISES\0946.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Tau-tau</i> representing the ancestors, in front of burial site.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\STATUETTES FALAISES\1518.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Tau-tau</i> in front of a burial site.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\STATUETTES FALAISES\0950.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Tau-tau</i> in front of tomb.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\STATUETTES FALAISES\1519.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[New type of vault, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\1279.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Islamized Toraja tombs, Saluputti, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMBES\1283.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="61">
+			<TITRE><![CDATA[The East and upstream are associated with the world of the divinities and deified ancestors.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The East is called <i>matallo</i> (‘sun’ <i>allo</i>). It is the residence of the divinities and deified ancestors.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>10</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Landscape at Baruppu', 1991.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\VILLAGES\0085.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="139">
+				<TITRE><![CDATA[Upstream, world of divinities.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Linked to heaven and to the rituals of prosperity and fecundity, upstream stands for the world above, the home of the divinities (<i>deata</i>), gods (<i>puang</i>), and deified ancestors (<i>nene'</i> <i>mendeata</i>). These divinities are not well defined: certain are named, most are not. The rituals of the East enable them to be contacted by means of the songs and offerings made at the northeast of the rice granary. Various terms designate upstream: <i>rekke</i> ‘going upstream’, <i>da</i> ‘above’, <i>do</i> ‘upwards’.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[In the north of the Toraja country, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PAYSAGES\2008.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Mount Sesean, upstream, 2001. View of Rantepao.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\PAYSAGES\2276.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="141">
+				<TITRE><![CDATA[The sites of the rituals of the East.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The sites of the East rituals are known as ‘places of liberty’ (<i>kala'paran</i>) or ‘markets’ (<i>pasa'</i> <i>maro</i>, <i>‘pasa'</i> <i>bugi'</i>), for the exchanges between humans and divinities take place there.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[To the east of the rice granary, during the <i>bua’ kasalle</i>, rites for the officiated women <i>tumbang</i>, Bamba (Deri), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\RITES TUMBANG\1661.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The area for the <i>bua’ kasalle</i>, in a great dried paddy field to the east of the house, Bamba (Deri), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\MAMULLE\0995.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ceremonial field of the <i>maro</i> ritual called <i>pasa'</i> <i>maro</i> (‘market of madness’).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\MAPASA\0898.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="4">
+		<TITRE><![CDATA[The house, crossroads of polarities.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="9">
+			<TITRE><![CDATA[The ancestral houses are erected following cosmological polarities.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The front of the house, facing the rice granary, looks upstream in the direction of the divinities, while the back looks downstream towards the ancestors. In the house the kitchen is in the East; the parents sleep in the room on the south and the children to the north; only the dead rest with the head downstream and the body lying along the West wall, towards the home of the dead, in the southwest of Tana Toraja, down the river Sa'dan.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>11</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>FLASH\en\14MaisonsGreniers_us.swf</ADRESSE>
+						<TYPE>FLASH</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+		<PROPOSITION id="8">
+			<TITRE><![CDATA[The village space is organized around great noble houses.]]></TITRE>
+			<COMMENTAIRE><![CDATA[A hamlet comprises one or several houses in a line facing one or several rice granaries, which are architectural replicas of the houses. The courtyard area is between the houses and the granaries. In the words of the songs a house’s nobility is underlined by its position in space and time (it is the place where the ancestral fabrics are kept), by its architecture, by the quality of its various parts, the richness of its kitchen and its wooden engravings.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>12</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[View of the rice granary, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MAISON\AVEC GRENIER\2074.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="14">
+				<TITRE><![CDATA[Dwelling place.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Called <i>banua</i> or <i>tongkonan</i> (from <i>tongkon</i> ‘sit down’), the houses are dwelling places, reserved for the nobility.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Lempopoton, Lumbaa’s village.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LUMBAA LEMPO\village Lumbaa\1335.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[In front of the house, Lempopoton, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\COUR\2031.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The village of Lempopoton, 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\COUR\2281.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="15">
+				<TITRE><![CDATA[Center of a stem family.]]></TITRE>
+				<COMMENTAIRE><![CDATA[As everywhere in Southeast Asia, the house is not just a dwelling place but the symbol of a huge family, a ‘house of the ancestors’, the place of origin of a stem family or sub-stem-family –a house is an institution representing a dominant family (MacDonald 1987: 196, Volkman 1985: 44-58). Every Toraja traces his descent in relation to a varying number of houses of origin: to his parents’, grandparents’, and ancestors’birth places. This indicates the rank of nobility.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\ANCIEN MODERNE\0178.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Old house at Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\FACE\0217.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Front view of house, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\FACE\0210.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[House at Mamasa, 1993]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\PILIER TOIT\0179.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="55">
+				<TITRE><![CDATA[Sign of nobility.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The rank of nobility of the house is determined through different features: its origin in the village (mother house or not), its constituent elements, its size, its construction type, its external sculptures, its internal riches, and also by the abundance of the rice granaries facing it. The song of the East (<i>simbong</i>) includes in one of its parts a panegyric to the house (<i>sampa'</i> <i>banua</i>).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Row of rice granaries.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\AVEC GRENIER\0169.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From a <i>simbong</i> song, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>en/Louange maison.pdf</ADRESSE>
+								<TYPE>PDF</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="16">
+				<TITRE><![CDATA[Social and ritual center.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The house is the social and ritual center around which all the rituals and, consequently, a large part of musical life are organized.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[In front of the house at Deri, at a <i>bua’</i> <i>kasalle</i>, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\FACE\0212.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[On the rice granary, during a ritual of the East (as can be seen by the white cloth), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\GRENIER\0236.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[House in celebration at Bittuang, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\FETEE\0203.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Chorus of women singing the <i>dandan</i> during the <i>ma’kurre</i> <i>sumanga’</i>, Tiroan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\SIMBONG\DANDAN\DANDANBITTUANG\1516.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Chorus of women singing the <i>dandan</i>, in a line, along the façade of the house. <i>Ma’kurre</i> <i>sumanga’</i>, Tiroan (Bittuang), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\SIMBONG\DANDAN\DANDANBITTUANG\2088.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="122">
+				<TITRE><![CDATA[Musical space.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The house interior and courtyard are used for the songs: great choruses, dances and instruments in the courtyard, small chorus of officiants in the house during <i>bua’</i> and <i>maro</i> rituals.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Badong</i> in the center of the courtyard, Limbong (Pangngala’), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\BADONG\LIMBONG\0445.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Badong</i> in front of the house, Limbong (Pangngala’), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\BADONG\LIMBONG\0484.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Several <i>simbong</i> and <i>dandan</i> choruses in the courtyard area. At a <i>ma’kurre</i> <i>sumanga’</i> ritual, Bittuang, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\en\polysimbong.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Two choruses, male and female, in the courtyard area. The women always sing sitting beside the houses whilst the men sing standing next to the rice granaries, Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\en\polybaruppu.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="17">
+				<TITRE><![CDATA[Living structure.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The traditional houses of the Austronesian world possess a vitality of their own, depending on the vitality of their occupants and the objects they contain (Waterson 1991: 115). Considered a real living structure endowed with a vital energy, the house is sung and celebrated, and –just like a human being –undergoes rites of passage.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Public display of ancestral fabrics during <i>maro</i>, Torea 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\CONSTRUCTION\1855.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The ancestral fabrics are attached to the mast, during <i>maro</i>, Torea, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\CONSTRUCTION\1856.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The ancestral fabrics.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\CONSTRUCTION\1857.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The ancestral fabrics are attached to the mast, during <i>maro</i>, Torea, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\CONSTRUCTION\1858.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The ancestral fabrics are attached to the mast <i>bate</i>, during <i>maro</i>, Torea, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\CONSTRUCTION\0912.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ceremonial masts erected on the ‘market’ (<i>pasa'</i>), during <i>maro</i>, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\BATE PASA\1900.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="18">
+				<TITRE><![CDATA[Wood engravings.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The motifs engraved (<i>sura'</i>) on the wooden exterior façades of the houses and rice granaries are painted in four colors –red, yellow, white and black. Their abundance, variety, and nature determine the house’s status. Only the nobles have the right to motifs on the house's four façades; moreover, certain motifs on wood are exclusively theirs. The motifs are rich and symmetrical. Their distribution obeys a precise order. Every motif draws its name from a reference to daily life (objects, utensils), or nature (plants, animals, domestic utensils).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Mamasa, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1296.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Mamasa, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1306.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Sa'dan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1315.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Sa'dan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1319.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Sa'dan Toraja, Rindingallo region, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\2226.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Sa'dan Toraja, Rindingallo region, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\2228.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Sa'dan Toraja, Rindingallo region, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\2230.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Buffalo motif (<i>pa'tedong</i>), Toraja Sa'dan, Rindingallo region, 2001]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\2235.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="52">
+				<TITRE><![CDATA[Carving in the round.]]></TITRE>
+				<COMMENTAIRE><![CDATA[In the west of the Toraja Sa'dan country, in the Mamasa district, the houses are not only decorated with wood engravings but also with carvings in the round of male human figurines on horse-back.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Mamasa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1297.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Mamasa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1298.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Mamasa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1299.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Mamasa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1300.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Mamasa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1304.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Mamasa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1305.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Mamasa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1307.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Mamasa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1309.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja Mamasa.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1310.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="54">
+				<TITRE><![CDATA[Animal carvings.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Depending on rank the façades are decorated with the heads of different animals: buffaloes, cocks, birds, serpents. These animals play an important role in the myths. The cock and the buffalo are held to be agents of transformation, who ensure the transfer of the deceased’s wealth and restore life (Waterson 1989: 66).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: Bird chicken-serpent on house gable.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S03.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Serpent, Mamasa, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1295.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Carved buffalo head at Mamasa, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\SCULPTURES\1305.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Two buffalo heads, Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\COUR\0144.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Katik</i>, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\KATIK ET BUFFLES\2254.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Katik</i>, Limbong (Lempopoton), 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\KATIK ET BUFFLES\2461.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Katik</i>, Baruppu', 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\KATIK ET BUFFLES\2252.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Katik</i> and serpent, Baruppu', 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\KATIK ET BUFFLES\2253.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Katik</i> and buffalo, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\KATIK ET BUFFLES\2041.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Two <i>katik</i>, Baruppu', 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\KATIK ET BUFFLES\2251.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Katik</i> and buffalo.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\KATIK ET BUFFLES\1314.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Buffalo head on façade, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\KATIK ET BUFFLES\2255.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Two buffalo heads (<i>kabongo</i>) on a façade.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\KATIK ET BUFFLES\0208.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="37">
+			<TITRE><![CDATA[Each house has one or more rice granaries.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Houses (<i>banua</i>) and rice granaries (<i>alang</i>), built on piles (or house with elevated floor), have saddle-shaped roofs and are decorated with woodcarvings, entirely or partially painted in four colors according to social class. The number of granaries is a sign of the stem family’wealth.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>13</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Two houses and a rice granary, Baruppu'.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MAISON\ENFILADES\1533.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="124">
+				<TITRE><![CDATA[The granary –where the rice is stored.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Baruppu' 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\GRENIER\0229.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rice leaving granary at Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\GRENIER\0230.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rice leaving granary at Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\GRENIER\0231.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rice leaving granary at Baruppu', 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\GRENIER\0232.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="123">
+				<TITRE><![CDATA[The granary, sign of nobility.]]></TITRE>
+				<COMMENTAIRE><![CDATA[On an everyday basis the rice granary can be identified through its ornamentation: necklace, distinguishing sculptures. Only the nobles may sit on the rice granaries. In ritual periods the rice granary is the peculiar property of certain nobles.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Line of rice granaries, Nanggala, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\AVEC GRENIER\0169.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rice granary necklace –mark of highest level funeral.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\GRENIER\0223.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Bird and buffalo carved on the rice granary as marks of distinction.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\GRENIER\0224.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rice granary during a <i>ma’kurre</i> <i>sumanga’</i> (Catholic thangsiving ritual), Bittuang, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\GRENIER\0235.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Rice granary during a <i>ma’kurre</i> <i>sumanga’</i> (Catholic thangsiving ritual), Bittuang, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\GRENIER\0236.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="25">
+		<TITRE><![CDATA[The rituals from the West to the East.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="62">
+			<TITRE><![CDATA[The rituals of the West relate to funerals.]]></TITRE>
+			<COMMENTAIRE><![CDATA[On the side of the West, the funeral rituals represent simply the beginning of a much vaster ritual process centered on the transformation of a life spirit into a black shade and then an ancestor.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>14</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Effigy of deceased (<i>tau-tau</i>), Pangleon, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\COUCHANT\EFFIGIES TAU TAU\PANGLEON\2097.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="63">
+			<TITRE><![CDATA[The rituals of the East relate the fecundity of the land, animals and humans.]]></TITRE>
+			<COMMENTAIRE><![CDATA[After the funerals, the rituals of the East begin. They transform the deceased’s shade into vital energy or divinity by making it ascend Eastwards through a series of graded rites of passage.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>15</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Bate mast, <i>maro</i> ritual, Torea, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\BATE PASA\1900.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE></ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Rite of the engraved bamboos (<i>surasan</i> <i>tallang</i>), 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\LEVANT\SURASAN TALLANG\2078.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE></ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Rite of the praises (<i>singgi'</i>), during the <i>bua’</i> <i>kasalle</i>, Deri, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\SINGGI\1645.JPG</ADRESSE>
+						<TYPE>IMAGE</TYPE>
+					</FICHIER>
+					<FICHIER>
+						<ADRESSE></ADRESSE>
+						<TYPE>SON</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="6">
+		<TITRE><![CDATA[THE RITUAL CYCLE]]></TITRE>
+		<TYPE_ETAPE>0</TYPE_ETAPE>
+	</ETAPE>
+	<ETAPE id="15">
+		<TITRE><![CDATA[A cycle in the form of a ladder.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="30">
+			<TITRE><![CDATA['The rule of the ladder of inter-locking bamboos' implies that each ritual of the West is twinned with a ritual of the East.]]></TITRE>
+			<COMMENTAIRE><![CDATA[This ritual rule is also called ‘rule of the ladder with rungs married like two bamboo halves’(<i>aluk</i> <i>silau'</i> <i>eran</i> <i>simuane</i> <i>tallang</i> or <i>aluk</i> <i>silopak</i> <i>tallang</i>). This is made explicit in the words of the songs.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>16</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Ritual ladder from the Tallu' Kalo'na région, given by Ne'Lumbaa.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>FLASH\en\29echelleRituelle_us.swf</ADRESSE>
+						<TYPE>FLASH</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="143">
+				<TITRE><![CDATA[The ritual rule is thought through an architectural rule.]]></TITRE>
+				<COMMENTAIRE><![CDATA[]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pong Minda explaining the principle of fitting bamboos together for roofing, 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S02.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja roofing made with inter-fitting bamboos.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S04.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Toraja roofing made with inter-fitting bamboos.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S05.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="9">
+		<TITRE><![CDATA[Turning around from one side to the other.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="18">
+			<TITRE><![CDATA[Turning around, i.e., the necessary passage from the West to the East, is the principle on which the ritual dynamic is based.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The turnaround obliges every being to ‘turn around’a funeral rite with a rite in the East. It enables the shade to change into an ancestor and then into divinity so as to regain its vital energy. Prosperity is only possible if this turnaround is performed: filial duty is only fulfilled after this assistance to the dead transforms the deceased into ancestors, through the performance of the rituals of the East. The ritual cycle itself is called ‘rule of turnaround’(<i>aluk</i> <i>pembalikan</i>).]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>17</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Ritual journey for a deceased of noble class.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\FIGURES\en\parcours.jpg</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="28">
+				<TITRE><![CDATA[Turning around in the words of the songs.]]></TITRE>
+				<COMMENTAIRE><![CDATA[In the <i>ossoran</i> <i>badong</i> and <i>samparan</i> <i>simbong</i> narratives, the turnaround is described literally.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Extracts from songs, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>en/Retournement.pdf</ADRESSE>
+								<TYPE>PDF</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="25">
+			<TITRE><![CDATA[The principle of turning around invades the whole of the religious system.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The recurrent turnaround principle is expressed either symbolically through the names attributed to certain rites or the values expressed in the ritual words, or physically by inverting something (the corpse, the effigy, the offerings, the mast <i>bate</i>, the vowels, for example).]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>18</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[An offering at the <i>maro</i>, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\CONSTRUCTION\1871.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="38">
+				<TITRE><![CDATA[The ‘duty’of turning around.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The ‘rule of turnaround’(<i>aluk</i> <i>pembalikan</i>) upholds the whole socio-religious system of which the dynamic consists in ‘turning around’from the West to the East. It represents ‘turning around’(i.e. to pass) a ritual from the side of the West to the side of the East, from one point opposite to another. The ultimate aim of the <i>aluk</i> <i>pembalikan</i> is the return of the deceased’s gift to the living: the living give cooked food to the dead, and in return the dead offer the living protection and fecundity. The society’s relationships are globally determined by this system of exchange.
+Note: Hetty Nooy-Palm translates <i>pembalikan</i> using the English term ‘conversion’as‘means of restoring relations with the gods of the world above’(Nooy-Palm 1986: 152-153).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The expression in the songs of the duty to turn around.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>en/Devoir de retournement.pdf</ADRESSE>
+								<TYPE>PDF</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="41">
+				<TITRE><![CDATA[‘Turning around the deceased’.]]></TITRE>
+				<COMMENTAIRE><![CDATA[In the West, the first act of the great funerals consists of changing the corpse’s position from east-west to north-south. The rite is called ‘turning the deceased around ‘(<i>ma'pabaliki</i> <i>to</i> <i>mate</i>). ‘The deceased is turned around’, with the head to the south, and is then deemed ready to leave for the place of the ancestors, known as <i>Puya</i>.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The widow lying in an inverse position to the deceased, To'Barana', 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\IMAGES OB\2174.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: From the changing of the deceased‘s position, To' Barana', June 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S46.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="42">
+				<TITRE><![CDATA[‘Turning around the effigy’.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Some days later, during the funeral, the effigy, the substitute for the deceased, is put outside the house and turned from the west to the east (<i>pembalikan</i> <i>tau-tau</i>), after which animal and musical offerings are made to it. This change of direction reveals the future destination of the deceased’s soul.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Effigy of deceased at Pangleon, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\EFFIGIES TAU TAU\PANGLEON\0675.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="43">
+				<TITRE><![CDATA[‘Turning around the drum’.]]></TITRE>
+				<COMMENTAIRE><![CDATA[The ‘turning the drum around ‘(<i>pembalikan</i> <i>gandang</i>), can take place some considerable time after the great funeral. This constitutes the final funeral rite that consecrates the transformation of the deceased’s soul into divinity by a simple drum stroke together with the sacrifice of a pig on the sacrificial field. The drum itself is not ‘turned around’; rather the deceased’s soul changes direction, passing from the south to the north, so as to be transformed into divinity (<i>mendeata</i>) (Waterson 1993: 74).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Drum used as place for offerings during the <i>maro;</i> here, Ne' Mendolo, Torea, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG MARO\0306.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="45">
+				<TITRE><![CDATA[‘Turning around the offering’.]]></TITRE>
+				<COMMENTAIRE><![CDATA[In the rituals of the East, at the start of every ritual, the action consists of symbolically turning the offering around (<i>pembalikan</i> <i>pesungna</i>) (Veen 1966: 6; Nooy-Palm 1986: 152). The offering consists of placing cooked meat and rice on a banana leaf. The meat is placed upstream, the home of gods and divinities, then after a speech, the banana leaf is turned around in the opposite direction so that the meat is directed downstream, the home of the ancestors. This fundamental act, necessary for the souls’passage from one world to the other, structures the system of thought. No funeral rite is considered complete until this ritual has been performed.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Paisung</i> offering, <i>maro</i> ritual, Sereale, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\CONSTRUCTION\1871.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="46">
+				<TITRE><![CDATA[‘Turning around the <i>bate</i> mast’.]]></TITRE>
+				<COMMENTAIRE><![CDATA[A ritual of the East, <i>maro</i> <i>bate</i> <i>ma'pabalik</i> ( ‘turning the mast around’) is performed so that the soul of the deceased may pass from the West to the East, and from low to high, towards the place of the divinities. During this ritual, one or more great trident masts are erected. They are said to be ‘turned around’, as they are equivalent to the mast erected during the celebrations of the West.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Celebration of the East: <i>bate</i> at the <i>maro</i>, Sereale, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\MARO\BATE PASA\1900.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Celebration of the West: <i>bandera</i> at a funeral, To' Barana', June 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\BANDERA\0536.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="36">
+			<TITRE><![CDATA[This turnaround is a process of regeneration, turning the deceased into ‘life spirit’.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Funeral rituals are only the beginning of a much vaster ritual process centered on the deceased’s reproduction and regeneration as ‘life spirit’ <i>deata</i> and ‘vital energy’ <i>sumanga’</i>. The shade of the dead noble is transformed into an ancestor and then into a divinity through a series of rites of passage, which are graduated and orientated in space from the West to the East.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>19</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Tau-tau effigy, Pangleon, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\COUCHANT\EFFIGIES TAU TAU\PANGLEON\2097.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="11">
+		<TITRE><![CDATA[The balance of the rituals.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="22">
+			<TITRE><![CDATA[The dynamic balance between left and right must be maintained.]]></TITRE>
+			<COMMENTAIRE><![CDATA[This entails placing a ritual of the East on the same level as a ritual of the West of the same rank: each rite must have its ‘answer’ (<i>bali</i>) for the cycle to be completed and the deceased’s shade transformed into divinity, full of vital energy (<i>sumanga'</i>).]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>20</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Balance in the <i>ossoran</i> <i>badong</i> funeral song, 1993.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>en/Equilibre.pdf</ADRESSE>
+						<TYPE>PDF</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="26">
+		<TITRE><![CDATA[The graduation of the rituals.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="64">
+			<TITRE><![CDATA[Graduation entails a succession of ever greater rituals.]]></TITRE>
+			<COMMENTAIRE><![CDATA[In ‘the rule of the ladder with rungs matching each other like two halves of bamboo’(<i>aluk</i> <i>silau'</i> <i>eran</i> <i>simuane</i> <i>tallang</i>), the rungs are organized like the ‘bamboos of a Toraja roof’, with ever larger elements –more and more important rituals. In this way the rituals form a hierarchy. This graduation can be seen from a succession of names for the rites –in ever increasing order of importance referring to greater and greater rituals.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>21</ORDRE>
+			<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+			<SERIE_1_FENETRE>
+				<Donnee_Media>
+					<LEGENDE><![CDATA[Ladder in the East, from the words in the songs.]]></LEGENDE>
+					<FICHIER>
+						<ADRESSE>FLASH\en\06echelleAuLevant_us.swf</ADRESSE>
+						<TYPE>FLASH</TYPE>
+					</FICHIER>
+				</Donnee_Media>
+			</SERIE_1_FENETRE>
+			<ANTECEDENT id="111">
+				<TITRE><![CDATA[Graduation in the words of the songs.]]></TITRE>
+				<COMMENTAIRE><![CDATA[These seven names correspond to the seven rungs of the East that every noble is obliged to travel after the performance of the two-stage funerals that balance the left part with the right. He must climb all the rungs in the East, right up to the <i>bua’ kasalle</i>.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[From the song mentioning the graduation. Ossoran badong, lines 493 to 502. 1993, Randanan, Pangngala'.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TEXTES\en\Hierarchie.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="125">
+				<TITRE><![CDATA[The metaphor for Toraja roofing.]]></TITRE>
+				<COMMENTAIRE><![CDATA[In the words of the songs, the ritual graduation is compared to the construction of a roof. Toraja roofs are built according to a specific technique in which larger and larger bamboos are fitted into one another.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Top of a Toraja roof, 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\TOIT LONGA\2262.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Progressive stacking of bamboos on a Toraja roof.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MAISON\PARTIES CHANSONNIER\2248BIS.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+	<ETAPE id="17">
+		<TITRE><![CDATA[The guardians of the ritual order.]]></TITRE>
+		<TYPE_ETAPE>1</TYPE_ETAPE>
+		<PROPOSITION id="73">
+			<TITRE><![CDATA[The overall officiant (<i>to</i> <i>minaa</i>).]]></TITRE>
+			<COMMENTAIRE><![CDATA[‘He who knows’(<i>to</i> <i>minaa</i>) is the senior officiant, the great specialist in ritual language and usages. He officiates both at the funeral and the fecundity celebrations. As a member of the middle class, he leads a life similar to other farmers. As an intercessor and mediator between visible and invisible worlds, he pronounces the words that enable the deceased, family or house to ‘change status’.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>22</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Ne’Ambaa, <i>to</i> <i>minaa</i>, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\TOMINAA\1352.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="134">
+				<TITRE><![CDATA[1) ‘The Valiant drum’.]]></TITRE>
+				<COMMENTAIRE><![CDATA[<i>To</i> <i>minaa</i> <i>Gandang</i> <i>Barani</i>, also called ‘He who beats the drum’ <i>To</i> <i>Ma'</i> <i>Gandang</i> or <i>To</i> <i>minaa</i> <i>Manakka</i>. Though his name is associated with the drum and with the resonant voice he does not play the drum and is not a particularly good singer. He can enumerate the seven layers of the cosmos.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Burake</i> <i>gandang</i> <i>barani</i>, with his nephews at the <i>bua’</i> <i>kasalle</i>, Bamba (Deri), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA1\1541.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Two <i>burake</i> from Tallu Kalo'na, Ne’Lumbaa and Ne’Sulo, during the <i>bua’</i> <i>kasalle</i>, December 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GANDANG\GANDANG BUA\0446.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ne’Sulo, deceased in 1999, both <i>to</i> <i>minaa</i> <i>gandang</i> <i>barani</i> and <i>to</i> <i>burake</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMINAA\1362.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="135">
+				<TITRE><![CDATA[2) ‘The Learned Guardian of the Hundred Gates’.]]></TITRE>
+				<COMMENTAIRE><![CDATA[<i>To</i> <i>minaa</i> <i>Ungkambi</i> <i>Ba'ba</i> <i>Saratu'</i>, like Ne’Ambaa and Ne’Mendolo.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ne’Ambaa from Lo'ko’Lemo, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMINAA\2371.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ne’Ambaa, who died in 1994, here in 1993, during the funeral of Indo' Serang at Randanan.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMINAA\1498.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ne’Mendolo during the <i>maro</i> ritual, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMINAA\1352.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Two <i>to</i> <i>minaa</i>, Ne’Mendolo and Ne’Lumbaa, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMINAA\1340.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ne’Salombe’, Rea Parodo, Baruppu', 1993. Recently converted to Christianity.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMINAA\1351.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ne’Mendolo, Rantepao, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMINAA\2370.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ne’Lumbaa Se'pon or Lumbaa Kapala, Rantepao, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMINAA\2424.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="136">
+				<TITRE><![CDATA[3) ‘The Chicken-headed Savant’.]]></TITRE>
+				<COMMENTAIRE><![CDATA[<i>To</i> <i>minaa</i> <i>Ulu</i> <i>Manuk</i> (The Chicken-headed Savant’) is an officiant whose pay is no more than a chicken head because he is not able to officiate during the great celebrations. He is also called <i>To</i> <i>minaa</i> <i>Sa'de</i> <i>Banua</i> (‘The Savant beside the House’), because his knowledge afford him to officiate only close to the house.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Ne’Londong, in orange in the photograph.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMINAA\1364.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="65">
+			<TITRE><![CDATA[The officiant(ess) of the rituals of the East: <i>to</i> <i>burake</i>.]]></TITRE>
+			<COMMENTAIRE><![CDATA[Two types of <i>burake</i> exist. In the south, the <i>burake</i> <i>tambolang</i> (‘white heron’) which is a transvestite, in the north, the <i>burake</i> <i>tattiku'</i> (‘little bird of the mountains’), man or woman. The first acquires his title by nature, the second inherits it. Today, the first type has disappeared. <i>Burake</i> may mean ‘impotent’or ‘hermaphrodite’(Nooy-Palm 1979: 282). He/she officiated in the agrarian rituals (<i>menani</i> <i>pare</i>) and/or in the <i>bua’</i> <i>kasalle</i>. His status diminished throughout the century due to the disappearance of the rituals of the East.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>23</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Ne' Lumbaa and Pong Limbong, two <i>burake</i> <i>tattiku’</i>, preparing offerings for the <i>bua’</i> <i>kasalle</i>, Bamba (Deri), 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA2\CUISINE OFFRANDES\1022.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="115">
+				<TITRE><![CDATA[Object of the officiant(ess) <i>burake:</i> a drum.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Priest or priestess of the rituals of the East, performing at the <i>bua’</i> <i>kasalle</i>, gifted for singing, the <i>to</i> <i>burake</i> has a small hand drum called <i>garatung</i>, a pellet drum with two python skins, with ball strikers. He/she uses it for all the rituals he/she directs to give a rhythm to her words through the drum’s biting sound.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Burake</i> Lumbaa shaking his pellet drum during a prayer, <i>bua’</i> <i>kasalle</i>, Bamba (Deri), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\1330.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE>US\GA\GA 1.MP3</ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Burake</i> Lumbaa turning around the platform with his pellet drum, Bamba (Deri), 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\MUSIQUES\GARATUNG\0449.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="116">
+				<TITRE><![CDATA[<i>To</i> <i>burake</i> <i>tattiku’</i> officiants, in the north region.]]></TITRE>
+				<COMMENTAIRE><![CDATA[I have worked with several <i>to</i> <i>burake</i> of both sexes from the Tallu Kalo'na region. They are active within their society, and regularly receive neighbors who come for advice on life and rituals.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Lumbaa making an offering. Lempopoton, 2005.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LUMBAA LEMPO\2457.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: Ne’Lumbaa chewing his betel in the early morning, Lempopoton, 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S81.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: The son of a deceased comes to consult the Ne’Lumbaa before the beginning of the funeral. They count (<i>bilang<i/>) together the buffaloes to be sacrificed. Lempopoton, 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S63.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>Burake</i> officiant, Ne' Sulo’s daughter, at To' Barana’, 2001. Her name is <i>Tasik</i> <i>Bua’</i> or <i>Tallo</i>.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\TOMINAA\1357.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Tasik Bua’ and Lumbaa, officiants of the <i>bua’</i> <i>kasalle</i>, Bamba (Deri), May 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA1\1542.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[<i>To</i> <i>Minaa</i> <i>Gandang</i> <i>Barani</i> (‘The Wise Valiant Drum’) and <i>to</i> <i>burake</i> <i>tattiku’</i>, descendent of Ne' Songo (died in 1920). Surly, hard, and radical. Of the ten children of Ne' Sulo, eight are Christians. None of them succeeded their father.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\LEVANT\BUA1\1541.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Map of my research region, with a high incidence of officiants <i>burake</i>, taken from Tana Toraja, Indonesia Regional Map, Periplus Editions.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CARTES\18 Lempotonmap.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: Work session with Lumbaa, Lempopoton, 2001.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S06.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The <i>burake</i> Lumbaa’s genealogy, beginning with the great God Puang Matua (June 2000).]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\FIGURES\LUMBAA GENAL.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+			<ANTECEDENT id="142">
+				<TITRE><![CDATA[Recurrence of the transvestite officiants in South Sulawesi.]]></TITRE>
+				<COMMENTAIRE><![CDATA[Sacred homosexuality is still found in South Sulawesi, with the clergy of the transvestite priests (<i>bissu</i>), homosexual officiants, shamans, priests, specialists in trance ritual, and intermediaries between men and Gods (Hamonic 1987). This existed in Java in the past and it was frequent among the shamans of the Bare'e in Central Sulawesi, Bali, among certain Dayak of Borneo, in some communities in Formosa, the Philippines and Polynesia (Kroef 1956). Incidence of the term <i>burake</i> in Central Sulawesi (<i>tadumburake</i> among the Mori, <i>wura'e</i> or <i>balia</i> near Palu, in Kruijt 1912 and Stockhof 1984).]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[A <i>bissu</i> priest, Pare-Pare, Sulawesi, 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CELEBESSUD\2348.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[At Pare-Pare, a <i>bissu</i> priest and an ex-priest, 1991.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\CELEBESSUD\2344.jpg</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+		<PROPOSITION id="67">
+			<TITRE><![CDATA[‘He who sings’(<i>to</i> <i>menani</i>), master of praise.]]></TITRE>
+			<COMMENTAIRE><![CDATA[‘He who sings’(<i>to</i> <i>menani</i>) is an officiant at the <i>bua’</i> ritual. His title is hereditary (<i>disoso'i</i>). He has false buffalo horns, in brass, called <i>tanduk</i> <i>batara</i> <i>lolo</i> ‘young divinity’s horn’and is dressed in yellow. He is an expert in praise and eulogy. He is responsible for different invocations in the <i>bua’</i> celebrations –<i>bua’</i> <i>padang</i> and <i>bua’</i> <i>sangrapu;</i> his role is less important than the officiant <i>burake’s:</i> he declaims the <i>singgi'</i> and <i>sura'</i> <i>tedong</i> incantations. His funeral is inverted into a celebration of fecundity.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>24</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[Ne' Tato’Dena’, <i>to</i> <i>menani</i> and <i>to</i> <i>minaa</i> with his son, 1993.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\MUSIQUES\FLUTES PAKORONG\1391.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+		</PROPOSITION>
+		<PROPOSITION id="66">
+			<TITRE><![CDATA[The officiant of the rituals of the West: the <i>to</i> <i>mebalun</i>.]]></TITRE>
+			<COMMENTAIRE><![CDATA[The mortician is called <i>to</i> <i>mebalun</i> ‘he who wraps’to <i>burake</i> <i>bombo</i> (‘officiant of the shade’) or <i>to</i> <i>burake</i> <i>matampu’</i> (‘officiant of the setting sun’) (Nooy Palm 1979: 280). Descended from a slave, he is on the margins of society, lives in isolation and has the right to attend only funeral rituals. This function was effected by a slave in the south of the Toraja country. He is the most important officiant at the first funeral celebration after which, at the second celebration, he yields his place to the <i>to</i> <i>minaa</i>.]]></COMMENTAIRE>
+			<NIVEAU>0</NIVEAU>
+			<ORDRE>25</ORDRE>
+			<TYPE_ILLUSTRATION>IMAGE SEULE</TYPE_ILLUSTRATION>
+				<LEGENDE><![CDATA[The death wrapper, <i>to</i> <i>mebalun</i>, with the widow at Ne’Sulo’s funeral, 2000.]]></LEGENDE>
+				<FICHIER>
+					<ADRESSE>MEDIAS\IMAGES\COUCHANT\IMAGES OB\2179.JPG</ADRESSE>
+					<TYPE>IMAGE</TYPE>
+				</FICHIER>
+			<ANTECEDENT id="118">
+				<TITRE><![CDATA[Officiant sacrificing.]]></TITRE>
+				<COMMENTAIRE><![CDATA[At the funerals I attended (October 1993 and May 2000), the mortician, about fifty years old, was called on for the second day of the celebration. This man, gloomy and always busy, is not very approachable. His role is to attend to the deceased and the widow or widower. His tasks are many: he rolls up the corpse and feeds it, constructs all types of objects, has the widow(er) undergo the rites of passage, and must sacrifice a large number of piglets which he cooks as a gift to the deceased.]]></COMMENTAIRE>
+				<TYPE_ANTECEDENT>PERTINENT</TYPE_ANTECEDENT>
+					<TYPE_ILLUSTRATION>SERIE 1 FENETRE</TYPE_ILLUSTRATION>
+					<SERIE_1_FENETRE>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: The <i>to</i> <i>mebalun</i> sacrificing a piglet during Ne' Sulo’s funeral, To' Barana', 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S55.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[VIDEO: The <i>to</i> <i>mebalun</i> making an outlet to evacuate the deceased Ne’Sulo’s sanies for the rite <i>ma'pasusu</i> (‘collecting the milk’), May 2000.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>S58.flv</ADRESSE>
+								<TYPE>VIDEO</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[The funeral officiant with the widower, Randanan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\JEUN VEUF\0789.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[To sacrifice, Randanan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\ALUK TO MATE\0730.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pig sacrifice by the <i>to</i> <i>mebalun</i>, Randanan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\ALUK TO MATE\0725.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pig sacrifice by the <i>to</i> <i>mebalun</i>, Randanan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\ALUK TO MATE\0728.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pig sacrifice by the <i>to</i> <i>mebalun</i>, Randanan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\ALUK TO MATE\0729.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pig sacrifice by the <i>to</i> <i>mebalun</i>, Randanan, 1993.]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\ALUK TO MATE\0735.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+						<Donnee_Media>
+							<LEGENDE><![CDATA[Pig sacrifice by the <i>to</i> <i>mebalun</i>, Randanan, 1993.
+<b>§§</b>]]></LEGENDE>
+							<FICHIER>
+								<ADRESSE>MEDIAS\IMAGES\COUCHANT\ALUK TO MATE\0731.JPG</ADRESSE>
+								<TYPE>IMAGE</TYPE>
+							</FICHIER>
+							<FICHIER>
+								<ADRESSE></ADRESSE>
+								<TYPE>SON</TYPE>
+							</FICHIER>
+						</Donnee_Media>
+					</SERIE_1_FENETRE>
+			</ANTECEDENT>
+		</PROPOSITION>
+	</ETAPE>
+</ARTICLE>
